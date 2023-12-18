@@ -3,7 +3,7 @@
 <!--begin::Head-->
 
 <head>
-	<title>iBlocks Online - Project Based Learning</title>
+	<title>Project Luminary - Data based Projections</title>
 	<meta charset="utf-8" />
 	<meta name="description"
 		content="Spark inspiration with iBlocks – experiential PBL activities that engage students in critical thinking, teamwork, and fun!" />
@@ -70,32 +70,25 @@
 				<!--begin::Content-->
 				<div class="d-flex flex-column flex-center py-7 py-lg-15 px-5 px-md-15 w-100">
 					<!--begin::Logo-->
-					<a href="index.html" class="mb-0 mb-lg-12">
+					<!-- <a href="index.html" class="mb-0 mb-lg-12">
 						<img alt="Teq" src="/assets/media/logos/online_iblocks_Logo.png" class="h-150px h-lg-150px" />
-					</a>
+					</a> -->
 					<!--end::Logo-->
 					<!--begin::Title-->
-					<h1 class="d-none d-lg-block text-white fs-2qx fw-bolder mb-1 text-start w-500px">The iBlock
-						Advantage
+					<h1 class="d-none d-lg-block text-white fs-2qx fw-bolder mb-1 text-start w-500px">Project Luminary
 					</h1>
 					<!--end::Title-->
 					<!--begin::SubTitle-->
-					<h1 class="d-none d-lg-block text-primary fs-2 fw-bolder mb-2 w-500px">An iBlock is a Project-based
-						learning
-						experience, ready to launch in any K-12 environment.</h1>
+					<h1 class="d-none d-lg-block text-primary fs-2 fw-bolder mb-2 w-500px">Like the stars, the possibilities are endless.</h1>
 					<!--end::SubTitle-->
 					<!--begin::Text-->
-					<div class="d-none d-lg-block text-white fs-5 mb-7 w-500px">We have over 40 topics available in our
-						library,
-						including sequences that grow with your students as they develop 21st century skills and
-						academic knowledge
-						in areas like coding, robotics, advanced literacy, and more.
+					<div class="d-none d-lg-block text-white fs-5 mb-7 w-500px">This is a site I am developing. Who knows what it will be. The future is bright.
 					</div>
 					<!--end::Text-->
 
 					<!--begin::Image-->
-					<img class="d-none d-lg-block mx-auto w-300px w-md-50 w-xl-550px mb-10 mb-lg-20 w-xxl-550px"
-						src="assets/media/misc/auth-screens3.png" alt="iBloks Online" />
+					<!-- <img class="d-none d-lg-block mx-auto w-300px w-md-50 w-xl-550px mb-10 mb-lg-20 w-xxl-550px"
+						src="assets/media/misc/auth-screens3.png" alt="iBloks Online" /> -->
 					<!--end::Image-->
 
 				</div>
@@ -125,7 +118,7 @@
 										<?php if(isset($_GET['teacher'])) { ?> aria-expanded="true" <?php } else { ?>
 										aria-expanded="false" <?php } ?> aria-controls="kt_accordion_1_body_1">
 										<img alt="Teacher" src="/assets/media/svg/general/teacher.svg"
-											class="h-35px me-3" />Are you a Teacher? </button>
+											class="h-35px me-3" />Are you a Admin? </button>
 								</h2>
 								<div id="kt_accordion_1_body_1"
 									class="accordion-collapse collapse <?php if(isset($_GET['teacher'])) { ?>show<?php } ?>"
@@ -167,8 +160,7 @@
 											<div class="d-flex flex-stack flex-wrap gap-3 fs-base fw-semibold mb-8">
 												<div></div>
 												<!--begin::Link-->
-												<a href="/staff/forgot_password" class="link-primary">Forgot Password
-													?</a>
+												<a href="/staff/forgot_password" class="link-primary">Forgot Password?</a>
 												<!--end::Link-->
 											</div>
 											<!--end::Wrapper-->
@@ -231,7 +223,7 @@
 										<?php if(isset($_GET['student'])) { ?> aria-expanded="true" <?php } else { ?>
 										aria-expanded="false" <?php } ?> aria-controls="kt_accordion_1_body_2">
 										<img alt="Student" src="/assets/media/svg/general/student.svg"
-											class="h-35px me-3" />Are you a Student? </button>
+											class="h-35px me-3" />Are you Staff? </button>
 								</h2>
 								<div id="kt_accordion_1_body_2"
 									class="accordion-collapse collapse <?php if(isset($_GET['student'])) { ?>show<?php } ?>"
@@ -270,7 +262,7 @@
 											<div class="d-flex flex-stack flex-wrap gap-3 fs-base fw-semibold mb-8">
 												<div></div>
 												<!--begin::Link-->
-												<a href="reset-password.html" class="link-primary">Forgot Password ?</a>
+												<a href="reset-password.html" class="link-primary">Forgot Password?</a>
 												<!--end::Link-->
 											</div>
 											<!--end::Wrapper-->
@@ -295,8 +287,8 @@
 							<br>
 							<div class="w-500px fs-base fw-semibold mb-8">
 								<!--begin::Link-->
-								<a href="#" class="link-primary" data-bs-toggle="modal" data-bs-target="#kt_hubspot">Not
-									a member? Contact us.</a>
+								<!-- <a href="#" class="link-primary" data-bs-toggle="modal" data-bs-target="#kt_hubspot">Not
+									a member? Contact us.</a> -->
 								<!--end::Link-->
 							</div>
 						</div>
@@ -307,17 +299,14 @@
 					<!--end::Wrapper-->
 					<div class="mt-8 mb-12 align-content-center align-middle">
             <div class="w-500px">
-              <div class="align-middle fs-5 text-gray-700">The platform makes it easy for students to record
-                information, iterate ideas, log progress, and more. Plus, it saves teachers time by taking the guess
-                work out of planning and implementing complex projects. Student progress is saved and accessible at the
-                touch of a button, allowing educators to support individualized learning while encouraging both
-                self-sufficiency and collaboration.
+              <div class="align-middle fs-5 text-gray-700">The platform makes it easy for you to do whatever you want. I am still building it. Its me. I am building it. I am the one. I
+				will see how it will turn out.
               </div>
             </div>
           </div>
 
 
-          <div class="w-500px d-flex">
+          <!-- <div class="w-500px d-flex">
             <div class="col-4 ">
               <script src="https://fast.wistia.com/embed/medias/rxo9yi4rya.jsonp" async></script>
               <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
@@ -332,10 +321,10 @@
               <h5 class="text-dark mb-3 fw-normal">Play this video for a complete overview of the entire teacher
                 features and capabilities.</h5>
             </div>
-          </div>
+          </div> -->
 
 
-          <div class="separator my-8 w-500px"></div>
+          <!-- <div class="separator my-8 w-500px"></div>
 
           <div class="w-500px d-flex mb-10">
             <div class="col-4 ">
@@ -353,14 +342,14 @@
                 features and capabilities.</h5>
             </div>
 
-          </div>
+          </div> -->
         </div>
         <!--end::Form-->
 				<!--begin::Footer-->
 				<div class="d-flex flex-center flex-wrap px-5">
 					<!--begin::Links-->
 					<div class="d-flex fw-semibold text-primary fs-base">
-						<a href="https://iblocks.com/teq-privacy-policy/" class="px-5" target="_blank">Privacy
+						<a href="#" class="px-5" target="_blank">Privacy
 							Policy</a>
 					</div>
 					<!--end::Links-->
