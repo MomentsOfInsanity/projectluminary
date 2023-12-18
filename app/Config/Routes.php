@@ -37,18 +37,10 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
-$routes->get('/alt-welcome', 'Home::hello');
-$routes->get('/teqadmin/welcome', 'TeqAdmin::index');
-$routes->get('/teqadmin/alt-welcome', 'TeqAdmin::alt_welcome');
-$routes->get('/teqadmin/test-search', 'TeqAdmin::test_search');
 $routes->get('/admin/home', 'Admin::home',['as' => 'logged_in_teqadmin']);
 $routes->get('/staff/home', 'Staff::home',['as' => 'logged_in_school_user']);
 // $routes->get('/district/home', 'District::home',['as' => 'logged_in_da']);
 // $routes->get('/student/home', 'Student::home',['as' => 'logged_in_student']);
-$routes->get('/student/iblock-resetpass', 'Student::resetpass',['as' => 'student_first_login']);
-$routes->get('/student/iblock-home', 'Student::home',['as' => 'logged_in_student_pin']);
-$routes->get('/student/iblock-resetpass-error', 'Student::resetpass/1',['as' => 'resetpass_error']);
-$routes->get('/student/iblock-password-match-error', 'Student::resetpass/2',['as' => 'resetpass_error_passmatch']);
 // $routes->get('/pages', 'Pages::index');
 // $routes->get('/pages/showme', 'Pages::showme');
 
