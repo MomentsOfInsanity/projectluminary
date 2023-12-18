@@ -10,4 +10,9 @@ class Home extends BaseController
         return view('/templates/sign-in');
         
     }
+
+    public function testfunc()
+    {
+        echo "testfunc";
+    }
 }
