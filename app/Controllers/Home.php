@@ -11,8 +11,8 @@ class Home extends BaseController
         
     }
 
-    public function testfunc()
+    public function mainHome()
     {
-        echo "testfunc";
+        echo "Hello World!";
     }
 }
