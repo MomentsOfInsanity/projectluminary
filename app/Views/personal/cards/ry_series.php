@@ -320,7 +320,7 @@
                         <tr>
                             <td class="cen"><a href="/card/ry">R Y</a></td>
                             <td class="cen">120</td>
-                            <td class="cen"><a href="/card/ry"><img src="/assets/media/personal/cards/RY/RYLogo.png" border="0"></a></td>
+                            <td class="cen"><a href="/card/ry"><img src="/assets/media/personal/cards/RY/RYLogo.png" border="0" style="width: 60px;"></a></td>
                         </tr>
                     </tbody>
                 </table>
