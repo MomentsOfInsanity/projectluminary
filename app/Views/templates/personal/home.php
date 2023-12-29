@@ -601,15 +601,15 @@
                 <div class="post">
                     <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Pinned: Building in Progress</a></h2>
                     <p class="info"><span class="date">12-28-2023 09:00 PM EST</span> by <span class="user"><a
-                                href="mailto:webmaster@serebii.net">Asura</a></span>.</p>
+                                href="mailto:raj.j.bedi@gmail.com">Asura</a></span>.</p>
                     <p>This is a site for me to experiment and build on. Here is a weather API connected to my github. It will update automatically.<br>
                         <b>Last Update:</b> 09:00 PM EST</p>
 
                     <div class="subcat">
                         <h3>WEATHER and DAY UPDATE</h3>
                         <p class="title">Chatting with Raj</p>
-                        <p><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
-                                alt="Weather chat" loading="lazy">
+                        <p><a href="https://github.com/MomentsOfInsanity"><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
+                                alt="Weather chat" loading="lazy"></a>
                         </p>
                     </div>
 
