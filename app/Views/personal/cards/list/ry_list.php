@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/personal/dexy-new.css" type="text/css">
 <div id="content">
 
     <main>

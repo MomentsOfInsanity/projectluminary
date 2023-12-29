@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="/assets/css/personal/dexy-new.css" type="text/css">
 <div id="content">
     <!-- <div class="center" style="margin-top:16px;height:100px">
                 <div id="nn_lb1"></div>
