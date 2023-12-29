@@ -597,10 +597,10 @@
 
 
         <div id="content">
-            <div class="center" style="margin-top:16px;height:100px">
+            <!-- <div class="center" style="margin-top:16px;height:100px">
                 <div id="nn_lb1"></div>
                 <div id="nn_mobile_lb1"></div>
-            </div>
+            </div> -->
             <main>
 
                 <div class="post">
