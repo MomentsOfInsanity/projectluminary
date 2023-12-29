@@ -6,8 +6,13 @@ class Card extends BaseController
 {
     public function RY()
     {
-        // return view('/personal/cards/ry_series');
         $this->template('/personal/cards/ry_series');
+    }
+
+    public function ry_list()
+    {
+
+        $this->template('/personal/cards/list/ry_list');
     }
 
 }

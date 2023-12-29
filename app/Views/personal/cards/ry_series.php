@@ -33,7 +33,7 @@
                     <td class="fooevo">Logo</td>
                 </tr>
                 <tr>
-                    <td class="cen"><a href="/card/ry">R Y</a></td>
+                    <td class="cen"><a href="/card/ry_list">R Y</a></td>
                     <td class="cen">120</td>
                     <td class="cen"><a href="/card/ry"><img src="/assets/media/personal/cards/RY/RYLogo.png" border="0"
                                 style="width: 60px;"></a></td>
