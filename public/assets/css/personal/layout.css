@@ -166,7 +166,7 @@ table.center{
 
 /* header */
 #header .banner{
-	background:#111111 url('/BannerBg.jpg') repeat-x;
+	background:#111111 url('https://www.serebii.net/BannerBg.jpg') repeat-x;
 	width:100%;
 	text-align:center;
 }
