@@ -86,7 +86,7 @@
 </script> -->
 <header id="header">
 	<div class="banner">
-		<a href="/"><img src="https://www.serebii.net/Banner.jpg" alt="Serebii.net Header" style="height:139px"></a>
+		<!-- <a href="/"><img src="https://www.serebii.net/Banner.jpg" alt="Serebii.net Header" style="height:139px"></a> -->
 	</div>
 
 	<nav class="quicklinks">
