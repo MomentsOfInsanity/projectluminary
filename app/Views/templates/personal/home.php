@@ -94,12 +94,12 @@
         <nav class="quicklinks">
             <ul>
                 <li><b>Quick Links </b></li>
-                <li><a href="/">- Home</a></li>
-                <li><a href="https://github.com/MomentsOfInsanity" target="_blank"> - GitHub</a></li>
-                <li><a href="https://youaremyeverything.net/" target="_blank"> - Cortex</a></li>
-                <li><a href="https://www.financeofthings.net/" target="_blank"> - Finance of Things</a></li>
-                <li><a href="https://www.youtube.com/@projectembers" target="_blank"> - ProjectEmbers(YT)</a></li>
-                <li><a href="https://www.youtube.com/@momentsofinsanity" target="_blank"> - Moments of Insanity(YT)</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="https://github.com/MomentsOfInsanity" target="_blank">GitHub</a></li>
+                <li><a href="https://youaremyeverything.net/" target="_blank">Cortex</a></li>
+                <li><a href="https://www.financeofthings.net/" target="_blank">Finance of Things</a></li>
+                <li><a href="https://www.youtube.com/@projectembers" target="_blank">ProjectEmbers(YT)</a></li>
+                <li><a href="https://www.youtube.com/@momentsofinsanity" target="_blank">Moments of Insanity(YT)</a></li>
 
 
             </ul>
