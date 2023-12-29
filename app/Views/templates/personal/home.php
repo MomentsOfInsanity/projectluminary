@@ -608,7 +608,7 @@
                     <div class="subcat">
                         <h3>WEATHER and DAY UPDATE</h3>
                         <p class="title">Chatting with Raj</p>
-                        <p><a href="https://github.com/MomentsOfInsanity"><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
+                        <p><a href="https://github.com/MomentsOfInsanity" target="_blank"><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
                                 alt="Weather chat" loading="lazy"></a>
                         </p>
                     </div>
