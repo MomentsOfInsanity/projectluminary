@@ -1,0 +1,78 @@
+.post, .signature {
+	color: #fff;
+	clear: both; /*NOTE:possible alignment issues with this*/
+	padding: 1em 0;
+}
+
+.post a, .post a:link {
+	text-decoration:underline;
+}
+
+.post p {
+	margin: 0 0 0.5em 0;
+	padding: 0;
+	text-size-adjust: none;
+}
+
+.post h2 {
+	font-size: 150% !important;
+	margin: 0;
+	padding: 0;
+}
+
+.post h3 {
+	border-bottom: 1px solid #42AD4A;
+	max-width:320px;
+	font-size: 105% !important;
+	margin: 0;
+	padding: 0;
+}
+
+.post h2 a, .post h2 a:link, .post .info a {
+	text-decoration:none;
+}
+
+.post .info {
+	border-top: 2px solid #42AD4A;
+	color: #e5e5e5;
+	font-size: 100%;
+	text-align: right;
+	margin-bottom: 0.5em;
+}
+
+.post .subcat {
+	margin:1em 0 0 2em;
+}
+
+.post .subcat li {
+	margin: 2px 0 2px 0;
+}
+
+.post .pics {
+	margin:1em 0 1em 1em;
+	float: right;
+	min-height:150px;
+}
+.post .subcat:after { /* clear the float */
+	content:" ";
+	visibility:hidden;
+	display:block;
+	height:0;
+	clear:both;
+}
+
+
+.post .title{
+	font-style: italic;
+	border-left: 0.5em solid #42AD4A;
+	padding-left: 4px;
+}
+
+.signature{
+	background: url('https://www.serebii.net/anime/pokemon/251.gif') no-repeat center;
+	height:165px;
+	font-style: italic;
+}
+.signature:before{
+	content:'Until Next Time, See Ya';
+}

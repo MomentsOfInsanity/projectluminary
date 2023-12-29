@@ -13,6 +13,6 @@ class Home extends BaseController
 
     public function mainHome()
     {
-        echo "Hello World!";
+        return view('/templates/personal/home');
     }
 }
