@@ -16,8 +16,4 @@ class Home extends BaseController
         return view('/templates/personal/home');
     }
 
-    public function renderTest()
-    {
-        return view('/templates/personal/test');
-    }
 }
