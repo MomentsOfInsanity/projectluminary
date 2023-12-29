@@ -21,6 +21,10 @@ use Psr\Log\LoggerInterface;
  */
 abstract class BaseController extends Controller
 {
+    protected $_layout = 'layouts/admin/layout';
+
+    protected $_layoutData = array();
+    protected $_viewData = array();
     /**
      * Instance of the main Request object.
      *
@@ -35,16 +39,10 @@ abstract class BaseController extends Controller
      *
      * @var array
      */
-    protected $helpers = [];
+    protected $helpers = ['form'];
 
     /**
-     * Be sure to declare properties for any property fetch you initialized.
-     * The creation of dynamic property is deprecated in PHP 8.2.
-     */
-    // protected $session;
-
-    /**
-     * @return void
+     * Constructor.
      */
     public function initController(RequestInterface $request, ResponseInterface $response, LoggerInterface $logger)
     {
@@ -55,4 +53,67 @@ abstract class BaseController extends Controller
 
         // E.g.: $this->session = \Config\Services::session();
     }
+
+    function addViewData($name,$value = NULL) {
+        if (is_array($name)) {
+            $this->_viewData = $name;
+        }
+        else {
+            $this->_viewData[$name] = $value;
+        }
+    }
+
+
+    function template($view, $data = NULL) {
+        if (!empty($data)) {
+            $viewData = array_merge($data,$this->_viewData);
+        }
+        else {
+            $data = array();
+            $viewData = array_merge($data,$this->_viewData);
+        }
+        $content_for_layout = view($view,$viewData);
+        if (!empty($this->_layout)) {
+            $this->_layoutData['content_for_layout'] = $content_for_layout;
+           // $this->_layoutData['user_logged_in'] = $this->session->userdata('loggedin');
+            // $this->_layoutData['user'] = $this->getUser();
+            //$this->_layoutData['spoofed'] = $this->session->userdata('spoofed');
+            //$this->_layoutData['javascripts'] = $this->_javascripts;
+            //$this->_layoutData['cssfiles'] = $this->_cssfiles;
+            /*$this->_layoutData['title_for_layout'] = $this->_title;
+            if (!empty($this->_bodyClasses)) {
+                $this->_layoutData['bodyClasses'] = $this->_bodyClasses;
+            }
+            $popupmessage = $this->session->userdata('popupmessage');
+            if (!empty($popupmessage) && !$this->_isXHTTPRequest) {
+                $this->_layoutData['popupmessage'] = $popupmessage;
+                $this->session->unset_userdata('popupmessage');
+            }
+            $modalpopupmessage = $this->session->userdata('modalpopupmessage');
+            if (!empty($modalpopupmessage) && !$this->_isXHTTPRequest) {
+                $this->_layoutData['modalpopupmessage'] = $modalpopupmessage;
+                $this->session->unset_userdata('modalpopupmessage');
+            }
+            $this->_layoutData['current_module'] = $this->uri->segment(1,'default');
+            $this->_layoutData['current_section'] = $this->uri->rsegment(1);
+            $this->_layoutData['current_action'] = $this->uri->rsegment(2);*/
+            $content = view($this->_layout,$this->_layoutData);
+        }
+        else {
+            $content = $content_for_layout;
+        }
+
+        
+            echo $content;
+        
+        
+        
+
+    }
+
+    
+
+    
+
+    
 }
