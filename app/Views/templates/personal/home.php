@@ -107,11 +107,6 @@
                 <a href="#lbar" class="navheader" id="tbar_lbar_open"><img src="/hidden/2019-04/burger.svg"></a>
             </li>
             <li>
-                <form id="searchbox_018410473690156091934:6gahkiyodbi" action="/search.shtml" style="margin:0px;">
-                    <input type="hidden" name="cx" value="018410473690156091934:6gahkiyodbi">
-                    <input type="hidden" name="cof" value="FORID:11">
-                    <input name="q" type="search" placeholder="Search Serebii.net...">
-                </form>
             </li>
             <li>
                 <a href="#rbar" class="navheader" id="tbar_rbar_open" style="padding-right:20px"><img
@@ -604,21 +599,17 @@
             <main>
 
                 <div class="post">
-                    <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Thursday: Pokémon Concierge -
-                            Release</a></h2>
-                    <p class="info"><span class="date">28-12-2023 08:00 GMT / 03:00 EST</span> by <span class="user"><a
-                                href="mailto:webmaster@serebii.net">Serebii</a></span>.</p>
-                    <p>This update will be amended throughout the day so be sure to check back. If you have any ideas
-                        for the site, be sure to send them in.<br>
-                        <b>Last Update:</b> 09:01 GMT</p>
+                    <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Pinned: Building in Progress</a></h2>
+                    <p class="info"><span class="date">12-28-2023 09:00 PM EST</span> by <span class="user"><a
+                                href="mailto:webmaster@serebii.net">Asura</a></span>.</p>
+                    <p>This is a site for me to experiment and build on. Here is a weather API connected to my github. It will update automatically.<br>
+                        <b>Last Update:</b> 09:00 PM EST</p>
 
-                    <div class="pics"><a href="/pokemonconcierge/"><img src="/pokemonconcierge/title2.jpg" width="300"
-                                alt="Pokémon Concierge" loading="lazy"></a></div>
                     <div class="subcat">
-                        <h3>In The TV Department</h3>
-                        <p class="title">Pokémon Concierge</p>
+                        <h3>WEATHER and DAY UPDATE</h3>
+                        <p class="title">Chatting with Raj</p>
                         <p><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
-                                alt="Pokémon Concierge" loading="lazy">
+                                alt="Weather chat" loading="lazy">
                         </p>
                     </div>
 
