@@ -603,6 +603,30 @@
             </div>
             <main>
 
+                <div class="post">
+                    <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Thursday: Pokémon Concierge -
+                            Release</a></h2>
+                    <p class="info"><span class="date">28-12-2023 08:00 GMT / 03:00 EST</span> by <span class="user"><a
+                                href="mailto:webmaster@serebii.net">Serebii</a></span>.</p>
+                    <p>This update will be amended throughout the day so be sure to check back. If you have any ideas
+                        for the site, be sure to send them in.<br>
+                        <b>Last Update:</b> 09:01 GMT</p>
+
+                    <div class="pics"><a href="/pokemonconcierge/"><img src="/pokemonconcierge/title2.jpg" width="300"
+                                alt="Pokémon Concierge" loading="lazy"></a></div>
+                    <div class="subcat">
+                        <h3>In The TV Department</h3>
+                        <p class="title">Pokémon Concierge</p>
+                        <p><img src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg" width="300"
+                                alt="Pokémon Concierge" loading="lazy">
+                        </p>
+                    </div>
+
+
+
+
+                </div>
+
 
                 <div class="post">
                     <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Thursday: Pokémon Concierge -
@@ -642,6 +666,7 @@
                     <div align="center"><img src="/anime/pokemon/251.gif" width="131" height="165" border="0"></div>
                     <p></p>
                 </div>
+                
 
                 
 
