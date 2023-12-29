@@ -301,14 +301,13 @@
 
 
                 <p align="center">
-                    <font size="3"><b><u>X &amp; Y Series</u></b></font>
+                    <font size="3"><b><u>R &amp; Y Series</u></b></font>
                 </p>
 
 
-                <p>The following card sets are the Pokémon Card sets released during the fifth generation period.
-                    Technically seperated into X &amp; Y sets, these sets cover the sixth generation cards. These focus
-                    upon the sixth generation Pokémon and brought several returning mechanics to the fold including <a
-                        href="/card/dex/extra/ex.shtml">Pokémon EX</a> and Mega Evolution.</p>
+                <p>The following card sets are the RY Card sets released during the first generation period.
+                    Technically seperated into R &amp; Y sets, these sets cover the first generation cards. These focus
+                    upon the beginning phase of the RY project.</p>
 
                 <table class="tab" align="center">
                     <tbody>
