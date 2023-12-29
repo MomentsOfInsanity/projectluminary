@@ -122,72 +122,7 @@
 
         <nav id="lbar">
             <ul id="lbar_ul">
-                <li>
-                    <a href="/" class="navheader">Databases</a>
-                    <ul>
-                        <li><a href="/index2.shtml">News</a>
-                        </li>
-                        <li><a href="/archive.shtml">Archived news</a></li>
-                        <li><a href="/pokemon/"><b>Pokédex</b></a></li>
-                        <li><a href="/pokedex/">-Red/Blue Pokédex</a></li>
-                        <li><a href="/pokedex-gs/">-Gold/Silver Pokédex</a></li>
-                        <li><a href="/pokedex-rs/">-Ruby/Sapphire Pokédex</a></li>
-                        <li><a href="/pokedex-dp/">-Diamond/Pearl Pokédex</a></li>
-                        <li><a href="/pokedex-bw/">-Black/White Pokédex</a></li>
-                        <li><a href="/pokedex-xy/">-X &amp; Y Pokédex</a></li>
-                        <li><a href="/pokedex-sm/">-Sun &amp; Moon Pokédex</a></li>
-                        <li><a href="/pokedex-sm/">-Let's Go Pokédex</a></li>
-                        <li><a href="/pokedex-swsh/">-Sword &amp; Shield Pokédex</a></li>
-                        <li><a href="/pokedex-swsh/">-BDSP Pokédex</a></li>
-                        <li><a href="/pokedex-swsh/">-Legends Pokédex</a></li>
-                        <li><a href="/pokemongo/pokemon/">-GO Pokédex</a></li>
-                        <li><a href="/pokedex-sv/">-Scarlet &amp; Violet Pokédex</a></li>
-
-                        <li><strong>Attackdex</strong></li>
-                        <li><a href="/attackdex-rby/">-Gen 1 Attackdex</a></li>
-                        <li><a href="/attackdex-gs/">-Gen 2 Attackdex</a></li>
-                        <li><a href="/attackdex/">-Gen 3 Attackdex</a></li>
-                        <li><a href="/attackdex-dp/">-Gen 4 Attackdex</a></li>
-                        <li><a href="/attackdex-bw/">-Gen 5 Attackdex</a></li>
-                        <li><a href="/attackdex-xy/">-Gen 6 Attackdex</a></li>
-                        <li><a href="/attackdex-sm/">-Gen 7 Attackdex</a></li>
-                        <li><a href="/attackdex-swsh/">-Gen 8 Attackdex</a></li>
-                        <li><a href="/attackdex-sv/">-Gen 9 Attackdex</a></li>
-                        <li><a href="/itemdex/">ItemDex</a></li>
-                        <li><a href="/pokearth/">Pokéarth</a></li>
-                        <li><a href="/abilitydex/">Abilitydex</a></li>
-                        <li><a href="/spindex/">Spin-Off Pokédex</a></li>
-                        <li><a href="/spindex-dp/">Spin-Off Pokédex DP</a></li>
-                        <li><a href="/spindex-bw/">Spin-Off Pokédex BW</a></li>
-                        <li><a href="/card/dex/">Cardex</a></li>
-                        <li><a href="/movies/dex/">Cinematic Pokédex</a></li>
-                        <li><a href="/games/mechanics.shtml">Game Mechanics</a></li>
-                        <li><a href="/games/iv-calcsv.shtml">-Scarlet/Violet IV Calc.</a></li>
-                        <li><a href="/potw-sv">Pokémon of the Week</a></li>
-                        <li><a href="/potw-sv/">-9th Gen</a></li>
-                        <li><a href="/potw-swsh/">-8th Gen</a></li>
-                        <li><a href="/potw-sm/">-7th Gen</a></li>
-                        <li><a href="/pokemon/timeline.shtml">Pokémon Timeline</a></li>
-                        <li><a href="/pokemoncenter/">Pokémon Centers</a></li>
-                        <li><a href="/playpokemon">Pokémon Championship Series</a></li>
-                        <li><a href="/music/projectvoltage">Hatsune Miku Project Voltage</a></li>
-                        <li><a href="/pokemon/vangoghmuseum">Pokémon x Van Gogh</a></li>
-                        <li><a href="/pokemonday/">Pokémon Day</a></li>
-                        <li><a href="/presentations">Pokémon Presentations</a></li>
-                        <li><a href="/pokemonshirts/">Pokémon Shirts</a></li>
-                        <li><a href="/themeparks/">Theme Parks</a></li>
-                        <li><a href="https://forums.serebii.net" target="blank">Forums</a></li>
-                        <li><a href="http://advent.serebii.net" target="blank">Advent Calendar</a></li>
-
-                        <li><a href="/discord.shtml">Discord Chat</a></li>
-                        <li><a href="/games/currentevents.shtml">Current &amp; Upcoming Events</a></li>
-                        <li><a href="/events">Event Database</a></li>
-                        <li><a href="/scarletviolet/pokemon.shtml">9th Generation Pokémon</a></li>
-                        <li><a href="/scarletviolet/dlc-pokemon.shtml">-New Pokémon in DLC</a></li>
-                        <li><a href="/scarletviolet/paldeanforms.shtml">-Paldean Form Pokémon</a></li>
-
-                    </ul>
-                </li>
+                
 
                 <li>
                     <a href="/card/" class="navheader">Trading Cards</a>
@@ -284,37 +219,13 @@
 <?php echo $content_for_layout; ?>   
 
         <aside id="rbar">
-            <a href="/potw-sv/" class="navheader">Pokémon of the Week</a>
+            <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
                 <a href="/potw-sv/998.shtml"><img src="/potw-sv/998.jpg" alt="Pokémon of the Week" class="tbarpic"></a>
             </div>
-            <div class="navheader">Next In Japan</div>
-            <div>
-                <div align="center"><img src="/anime/NextOn/1271.jpg" class="tbarpic"></div>
-                Episode 35<br>
-                <b>A Duo in the Wilderness: Friede and Cap</b><br>
-                <div align="center"><img src="/anime/NextOn/1271-i.jpg" class="tbarpic"></div>
-                Airdate: 12/01/2024
-            </div>
-            <div class="navheader">Recently In USA</div>
-            <div>
-                <div align="center"><a href="/anime/epiguide/pokemon/sp1.shtml"><img src="/thedistantbluesky.jpg"
-                            class="tbarpic"></a></div><a href="/anime/epiguide/pokemon/sp1.shtml">
-                    Special<br>
-                    <b>Distant Blue Sky</b><br>
-                    <img src="/anime/synopsis.gif">Synopsis</a><br>
-                <a href="/anime/pictures/pokemon/sp.shtml"><img src="/anime/pictures.gif">Pictures</a><br>
-            </div>
-            <div class="navheader">Next In USA</div>
-            <div>
-                <div align="center"><a href="/anime/epiguide/pokemon2023/001.shtml"><img src="/1237.jpg"
-                            class="tbarpic"></a></div><a href="/anime/epiguide/pokemon2023/001.shtml">
-                    Episode 1<br>
-                    <b>The Pendant That Starts It All: Part One</b><br>
-                    Airdate: 23/02/24</a><br>
-                <a href="/anime/epiguide/pokemon2023/001.shtml"><img src="/anime/synopsis.gif">Synopsis</a><br>
-                <a href="/anime/pictures/pokemon2023/001.shtml"><img src="/anime/pictures.gif">Pictures</a><br>
-            </div>
+            
+            
+            
             <div class="navheader">Social Media</div>
             <div class="center">
                 <a href="http://www.facebook.com/SerebiiNetPage" target="blank"><img src="/Toolbar/headers/Facebook.png"
@@ -332,10 +243,7 @@
             </div>
             <div class="navheader">In Association With</div>
             <div class="center">
-                <a href="http://www.pocketmonsters.net/" target="blank" rel="nofollow"><img src="/Toolbar/pm.png"
-                        alt="#PM"></a><br>
-                <a href="http://www.legendarypokemon.net/" target="blank" rel="nofollow"><img src="/Toolbar/lpoke.png"
-                        alt="Legendary Pokémon"></a>
+                
             </div>
         </aside>
     </div>
@@ -343,10 +251,10 @@
         <div class="copyright">
             <a href="#top" alt="Top of Page" title="Top of Page" class="totop"></a>
 
-            All Content is © Copyright of Serebii.net 1999-2023. |
-            <a href="/privacy.shtml">Privacy Policy</a> |
+            All Content is © Copyright of projectluminary.net 2023. |
+            <a href="#">Privacy Policy</a> |
             <a class="nn-cmp-show" href="#">Manage Cookie Settings</a><br>
-            Pokémon and All Respective Names are Trademark &amp; © of Nintendo 1996-2023
+           Parts of site resembling Serebii.net used as reference © of 1999-2023.
         </div>
 
         <div style="height:102px">
