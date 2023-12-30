@@ -221,14 +221,14 @@
         <aside id="rbar">
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
-                <a href="/potw-sv/998.shtml"><img src="/potw-sv/998.jpg" alt="Pokémon of the Week" class="tbarpic"></a>
+                <a href="/potw-sv/998.shtml"><img src="/potw-sv/998.jpg" alt="Quote of the Week" class="tbarpic"></a>
             </div>
             
             
             
             <div class="navheader">Social Media</div>
             <div class="center">
-                <a href="http://www.facebook.com/SerebiiNetPage" target="blank"><img src="/Toolbar/headers/Facebook.png"
+                <!-- <a href="http://www.facebook.com/SerebiiNetPage" target="blank"><img src="/Toolbar/headers/Facebook.png"
                         width="30" alt="Facebook"></a>
                 <a href="http://www.twitter.com/SerebiiNet" target="blank"><img src="/Toolbar/headers/Twitter.png"
                         width="30" alt="Twitter"></a>
@@ -239,7 +239,7 @@
                 <a href="http://www.instagram.com/serebii" target="blank" rel="nofollow"><img
                         src="/Toolbar/headers/instagram.png" width="30" alt="Instagram"></a>
                 <a href="http://www.threads.net/@serebii" target="blank" rel="nofollow"><img
-                        src="/Toolbar/headers/threads.png" width="30" alt="Threads"></a>
+                        src="/Toolbar/headers/threads.png" width="30" alt="Threads"></a> -->
             </div>
             <div class="navheader">In Association With</div>
             <div class="center">

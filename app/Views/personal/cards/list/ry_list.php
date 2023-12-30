@@ -5,7 +5,7 @@
 
 
         <div align="center">
-            <h1>151</h1><br><img src="/card/logo/151.png" alt="Scarlet &amp; Violet">
+            <h1>RY</h1><br><img src="/card/logo/151.png" alt="R &amp; Y">
         </div>
         <p><img src="/card/logo/151-th.png" align="right" alt="Logo"><i>Release Date:</i> December 9th
             2023<br><i>Amount of Cards</i>: 120 (100 Normal, 20 Secret)</p>
@@ -26,7 +26,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>1 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -36,7 +36,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>2 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -46,7 +46,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>3 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -56,7 +56,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>4 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -66,7 +66,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>5 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -76,7 +76,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>6 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -85,10 +85,10 @@
                 <!-- 7/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>7 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/7.JPG"><img src="/assets/media/personal/cards/RY/7.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">Who would have thought my first ever concert would be black veil brides?!? Glad it was with you.</font>
                         </td>
                 </tr>
 
@@ -96,7 +96,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>8 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -107,7 +107,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>9 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -117,7 +117,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>10 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -127,7 +127,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>11 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -137,7 +137,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>12 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -146,10 +146,10 @@
                 <!-- 13/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>13 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/13.JPG"><img src="/assets/media/personal/cards/RY/13.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">"I seem to have loved you in numberless forms. In life after life, in age after age, forever."</font>
                         </td>
                 </tr>
 
@@ -157,7 +157,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>14 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -167,7 +167,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>15 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -177,7 +177,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>16 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -187,7 +187,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>17 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -197,7 +197,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>18 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -207,7 +207,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>19 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -216,20 +216,20 @@
                 <!-- 20/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>20 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/20.JPG"><img src="/assets/media/personal/cards/RY/20.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">Fairytales by Alexander Rybak is a song I listen to often cause baby you are my fairytale.</font>
                         </td>
                 </tr>
 
                 <!-- 21/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>21 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/21.JPG"><img src="/assets/media/personal/cards/RY/21.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">One of the first places I took you was a beach and we stared at the stars. It's not the prettiest but I tried to draw a beach lol.</font>
                         </td>
                 </tr>
 
@@ -237,7 +237,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>22 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -247,7 +247,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>23 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -257,7 +257,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>24 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -267,7 +267,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>25 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -277,7 +277,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>26 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -287,7 +287,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>27 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -297,7 +297,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>28 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -307,7 +307,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>29 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -317,7 +317,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>30 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -327,7 +327,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>31 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -337,7 +337,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>32 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -346,10 +346,10 @@
                 <!-- 33/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>33 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/33.JPG"><img src="/assets/media/personal/cards/RY/33.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">Random Reminder: You are the most beautiful womain in my life! Don't forget that.</font>
                         </td>
                 </tr>
 
@@ -357,7 +357,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>34 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -367,7 +367,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>35 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -377,7 +377,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>36 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -387,7 +387,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>37 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -396,10 +396,10 @@
                 <!-- 38/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>38 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/38.JPG"><img src="/assets/media/personal/cards/RY/38.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">Random Reminder: Drink more water!</font>
                         </td>
                 </tr>
 
@@ -407,7 +407,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>39 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -417,7 +417,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>40 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -427,7 +427,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>41 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -437,7 +437,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>42 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -447,7 +447,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>43 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -457,7 +457,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>44 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -466,10 +466,10 @@
                 <!-- 45/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>45 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/45.JPG"><img src="/assets/media/personal/cards/RY/45.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">The first thing I learned how to draw from a video was a rose. The first card I made was a rose.</font>
                         </td>
                 </tr>
 
@@ -477,7 +477,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>46 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -487,7 +487,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>47 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -497,7 +497,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>48 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -507,7 +507,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>49 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -517,7 +517,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>50 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -527,7 +527,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>51 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -537,7 +537,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>52 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -547,7 +547,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>53 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -557,7 +557,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>54 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -567,7 +567,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>55 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -577,7 +577,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>56 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -587,7 +587,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>57 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -597,7 +597,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>58 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -607,7 +607,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>59 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -617,7 +617,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>60 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -627,7 +627,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>61 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -637,7 +637,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>62 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -647,9 +647,9 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>63 / 100</td>
                     <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/63.JPG"><img src="/assets/media/personal/cards/RY/63.JPG"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">"I want you the way the sum wamts to own a piece of the night time sky."</font>
+                            <font size="2">"I want you the way the sun wants to own a piece of the night time sky."</font>
                         </td>
                 </tr>
 
@@ -657,7 +657,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>64 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -667,7 +667,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>65 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -677,7 +677,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>66 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -687,7 +687,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>67 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -697,7 +697,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>68 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -707,7 +707,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>69 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -717,7 +717,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>70 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -727,7 +727,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>71 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -737,7 +737,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>72 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -747,7 +747,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>73 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -757,7 +757,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>74 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -767,7 +767,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>75 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -777,7 +777,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>76 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -787,7 +787,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>77 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -797,7 +797,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>78 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -807,7 +807,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>79 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -817,7 +817,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>80 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -827,7 +827,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>81 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -837,7 +837,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>82 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -847,7 +847,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>83 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -857,7 +857,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>84 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -867,7 +867,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>85 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -877,7 +877,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>86 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -887,7 +887,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>87 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -897,7 +897,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>88 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -907,7 +907,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>89 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -917,7 +917,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>90 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -927,7 +927,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>91 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -937,7 +937,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>92 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -947,7 +947,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>93 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -957,7 +957,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>94 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -967,7 +967,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>95 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -976,10 +976,10 @@
                 <!-- 96/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>96 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/96.JPG"><img src="/assets/media/personal/cards/RY/96.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">Sometimes life can be as interesting as walking into a movie theatre with a gay moustache.</font>
                         </td>
                 </tr>
 
@@ -987,7 +987,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>97 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -997,7 +997,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>98 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1007,7 +1007,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>99 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1017,7 +1017,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>100 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1026,10 +1026,10 @@
                 <!-- 101/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>101 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/101.JPG"><img src="/assets/media/personal/cards/RY/101.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">A secret message will form after all the pieces have been gathered. What can it be?</font>
                         </td>
                 </tr>
 
@@ -1037,7 +1037,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>102 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1047,7 +1047,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>103 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1057,7 +1057,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>104 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1067,7 +1067,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>105 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1077,7 +1077,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>106 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1087,7 +1087,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>107 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1097,7 +1097,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>108 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1107,7 +1107,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>109 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1116,10 +1116,10 @@
                 <!-- 110/100 -->
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>110 / 100</td>
-                    <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                    <td width="142" class="cen"><a href="/assets/media/personal/cards/RY/110.JPG"><img src="/assets/media/personal/cards/RY/110.JPG"
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
-                            <font size="2">?</font>
+                            <font size="2">A secret message will form after all the pieces have been gathered. What can it be?</font>
                         </td>
                 </tr>
 
@@ -1127,7 +1127,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>111 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1137,7 +1137,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>112 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1147,7 +1147,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>113 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1157,7 +1157,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>114 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1167,7 +1167,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>115 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1177,7 +1177,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>116 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1187,7 +1187,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>117 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1197,7 +1197,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>118 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1207,7 +1207,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>119 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
@@ -1217,7 +1217,7 @@
                 <tr>
                     <td class="cen"><a href="/card/151/">RY</a><br>120 / 100</td>
                     <td width="142" class="cen"><a href="/card/151/001.shtml"><img src="/card/th/151/1.jpg"
-                                loading="lazy" border="0"></a></td>
+                                loading="lazy" border="0" style="width: 150px;"></a></td>
                     <td class="cen" width="20%">
                             <font size="2">?</font>
                         </td>
