@@ -8,7 +8,7 @@
         <div class="post">
             <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Pinned: Building in Progress</a></h2>
             <p class="info"><span class="date">12-28-2023 09:00 PM EST</span> by <span class="user"><a
-                        href="mailto:raj.j.bedi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             <p>This is a site for me to experiment and build on. Here is a weather API connected to my github. It will
                 update automatically.<br>
                 <b>Last Update:</b> 09:00 PM EST</p>
@@ -31,14 +31,17 @@
         <div class="post">
             <h2>Friday: Boys Hangout - Firepit</h2>
             <p class="info"><span class="date">12-29-2023 / 09:40 EST</span> by <span class="user"><a
-                        href="mailto:raj.j.bedi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/boys/fireplace.jpg"><img src="/assets/media/personal/boys/fireplace.jpg" width="300"
+            alt="Boys fireplace" loading="lazy"></a></div>
 
             <div class="subcat">
                 <h3>Hanging Out With...</h3>
                 <p class="title">Boys Hangout</p>
                 <p>Today was the first time we hanged out using a fire pit at glenn and phills house. I burned couple sticks and marshmallows.
                     I kebobed a pizza and made it nice and toasty. It was a chill experience. Joe phill and glenn was there. The fire was nice but was not warm enough
-                    to fully heat up everywhere. It was great hanging with the boys.
+                    to fully heat up everywhere. It was great hanging with the boys. Our feet got nice and toasty!
                 </p>
             </div>
 
