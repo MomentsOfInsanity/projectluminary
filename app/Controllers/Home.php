@@ -14,7 +14,7 @@ class Home extends BaseController
     public function mainHome()
     {
         // return view('/templates/personal/home');
-        $this->template('templates/personal/home');
+        $this->template('personal/home');
     }
 
 }

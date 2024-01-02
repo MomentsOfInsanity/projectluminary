@@ -27,6 +27,45 @@
 
         </div>
 
+        <div class="post">
+            <h2>Sunday: HAPPY NEW YEAR & HAPPY BIRTHDAY!</h2>
+            <p class="info"><span class="date">12-31-2023</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/NYE2023.jpg"><img src="/assets/media/personal/NYE2023.jpg" width="300"
+            alt="Group pic" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>I AM 26!</h3>
+                <p class="title">Happy New Year!</p>
+                <p>HAPPY BIRTHDAY! HAPPY NEW YEAR! I am 26 years old now. I am getting old. I am getting closer to 30. I am getting closer to death. I am getting closer to the end. 
+                    <br>
+                    That is funny. I have a auto suggest and man that auto suggest is dark. This was the first time I got to celebrate my birthday with the stunningly gorgeous Yu. 
+                    I got to meal a lot of old friends that I have not seen in ages like asha and rithika. I made some new friends as well! This was the first party I decided to go all out.
+                    I drank... I am saying 14 shots but it was a mix of vodka, tequila, malt, wine etc. It didn't go as planned as I forgot alcohol toxicity is a thing so I threw up.
+                    Luckily I threw it up so I was able to skip being drunk and hung over ~ I was able to enjoy the rest of the night. I really love yu. She took care of me and everyone
+                    at this part was so nice and friendly. Did I mention how beautiful she looked? 
+                    <br>
+                    <br>
+                    I also got cake and they spread it on my face.
+                </p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/cakeface.jpg"><img src="/assets/media/personal/cakeface.jpg" width="300"
+            alt="Cake on my face" loading="lazy"></a></div>
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
 
         <div class="post">
             <h2>Friday: Boys Hangout - Firepit</h2>
