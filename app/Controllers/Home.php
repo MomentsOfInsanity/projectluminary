@@ -17,4 +17,8 @@ class Home extends BaseController
         $this->template('personal/home');
     }
 
+    public function qotw(){
+        $this->template('personal/qotw');
+    }
+
 }

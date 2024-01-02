@@ -124,6 +124,15 @@
             <ul id="lbar_ul">
                 
 
+
+                <li>
+                    <a href="/card/" class="navheader">Quotes</a>
+                    <ul>
+                        <li><a href="/home/qotw">-Quote of the week</a></li>
+                        
+
+                    </ul>
+                </li>
                 <li>
                     <a href="/card/" class="navheader">Collections</a>
                     <ul>
@@ -221,7 +230,7 @@
         <aside id="rbar">
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
-                <a href="/potw-sv/998.shtml"><img src="/potw-sv/998.jpg" alt="Quote of the Week" class="tbarpic"></a>
+            “A year from now you may wish you had started today.” — Karen Lamb
             </div>
             
             
