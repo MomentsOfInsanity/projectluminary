@@ -18,7 +18,7 @@
                 <p class="title">Chatting with Raj</p>
                 <p><a href="https://github.com/MomentsOfInsanity" target="_blank"><img
                             src="https://raw.githubusercontent.com/MomentsOfInsanity/MomentsOfInsanity/main/chat.svg"
-                            width="300" alt="Weather chat" loading="lazy"></a>
+                            width="500" alt="Weather chat" loading="lazy"></a>
                 </p>
             </div>
 
