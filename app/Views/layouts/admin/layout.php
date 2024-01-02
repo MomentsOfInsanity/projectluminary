@@ -230,7 +230,9 @@
         <aside id="rbar">
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
-            “A year from now you may wish you had started today.” — Karen Lamb
+               <br> 
+           <p> “A year from now you may wish you had started today.” — Karen Lamb</p>
+            <br>
             </div>
             
             
