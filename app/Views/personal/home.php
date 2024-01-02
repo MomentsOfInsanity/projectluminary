@@ -41,7 +41,7 @@
                 <p>HAPPY BIRTHDAY! HAPPY NEW YEAR! I am 26 years old now. I am getting old. I am getting closer to 30. I am getting closer to death. I am getting closer to the end. 
                     <br>
                     That is funny. I have a auto suggest and man that auto suggest is dark. This was the first time I got to celebrate my birthday with the stunningly gorgeous Yu. 
-                    I got to meal a lot of old friends that I have not seen in ages like asha and rithika. I made some new friends as well! This was the first party I decided to go all out.
+                    I got to meet a lot of old friends that I have not seen in ages like asha and rithika. I made some new friends as well! This was the first party I decided to go all out.
                     I drank... I am saying 14 shots but it was a mix of vodka, tequila, malt, wine etc. It didn't go as planned as I forgot alcohol toxicity is a thing so I threw up.
                     Luckily I threw it up so I was able to skip being drunk and hung over ~ I was able to enjoy the rest of the night. I really love yu. She took care of me and everyone
                     at this part was so nice and friendly. Did I mention how beautiful she looked? 
