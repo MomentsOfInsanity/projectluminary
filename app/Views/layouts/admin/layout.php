@@ -125,7 +125,7 @@
                 
 
                 <li>
-                    <a href="/card/" class="navheader">Trading Cards</a>
+                    <a href="/card/" class="navheader">Collections</a>
                     <ul>
                         <li><a href="/card/ry">-RY Series</a></li>
                         
