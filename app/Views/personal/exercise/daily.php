@@ -72,7 +72,17 @@
                     <div class="cup cup-small">16.9 Oz</div>
                 </div>
                 <br>
-                <p>Phill has challenged me to do 5 miles in a month. The reward my self-satisfaction and a stock. It will be difficult but I shall try.</p>
+                <p>Phill has challenged me to do 5 miles in a month. The reward my self-satisfaction and a stock. It will be difficult but I shall try. <br>
+                I also want to be fit. My goal is to become like Chuando Tan. I am now 26. I need to start now. I procrastinated too much.
+                </p>
+                <br>
+                <br>
+                <h3>10,000 Crunches in 30 Days</h3>
+                <p>Day 1 - 0/140</p>
+                <br>
+                <br>
+                <h3>5 Miles by end of January</h3>
+                <p>Progress 0/5.0 Miles</p>
             </div>
 
 
