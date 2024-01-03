@@ -82,7 +82,9 @@
                 <br>
                 <br>
                 <h3>5 Miles by end of January</h3>
-                <p>Progress 0/5.0 Miles</p>
+                <p>Progress 0.60/5.00 Miles</p>
+                <br>
+                <p>My feet are tired. Hopefully I can keep consistent.</p>
             </div>
 
 
