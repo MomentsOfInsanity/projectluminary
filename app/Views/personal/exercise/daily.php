@@ -58,7 +58,7 @@
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
-                <h3>Starting the journey</h3>
+                <h3>Water Tracker</h3>
                 <p class="title">Better start somewhere</p>
                 <p class="text">Select how many glasses of water that you have drank</p>
                 <div class="cups">
