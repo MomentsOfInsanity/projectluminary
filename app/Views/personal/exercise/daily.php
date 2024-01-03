@@ -6,6 +6,7 @@
             <style>
                 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
 
+
 .cup {
   background-color: #fff;
   border: 4px solid var(--border-color);
@@ -23,8 +24,7 @@
   height: 95px;
   width: 50px;
   border-radius: 0 0 15px 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  cursor: pointer;
+  background-color: black;
   font-size: 14px;
   align-items: center;
   justify-content: center;
@@ -34,7 +34,7 @@
 }
 
 .cup.cup-small.full {
-  background-color: var(--fill-color);
+  background-color: lightblue;
   color: #fff;
 }
 
@@ -53,7 +53,7 @@
     <main>
 
         <div class="post">
-            <h2>Wednesday: Daily Progress</h2>
+            <h2>Wednesday: Daily Progress - 01-03-2024</h2>
             <p class="info"><span class="date">01-03-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
@@ -61,16 +61,18 @@
                 <h3>Starting the journey</h3>
                 <p class="title">Better start somewhere</p>
                 <p class="text">Select how many glasses of water that you have drank</p>
-<div class="cups">
-    <div class="cup cup-small full">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-    <div class="cup cup-small">250 ml</div>
-</div>
+                <div class="cups">
+                    <div class="cup cup-small full">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                </div>
+                <br>
+                <p>Phill has challenged me to do 5 miles in a month. The reward my self-satisfaction and a stock. It will be difficult but I shall try.</p>
             </div>
 
 
