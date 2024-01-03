@@ -28,6 +28,59 @@
         </div>
 
         <div class="post">
+            <h2>Tuesday: Searching for Couches</h2>
+            <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Hanging out with...</h3>
+                <p class="title">Search for the couches.</p>
+                <p>Today was a interesting day. It was my first day back to work. It was a bit tiring but I got throught it. I went to Glenn's after work.
+                    With Joe and Glenn we went to go look for couches. We had spent a good amount of time in Raymore and Flanigans. It was interesting to go through
+                    but we could not find a couch to meet the requirements. We then went to Ashley's and luckily we found a nice couch that Glenn might decide on later.
+                    I decided I am going to make more daily posts as well. Anything significant in my day. 
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Monday: Queens day</h2>
+            <p class="info"><span class="date">01-01-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Beginning of the month</h3>
+                <p class="title">Return to Queens.</p>
+                <p>Nothing much happened today. Got home from the New Years party. Then I went to Queens to pick up rent and garbage. Then I came home.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Sunday: HAPPY NEW YEAR & HAPPY BIRTHDAY!</h2>
             <p class="info"><span class="date">12-31-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>

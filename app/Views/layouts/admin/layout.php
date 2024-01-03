@@ -129,6 +129,7 @@
                     <a href="/card/" class="navheader">Quotes</a>
                     <ul>
                         <li><a href="/home/qotw">-Quote of the week</a></li>
+                        <li><a href="">Dads Quotes</a></li>
                         
 
                     </ul>
@@ -136,8 +137,9 @@
                 <li>
                     <a href="/card/" class="navheader">Collections</a>
                     <ul>
+                        <li><a href="">-Mini Scrolls</a></li>
+                        <li><a href="">-Moms Love Letters</a></li>
                         <li><a href="/card/ry">-RY Series</a></li>
-                        
 
                     </ul>
                 </li>
