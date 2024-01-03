@@ -146,7 +146,7 @@
                 <li>
                     <a href="/card/" class="navheader">Work Out Journal</a>
                     <ul>
-                        <li><a href="/exercise">-Daily</a></li>
+                        <li><a href="/exercise/dailyTracker">-Daily</a></li>
                         
 
                     </ul>
