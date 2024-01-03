@@ -143,6 +143,14 @@
 
                     </ul>
                 </li>
+                <li>
+                    <a href="/card/" class="navheader">Work Out Journal</a>
+                    <ul>
+                        <li><a href="/exercise">-Daily</a></li>
+                        
+
+                    </ul>
+                </li>
             </ul>
         </nav>
 
