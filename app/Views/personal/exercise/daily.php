@@ -53,6 +53,39 @@
     <main>
 
         <div class="post">
+            <h2>Thursday: Daily Progress - 01-04-2024</h2>
+            <p class="info"><span class="date">01-04-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Water Tracker</h3>
+                <p class="title">Total bottles per day</p>
+                <div class="cups">
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small">16.9 Oz</div>
+                </div>
+                <br>
+                <br>
+                <h3>5 Miles by end of January</h3>
+                <p>Progress 0.60/5.00 Miles</p>
+                <br>
+                <p>I am still tired from yesterday. I will not be running today.</p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <div class="post">
             <h2>Wednesday: Daily Progress - 01-03-2024</h2>
             <p class="info"><span class="date">01-03-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
