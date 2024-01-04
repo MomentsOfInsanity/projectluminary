@@ -63,8 +63,8 @@
                 <p class="text">Select how many glasses of water that you have drank</p>
                 <div class="cups">
                     <div class="cup cup-small full">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
+                    <div class="cup cup-small full">16.9 Oz</div>
+                    <div class="cup cup-small full">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
@@ -77,8 +77,9 @@
                 </p>
                 <br>
                 <br>
-                <h3>10,000 Crunches in 30 Days</h3>
-                <p>Day 1 - 0/140</p>
+                <h3>30 Crunches a Day</h3>
+                <p>Day 1 - 0/30</p>
+                <p>Changed from challenge to this. Didn't start this.</p>
                 <br>
                 <br>
                 <h3>5 Miles by end of January</h3>
