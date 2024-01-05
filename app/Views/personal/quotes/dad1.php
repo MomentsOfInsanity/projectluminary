@@ -499,6 +499,113 @@
         </div>
 
 
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 17</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>PROCRASTINATION IS ONE OF <br>
+                THE WORST HABITS ONE CAN <br>
+                HAVE, <br>
+                BY DELAYING OR POSTPONING <br>
+                THINGS, ONE DOES NOT ACHIEVE <br>
+                ANYTHING BECAUSE YOU WILL <br>
+                STILL HAVE TO DO IT, <br>
+                THEIRFORE, IT IS BETTER <br>
+                TO DO IT NOW THAN <br>
+                LATER!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 18</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>PRAYER IS THE MEDIUM <br>
+                BY WHICH WE COMMUNICATE <br>
+                WITH GOD, <br>
+                SO YOU MUST PRAY DAILY!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 19</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>DO NOT SQUANDER TIME, <br>
+                FOR, THAT IS THE STUFF, <br>
+                LIFE IS MADE OF!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 20</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p><u>GOD</u><br>
+                GRANT ME THE <u>SERENITY</u>, <br>
+                TO ACCEPT THE THINGS, <br>
+                I CANNOT CHANGE...<br>
+                <u>COURAGE</u> TO CHANGE THE,<br>
+                THINGS I CAN... <br>
+                AND THE <u>WISDOM</u> TO <br>
+                KNOW THE DIFFERENCE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
 
     </main>
 </div><!-- END #content -->
