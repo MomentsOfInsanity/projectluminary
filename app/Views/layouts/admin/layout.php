@@ -128,8 +128,8 @@
                 <li>
                     <a href="/card/" class="navheader">Quotes</a>
                     <ul>
-                        <li><a href="/home/qotw">-Quote of the week</a></li>
-                        <li><a href="">Dads Quotes</a></li>
+                        <li><a href="/quotes/qotw">-Quote of the week</a></li>
+                        <li><a href="/quotes/dad">Dads Quotes</a></li>
                         
 
                     </ul>
