@@ -6,7 +6,7 @@
     <main>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 1</a></h2>
+            <h2><a >PAGE 1</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -77,7 +77,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 2</a></h2>
+            <h2><a >PAGE 2</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -106,7 +106,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 3</a></h2>
+            <h2><a >PAGE 3</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -131,7 +131,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 4</a></h2>
+            <h2><a >PAGE 4</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -159,7 +159,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 5</a></h2>
+            <h2><a >PAGE 5</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -187,7 +187,7 @@
         
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 6</a></h2>
+            <h2><a >PAGE 6</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -214,7 +214,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 7</a></h2>
+            <h2><a >PAGE 7</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -242,7 +242,7 @@
         </div>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 8</a></h2>
+            <h2><a >PAGE 8</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -273,7 +273,7 @@
         </div>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 9</a></h2>
+            <h2><a >PAGE 9</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -297,7 +297,7 @@
         </div>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 10</a></h2>
+            <h2><a >PAGE 10</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -321,7 +321,7 @@
         </div>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 11 &amp; PAGE 12</a></h2>
+            <h2><a >PAGE 11 &amp; PAGE 12</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -369,7 +369,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 13</a></h2>
+            <h2><a >PAGE 13</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -394,7 +394,7 @@
         </div>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 14</a></h2>
+            <h2><a >PAGE 14</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -437,7 +437,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 15</a></h2>
+            <h2><a >PAGE 15</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -468,7 +468,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 16</a></h2>
+            <h2><a >PAGE 16</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -500,7 +500,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 17</a></h2>
+            <h2><a >PAGE 17</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -531,7 +531,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 18</a></h2>
+            <h2><a >PAGE 18</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -556,7 +556,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 19</a></h2>
+            <h2><a >PAGE 19</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -580,7 +580,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 20</a></h2>
+            <h2><a >PAGE 20</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -609,7 +609,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 21</a></h2>
+            <h2><a >PAGE 21</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -648,7 +648,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 22</a></h2>
+            <h2><a >PAGE 22</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -680,7 +680,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 23</a></h2>
+            <h2><a >PAGE 23</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -712,7 +712,7 @@
 
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 24</a></h2>
+            <h2><a >PAGE 24</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -726,6 +726,54 @@
                     THERE GOES I, <br>
                     BUT, FOR THE GRACE <br>
                     OF GOD!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 25</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE HARDER I WORK, <br>
+                    THE LUCKIER I GET!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 26</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE HARDER I WORK, <br>
+                    THE LUCKIER I GET!!
                 </p>
 
             </div>
