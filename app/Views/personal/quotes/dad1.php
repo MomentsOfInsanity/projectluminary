@@ -320,6 +320,184 @@
 
         </div>
 
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 11 &amp; PAGE 12</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <p>Page 1:</p>
+                <br>
+                <p>WHENEVER YOU FEEL DOWN <br>
+                AND NEED INSPIRATION, <br>
+                THINK OF THE STRUGGLE <br>
+                IN THE HISTORY OF FREE PEOPLE, <br>
+                THE 6YR OLD BLIND GIRL WHO <br>
+                DOES BARREL RACING, <br>
+                THE CYCLIST WHO WON FIVE <br>
+                TOUR DE FRANCE CHAMPIONSHIPS <br>
+                WHILE BATTLING CANCER, <br>
+                AND SO MANY OTHERS, <br>
+                IF YOU LOOK FOR IT....
+                </p>
+                <br>
+                <br>
+                <p>Page 2:</p>
+                <br>
+                <p>YOU MUST DO I/A ie <br>
+                INVENTORY AND ANALYSIS <br>
+                OF THE MARKERS OF LIFE 
+                ON A WEEKLY, <br>
+                MONTHLY, QUARTERLY, <br>
+                HALF YEARLY AND YEARLY!! <br>
+                BECAUSE YOU ARE EITHER <br>
+                MOVING UP OR DOWN, <br>
+                THEIR IS NO STAGNANT POINT!!
+
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 13</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>YOU HAVE STRUGGLED HARD <br>
+                AND COME SO FAR, <br>
+                SO YOU HAVE THE FIGHTER'S <br>
+                SPIRIT IN YOU, <br>
+                SO GO ON AND SUCCEED!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 14</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>YOU ARE THE ONE WHO <br>
+                SAID THAT THEIR ARE <br>
+                5 STEPS TO SUCCESS IN AMERICA. <br>
+                <ol>
+                    <li>ENTER AMERICA</li>
+                    <li>SURVIVE IN AMERICA</li>
+                    <li>GET LEGALIZED</li>
+                    <li>SURVIVE IN AMERICA</li>
+                    <li>SUCCEED IN AMERICA</li>
+                </ol> <br>
+                YOU HAVE ALREADY COMPLETED 
+                THE FIRST 4 STEPS, <br>
+                ALL YOU NEED TO DO IS TO <br>
+                PUSH HARD AND SUCCEED!!
+                </p>
+                <br>
+                <br>
+                <p><b>Update:</b> It's interesting to see my dads process to life. "The 5 Step Plan". 
+                He entered America, he survived in a place thats difficult to survive for immigrants. He didnt get citizenship but he did get legalized.
+                I just noticed he wrote survive in america twice. Man did some extra surviving lol. FIannly succeed... I don't think he ever saw himself as succeeding
+                but I think he did great for what he had against him. He was a great manager for Raagini. My mom and me succeeded where he couldn't for the opportunities he gave my mom, 
+                who was able to become strong and give me my opportunity to succeed.</p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 15</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>CLUTTER LEADS TO DISORGANIZATION <br>
+                WHICH CREATES OTHER <br>
+                COMPLICATIONS, <br>
+                THEIRFORE, GET RID OF <br>
+                UNWANTED ITEMS ON A <br>
+                REGULAR BASIS!!
+                </p>
+                <br>
+                <br>
+                <p><b>Update:</b> Not to throw my dad under the bus, but man while he kept things organized, he cluttered a lot of stuff.
+            I guess he always felt he could eventually use the items one day.</p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 16</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>TO BE EFFECTIVE ON A <br>
+                DAY TO DAY BASIS, YOU <br>
+                NEED TO BE ORGANIZED. <br>
+                FOR THAT YOU MUST MAINTAIN <br>
+                A MASTER LIST, WHICH YOU <br>
+                MUST REVIEW AND UPDATE AT <br>
+                LEAST ONCE A WEEK, <br>
+                THE OTHER ITEM IS YOUR <br>
+                DAILY DIARY WHICHT MUST <br>
+                BE REVIEWED DAILY AND <br>
+                UPDATED DAILY!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
 
 
     </main>
