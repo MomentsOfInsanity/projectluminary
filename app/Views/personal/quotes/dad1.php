@@ -607,5 +607,133 @@
 
         </div>
 
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 21</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p><u>FOOTPRINTS</u> <br>
+                One night a man had a dream. He dreamed he was walking along the beach with the LORD. Across the sky flashed 
+                scenes from his life. For each scene, he noticed two sets of footprints in the sand: one belonging to him,
+                and the other to the LORD.
+                </p>
+                <p>
+                    When the last scene of his life flashed before him, he looked back at the footprints in the sand. He noticed
+                    that many times along the path of his life there was only one set of footprints. He also noticed that it
+                    happened at the very lowest and saddest times in his life.
+                </p>
+                <p>
+                    This really bothered him and he questioned the LORD about it: "LORD, you said that once I decided to follow
+                    you, you'd walk with me all the way. But I have noticed that during the most troublesome times in my life,
+                    there is only one set of footprints. I don't understand why when I needed you most you would leave me."
+                </p>
+                <p>
+                    The LORD replied: "My son, my precious child, I love you and I would never leave you. During your times of
+                    trial and suffering, when you see only one set of footprints, it was then that I carried you."
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 22</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PLANNING IS ESSENTIAL TO <br>
+                    GET THE DESIRED OUTCOME <br>
+                    IN THE FUTURE, <br>
+                    BUT MOST IMPORTANT IS <br>
+                    THE THINKING YOU PUT IN <br>
+                    TO FIND ALL POSSIBLE SCENARIOS, <br>
+                    THEN CHOOSING THE BEST <br>
+                    SCENARIO, <br>
+                    AND ALWAYS KEEP A MARGIN <br>
+                    FOR ERROR!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 23</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    AS THE FAMOUS QUOTATION GOES, <br>
+                    THINK BEFORE YOU SPEAK, <br>
+                    LOOK BEFORE YOU LEAP!! <br>
+                    THEIRFORE, IN LIFE YOU <br>
+                    MUST DO ASSESSMENT OF HUMANS, <br>
+                    SITUATIONS, ETC, BEFORE YOU <br>
+                    MAKE A DECISION!! <br>
+                    DO NOT ASSUME, TAKE <br>
+                    THINGS FOR GRANTED OR <br>
+                    AT THEIR FACE VALUE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 24</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THERE GOES I, <br>
+                    BUT, FOR THE GRACE <br>
+                    OF GOD!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
     </main>
 </div><!-- END #content -->
