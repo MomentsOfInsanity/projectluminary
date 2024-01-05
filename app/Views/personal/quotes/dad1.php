@@ -6,7 +6,7 @@
     <main>
 
         <div class="post">
-            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">BOOK 1</a></h2>
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 1</a></h2>
             <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
@@ -16,7 +16,6 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>Page 1:</p>
                 <p>
                     <u>JAI SHREE KRISHNA</u><br>
                     <ul>
@@ -69,6 +68,251 @@
                 <p><b>Update:</b> These books are interesting. Much of it wont make sense to me. This was just a page of names religiously I think.
                     Also he writes everything in caps. I will also type the same in caps and post the pictues of the books later. Maybe one day i'll
                     get these pages translated. It is a mixture of non-english and english pages.</p>
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 2</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>DUKH MEIN SIMRAN <br>
+                SAB KARA, <br>
+                SUKH MEIN KARE <br>
+                NA KOI, <br>
+                JO SUKH MEIN <br>
+                SIMRAN KARE, <br>
+                PHIR DUKH KAHE <br>
+                KOI!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 3</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>TUMHIN HO MATA, <br>
+                PITA TUMHIN HO, <br>
+                TUMHIN HO BANDHU, <br>
+                SAKHA TUMHIN HO!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 4</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>ALWAYS FOLLOW YOUR <br>
+                DAILY SCHEDULE.... <br>
+                WRITE IT ON PAPER <br>
+                AND POST IT WHERE <br>
+                YOU CAN SEE IT <br>
+                EVERYDAY!! <br>
+                CHANGE IT AS YOUR SITUATION CHANGES!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 5</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>ALWAYS MAKE AND LIVE <br>
+                WITHIN YOUR BUDGET... <br>
+                WRITE IT ON PAPER AND <br>
+                POST IT WHERE YOU CAN <br>
+                SEE IT EVERYDAY!! <br>
+                CHANGE IT AS YOUR <br>
+                SITUATION CHANGES!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+        
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 6</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>WHAT LIES BEHIND US <br>
+                AND <br>
+                WHAT LIES BEFORE US <br>
+                ARE <br>
+                SMALL MATTERS COMPARED TO <br>
+                WHAT LIES WITHIN US!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 7</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>ONCE A WEEK, <br>
+                ON YOUR OFF DAY, <br>
+                CLEAN YOUR TEMPLE, <br>
+                DO YOUR PRAYERS, <br>
+                LISTEN TO KIRTAN, <br>
+                READ SCRIPTURESM, <br>
+                AND <br>
+                SEEK GUIDANCE FROM GOD!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 8</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p><u>5 INDRIES</u> <br>
+                <ol>
+                    <li>MOH</li>
+                    <li>MAYA</li>
+                    <li>KAAM</li>
+                    <li>KRODH</li>
+                    <li>AHANKAR</li>
+                </ol>
+                KEEP THESE INDRIES UNDER <br>
+                YOUR CONTROL AT ALL TIMES, <br>
+                AND LIFE WILL BE HAPPY!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 9</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>KHUND KO KAR BULUND ITNA, <br>
+                KI HAR MANZIL SE PEHLE, <br>
+                KUNDA BANDE SE KHUD POOCHE, <br>
+                BATA TERI RAZA KYA HAI!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">PAGE 10</a></h2>
+            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>AN IDEA IS A <br>
+                CURIOUS THING, <br>
+                IT WONT WORK <br>
+                UNLESS YOU DO!!
+                </p>
+
             </div>
 
 
