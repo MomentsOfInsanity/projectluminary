@@ -760,9 +760,35 @@
         </div>
 
 
+
+
         <div class="post">
             <h2><a >PAGE 26</a></h2>
-            <p class="info"><span class="date">01-05-2024</span> by <span class="user"><a
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>BUT ALSO REMEMBER, <br>
+                ALL WORK AND NO PLAY <br>
+                MAKES JACK A DULL <br>
+                BOY!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a >PAGE 27</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
 
@@ -772,8 +798,637 @@
                 
                 <br>
                 <p>
-                    THE HARDER I WORK, <br>
-                    THE LUCKIER I GET!!
+                    BALANCE IN ALL ASPECTS <br>
+                    OF LIFE, AND THEIRFORE, TO <br>
+                    ACHIEVE IT IN TOTALITY OF <br>
+                    LIFE IS EXTREMELY IMPORTANT!! <br>
+                    BECAUSE, ANYTHING EXTREME <br>
+                    HAS REPERCUSSIONS WHICH <br>
+                    ARE NOT PLEASANT!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 28</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    EARLY TO BED <br>
+                    EARLY TO RISE <br>
+                    MAKES A MAN <br>
+                    HEALTHY, <br>
+                    WELATHY, <br>
+                    AND, <br>
+                    WISE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 29</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    EACH DAY IS LIKE A WORK OF ART <br>
+                    THAT'S YET TO BE DESIGNED, <br>
+                    AN EMPTY CANVAS WAITING <br>
+                    FOR THE DREAMS THAT FILL YOUR MIND... <br>
+                    YOUR TALENTS AND YOUR STRENGTHS <br>
+                    ARE LIKE THE COLORS YOU CAN USE <br>
+                    TO PAINT THE PICTURES OF YOUR LIFE <br>
+                    IN ANY WAY YOU CHOOSE...!! <br>
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 30</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <ul>SIX SENSES</ul><br>
+                    <ol>
+                        <li>SMELL</li>
+                        <li>TASTE</li>
+                        <li>TOUCH</li>
+                        <li>HEARING</li>
+                        <li>VISION</li>
+                        <li>THE SIXTH SENSE IF THE COMBINED OUTCOME OF YOUR FIRST 5 SENSES. THE MORE EFFECTIVE YOUR FIRST 5 SENSES,
+                            THE MORE EFFECTIVE WILL BE YOUR SIXTH SENSE. THE LESS EFFECTIVE YOUR FIRST 5 SENES, THE LESS EFFECTIVE
+                            WILL BE YOUR SIXTH SENSE!! ALSO KNOWN AS INTUITION, OR GUT FEELING!!
+                        </li>
+                    </ol>
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 31</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    FOLLOW YOUR DREAM, <br>
+                    AND THAT EVERY DREAM <br>
+                    HAS A PASSION, <br>
+                    AND EVERY PASSION HAS A DESTINY. <br>
+                    IF YOU FOLLOW YOUR PASSION, <br>
+                    IT TAKES YOU ON A JOURNEY <br>
+                    TO THE CENTER OF YOUR SOUL. <br>
+                    IF YOU ARE WILLING TO TAKE THAT JOURNEY, YOU <br>
+                    BECOME A BETTERM STRONGER <br>
+                    PERSON!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+
+        <div class="post">
+            <h2><a >PAGE 32</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    CULTURE IS TOO OFTEN DESTINY. IT ESTABLISHES A PERSON'S DESIRES, VALUES, BELIEF SYSTEM AND CONDUCT. 
+                    THEREFORE, IT IS NOT TOO FAR-FETCHED TO BELIEVE IT HAS THE POTENTIAL TO DETERMINE ONE'S DESTINY. A PERSON'S DESIRES GOVERN ONE'S DETERMINATION,
+                    WHICH REFLECT IN ONE'S DEEDS, AND IT IS ONE'S DEEDS THAT GOVERN ONE'S DESTINY. I CALL IT THE FOUR D's -> DESIRE, DETERMINATION, DEEDS AND DESTINY.
+                    SO LEARN THE STRENGTHS OF INDIAN AND AMERICAN CULTURES. BUT ALSO AVOID THE WEAKNESSES OF INDIAN AND AMERICAN CULTURES!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 33</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    Strengths of Indian culture -> High value placed on religion, family, education, hard work, respect for elders, economy, chastity, fidelity, tolerance, patience, forgiveness, even - temperedness, long -term orientation, delayed gratification and subordination of individual interests to family/community interests. <br>
+                    Strengths of American culture -> Emphasis on independence, innovation, creativity, originality, adventure, flexibility, assertiveness, competition, extroversion, humor, charity, health + fitness, consciousness, athlethes, entertainment, pragmatism, self-criticism and leveraging ones strength to the fullest extent. <br>
+                    Weaknesses of Indian culture -> Xenophobic tendencies, lack of political awareness, too much competition among themselves instead of with mainstream AMericans, preoccupation with wealth, disunity, over-attachment to tradtion, defensiveness about Indian culture, inflexibilitym lack of interest in sports, lack of interest in developing hobbies, reluctance to work with ones own hands hand lack of interest in voluture work. <br>
+                    Weaknesses of American culture _> Tendency towards impatience, acceptance of violence, instant gratification, low temperedness, over reaction to problems, self-centeredness, lack of spirituality, move fun-oriented than work-oriented, ignorance of other countires and their cultures, glorification of youth, lack of respect for elders, permissiveness with respect to sex and substance abuse, litigious, obsession with sports, anti-intellectual.
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 34</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THERE ARE LAWS OF WEALTH, <br>
+                    HEALTH, HAPPINESS AND ALL <br>
+                    OTHER THINGS, JUST LIKE THE <br>
+                    LAW OF GRAVITY!! <br>
+                    NOT ONLY YOU HAVE <br>
+                    TO KNOW THEM, BUT YOU HAVE <br>
+                    TO OBSERVE THEM, TO GET <br>
+                    THE DESIRED RESULTS!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 35</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <ul>LAWS OF WEALTH</ul>
+                    LO, MONEY IS PLENTIFUL <br>
+                    FOR THOSE WHO UNDERSTAND <br>
+                    THE SIMPLE RULES OF ITS ACQUISITION <br>
+                    <ol>
+                        <li>START THY PURSE TO FATTENING</li>
+                        <li>CONTROL THY EXPENDITURES</li>
+                        <li>MAKE TGT GOLD MULTIPLY</li>
+                        <li>GUARD THY TREASURES FROM LOSS</li>
+                        <li>MAKE OF THY DWELLING A PROFITABLE INVESTMENT</li>
+                        <li>INSURE A FUTURE INCOME</li>
+                        <li>INCREASE THY ABILITY TO EARN</li>
+                    </ol>
+                    - THE RICHEST MAN IN BABYLON
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 36</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    CLEANINESS IS RIGHT <br>
+                    NEXT TO GODLINESS!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 37</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PROCRASTINATION IS AN ENEMY, EVER WATCHING AND WAITING TO THWART OUT ACCOMPLISHMENTS. IT DRIVES AWAY OUR OPPORTUNITIES. ONCE YOU RECOGNIZE
+                    THAT SUCH ACTS ARE COMMITTED BY YOUR ENEMY, WITH DETERMINATION YOU CAN CONQUER IT. EVERY MAN MUST MASTER HIS OWN SPIRIT OF PROCRASTINATION BEFORE
+                    HE CAN EXPECT TO SHARE IN THE RICH TREASURES OF THIS WORLD!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 38</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    TO ATTRACT GOOD LUCK TO ONESELF, IT IS NECESSARY TO TAKE ADVANTAGE OF OPPORTUNITIES! GOOD LUCK CAN BE ENTICED BY ACCEPTING OPPORTUNITY!
+                    MEN OF ACTION ARE FAVORED BY THE GODDESS OF GOOD LUCK!
+                    ACTION WILL LEAD  YOU FORWARD TO THE SUCCCESS WHICH YOU DESIRE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 39</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <ul>THE SIKH WAY</ul><br>
+                    <ol>
+                        <li>BELIEF IN GOD.</li>
+                        <li>WORK HARD.</li>
+                        <li>SERVICE TO OTHERS.</li>
+                        <li>FOLLOW THE GURU GRANTH SAHIB AS YOUR LIVING GURU</li>
+                        <li>IF YOU NEED ANYTHING, ASK ONLY FROM THE GURU.</li>
+                    </ol>
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 40</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    GOD <br>
+                    IS <br>
+                    EXTREMELY <br>
+                    KIND!!!! <br>
+                    (THANK YOU GOD FOR EVERYTHING!!!)
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 41</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    MAKE IT A RULE! AFTER YOUR MORNING PRAYERS, THE FIRST MEAL YOU EAT SHOULD ALWAYS BE VEGETARIAN!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 42</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <ul>THE FIRVE LAWS OF GOLD</ul><br>
+                    <ol>
+                        <li>Gold cometh gladly and in increasing quantity to any man who will put by not less than one-tenth of his earnings to create an estate for his future and that of his family.</li>
+                        <li>Gold closeth diliqently and contenedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.</li>
+                        <li>Gold clingeth to the projection of the cautious owner who invests if under the advice of men wise in its heading</li>
+                        <li>Gold stoppeth away frpm the man who invests it in businesses or purposes with which he is not familiar of whic are not approved by those skilled in its keep.</li>
+                        <li>Gold flees the man who would give it to impossiblecalmings of who followeth the alluring advice of tricksters and schemas of who knows of to his own inexpeperience and desives in invesment.</li>
+                    </ol>
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 43</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    BEING DUMB IS BAD, <br>
+                    BEING SMART IS GOOD, <br>
+                    BEING WISE IS THE BEST!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 44</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IN INDIA, THE HARD WORKING PEOPLE, DO NOT WASTE EVEN A "DHYADI", WHICH MEANS A DAY'S WORK/EARNINGS/ MAKE THE YOUR MOTTO, UNTIL YOU HAVE BECOME WEALTHY!! <br>
+                    THIS DOES NOT MEAN THAT YOU STOP WORKING, WHEN YOU BECOME WEALTHY, IT ONLY MEANS THAT YOU TAKE SOME TIME OFF!!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 45</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    LIFE IS A JOURNEY! <br>
+                    IT HAS A STARTING POINT! <br>
+                    IT HAS AN ENDING POINT! <br>
+                    ENJOY THE JOURNEY, <br>
+                    WITH ALL THE STATIONS <br>
+                    YOU CROSS!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 46</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    BIJI ALWAYS USED TO CARRY A LOT OF CHANGE IN HER POCKET, TO GIVE ALMS TO PEOPLE! YOU MUST DO THE SAME!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 47</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WHEN YOU GET UP, AT THE EARLIEST, TAKE YOUR BATH ETC AND, DO YOUR POOJA, IT WILL MAKE YOU FRESH, AND, THAT WILL GIVE YOU A HEAD START, TO THE DAY AHEAD!! AND, LIFE AHEAD!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 48</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    Money is the medium by which earthly success is measured. <br>
+                    Money makes possible the enjoyment of the best earth affords. <br>
+                    Money is plentiful for those who understand the simple laws which govern its acquisition. <br>
+                    Money is governed today by the same laws which controlled it when properous men run the streets of Babylon, six thousand years ago...
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 49</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    LEARNING IS OF TWO KINDS, THE INE KIND BEING THE THINGS WE LEARNED AT SCHOL, FRIN OAREBTSM ETC... <br>
+                    THE OTHER KIND BEING THE TRAINING THAT TEACHES US, HOW TO FIND OUT WHAT WE DO NOT KNOW.
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 50</a></h2>
+            <p class="info"><span class="date">01-07-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE THOUGHTS OF YOUTH ARE BRIGHT LIGHTS THAT SHINE FORTH LIKE THE METEORS THAT OF MAKE BRILLIANT THE SKY, BUT THE WISDOM OF ACE IS LIKE THE FIXED STARS THAT SHINE SO UNCHANGED THAT THE SAILOR MAY DEPEND UPON THEM TO STEER HIS COURSE!!!
                 </p>
 
             </div>
