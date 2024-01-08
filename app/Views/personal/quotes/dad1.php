@@ -87,14 +87,10 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>DUKH MEIN SIMRAN <br>
-                SAB KARA, <br>
-                SUKH MEIN KARE <br>
-                NA KOI, <br>
-                JO SUKH MEIN <br>
-                SIMRAN KARE, <br>
-                PHIR DUKH KAHE <br>
-                KOI!!
+                <p>DUKH MEIN SIMRAN SAB KARA, <br>
+                SUKH MEIN KARE NA KOI, <br>
+                JO SUKH MEIN SIMRAN KARE, <br>
+                PHIR DUKH KAHE KOI!!
                 </p>
 
             </div>
@@ -141,12 +137,8 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>ALWAYS FOLLOW YOUR <br>
-                DAILY SCHEDULE.... <br>
-                WRITE IT ON PAPER <br>
-                AND POST IT WHERE <br>
-                YOU CAN SEE IT <br>
-                EVERYDAY!! <br>
+                <p>ALWAYS FOLLOW YOUR DAILY SCHEDULE.... <br>
+                WRITE IT ON PAPER AND POST IT WHERE YOU CAN SEE IT  EVERYDAY!! <br>
                 CHANGE IT AS YOUR SITUATION CHANGES!!
                 </p>
 
@@ -169,13 +161,9 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>ALWAYS MAKE AND LIVE <br>
-                WITHIN YOUR BUDGET... <br>
-                WRITE IT ON PAPER AND <br>
-                POST IT WHERE YOU CAN <br>
-                SEE IT EVERYDAY!! <br>
-                CHANGE IT AS YOUR <br>
-                SITUATION CHANGES!!
+                <p>ALWAYS MAKE AND LIVE WITHIN YOUR BUDGET... <br>
+                WRITE IT ON PAPER AND POST IT WHERE YOU CAN SEE IT EVERYDAY!! <br>
+                CHANGE IT AS YOUR SITUATION CHANGES!!
                 </p>
 
             </div>
@@ -197,12 +185,7 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>WHAT LIES BEHIND US <br>
-                AND <br>
-                WHAT LIES BEFORE US <br>
-                ARE <br>
-                SMALL MATTERS COMPARED TO <br>
-                WHAT LIES WITHIN US!!
+                <p>WHAT LIES BEHIND US AND WHAT LIES BEFORE US ARE SMALL MATTERS COMPARED TO WHAT LIES WITHIN US!!
                 </p>
 
             </div>
@@ -332,15 +315,10 @@
                 
                 <p>Page 1:</p>
                 <br>
-                <p>WHENEVER YOU FEEL DOWN <br>
-                AND NEED INSPIRATION, <br>
-                THINK OF THE STRUGGLE <br>
-                IN THE HISTORY OF FREE PEOPLE, <br>
-                THE 6YR OLD BLIND GIRL WHO <br>
-                DOES BARREL RACING, <br>
-                THE CYCLIST WHO WON FIVE <br>
-                TOUR DE FRANCE CHAMPIONSHIPS <br>
-                WHILE BATTLING CANCER, <br>
+                <p>WHENEVER YOU FEEL DOWN AND NEED INSPIRATION, <br>
+                THINK OF THE STRUGGLE IN THE HISTORY OF FREE PEOPLE, <br>
+                THE 6YR OLD BLIND GIRL WHO DOES BARREL RACING, <br>
+                THE CYCLIST WHO WON FIVE TOUR DE FRANCE CHAMPIONSHIPS WHILE BATTLING CANCER, <br>
                 AND SO MANY OTHERS, <br>
                 IF YOU LOOK FOR IT....
                 </p>
@@ -349,11 +327,7 @@
                 <p>Page 2:</p>
                 <br>
                 <p>YOU MUST DO I/A ie <br>
-                INVENTORY AND ANALYSIS <br>
-                OF THE MARKERS OF LIFE 
-                ON A WEEKLY, <br>
-                MONTHLY, QUARTERLY, <br>
-                HALF YEARLY AND YEARLY!! <br>
+                INVENTORY AND ANALYSIS OF THE MARKERS OF LIFE ON A WEEKLY, MONTHLY, QUARTERLY, HALF YEARLY AND YEARLY!! <br>
                 BECAUSE YOU ARE EITHER <br>
                 MOVING UP OR DOWN, <br>
                 THEIR IS NO STAGNANT POINT!!
@@ -379,10 +353,8 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>YOU HAVE STRUGGLED HARD <br>
-                AND COME SO FAR, <br>
-                SO YOU HAVE THE FIGHTER'S <br>
-                SPIRIT IN YOU, <br>
+                <p>YOU HAVE STRUGGLED HARD  AND COME SO FAR, <br>
+                SO YOU HAVE THE FIGHTER'S SPIRIT IN YOU, <br>
                 SO GO ON AND SUCCEED!!
                 </p>
 
@@ -478,17 +450,9 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>TO BE EFFECTIVE ON A <br>
-                DAY TO DAY BASIS, YOU <br>
-                NEED TO BE ORGANIZED. <br>
-                FOR THAT YOU MUST MAINTAIN <br>
-                A MASTER LIST, WHICH YOU <br>
-                MUST REVIEW AND UPDATE AT <br>
-                LEAST ONCE A WEEK, <br>
-                THE OTHER ITEM IS YOUR <br>
-                DAILY DIARY WHICHT MUST <br>
-                BE REVIEWED DAILY AND <br>
-                UPDATED DAILY!!
+                <p>TO BE EFFECTIVE ON A DAY TO DAY BASIS, YOU NEED TO BE ORGANIZED. <br>
+                FOR THAT YOU MUST MAINTAIN A MASTER LIST, WHICH YOU MUST REVIEW AND UPDATE AT LEAST ONCE A WEEK, <br>
+                THE OTHER ITEM IS YOUR DAILY DIARY WHICHT MUST BE REVIEWED DAILY AND UPDATED DAILY!!
                 </p>
 
             </div>
@@ -510,16 +474,9 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>PROCRASTINATION IS ONE OF <br>
-                THE WORST HABITS ONE CAN <br>
-                HAVE, <br>
-                BY DELAYING OR POSTPONING <br>
-                THINGS, ONE DOES NOT ACHIEVE <br>
-                ANYTHING BECAUSE YOU WILL <br>
-                STILL HAVE TO DO IT, <br>
-                THEIRFORE, IT IS BETTER <br>
-                TO DO IT NOW THAN <br>
-                LATER!!
+                <p>PROCRASTINATION IS ONE OF THE WORST HABITS ONE CAN HAVE, <br>
+                BY DELAYING OR POSTPONING THINGS, ONE DOES NOT ACHIEVE ANYTHING BECAUSE YOU WILL STILL HAVE TO DO IT, <br>
+                THEIRFORE, IT IS BETTER TO DO IT NOW THAN LATER!!
                 </p>
 
             </div>
@@ -541,8 +498,7 @@
                 <p class="title">For My Son, Raj Bedi, Love Daddy</p>
                 
                 <br>
-                <p>PRAYER IS THE MEDIUM <br>
-                BY WHICH WE COMMUNICATE <br>
+                <p>PRAYER IS THE MEDIUM BY WHICH WE COMMUNICATE <br>
                 WITH GOD, <br>
                 SO YOU MUST PRAY DAILY!!
                 </p>
@@ -659,16 +615,10 @@
                 
                 <br>
                 <p>
-                    PLANNING IS ESSENTIAL TO <br>
-                    GET THE DESIRED OUTCOME <br>
-                    IN THE FUTURE, <br>
-                    BUT MOST IMPORTANT IS <br>
-                    THE THINKING YOU PUT IN <br>
-                    TO FIND ALL POSSIBLE SCENARIOS, <br>
-                    THEN CHOOSING THE BEST <br>
-                    SCENARIO, <br>
-                    AND ALWAYS KEEP A MARGIN <br>
-                    FOR ERROR!!
+                    PLANNING IS ESSENTIAL TO GET THE DESIRED OUTCOME IN THE FUTURE, <br>
+                    BUT MOST IMPORTANT IS THE THINKING YOU PUT IN TO FIND ALL POSSIBLE SCENARIOS, <br>
+                    THEN CHOOSING THE BEST SCENARIO, <br>
+                    AND ALWAYS KEEP A MARGIN FOR ERROR!!
                 </p>
 
             </div>
@@ -694,13 +644,9 @@
                     AS THE FAMOUS QUOTATION GOES, <br>
                     THINK BEFORE YOU SPEAK, <br>
                     LOOK BEFORE YOU LEAP!! <br>
-                    THEIRFORE, IN LIFE YOU <br>
-                    MUST DO ASSESSMENT OF HUMANS, <br>
-                    SITUATIONS, ETC, BEFORE YOU <br>
-                    MAKE A DECISION!! <br>
-                    DO NOT ASSUME, TAKE <br>
-                    THINGS FOR GRANTED OR <br>
-                    AT THEIR FACE VALUE!!
+                    THEIRFORE, IN LIFE YOU MUST DO ASSESSMENT OF HUMANS, <br>
+                    SITUATIONS, ETC, BEFORE YOU MAKE A DECISION!! <br>
+                    DO NOT ASSUME, TAKE THINGS FOR GRANTED OR AT THEIR FACE VALUE!!
                 </p>
 
             </div>
@@ -798,13 +744,8 @@
                 
                 <br>
                 <p>
-                    BALANCE IN ALL ASPECTS <br>
-                    OF LIFE, AND THEIRFORE, TO <br>
-                    ACHIEVE IT IN TOTALITY OF <br>
-                    LIFE IS EXTREMELY IMPORTANT!! <br>
-                    BECAUSE, ANYTHING EXTREME <br>
-                    HAS REPERCUSSIONS WHICH <br>
-                    ARE NOT PLEASANT!!
+                    BALANCE IN ALL ASPECTS OF LIFE, AND THEIRFORE, TO ACHIEVE IT IN TOTALITY OF LIFE IS EXTREMELY IMPORTANT!! <br>
+                    BECAUSE, ANYTHING EXTREME HAS REPERCUSSIONS WHICH ARE NOT PLEASANT!!
                 </p>
 
             </div>
@@ -831,7 +772,7 @@
                     EARLY TO RISE <br>
                     MAKES A MAN <br>
                     HEALTHY, <br>
-                    WELATHY, <br>
+                    HEALTHY, <br>
                     AND, <br>
                     WISE!!
                 </p>
@@ -982,7 +923,7 @@
                     Strengths of Indian culture -> High value placed on religion, family, education, hard work, respect for elders, economy, chastity, fidelity, tolerance, patience, forgiveness, even - temperedness, long -term orientation, delayed gratification and subordination of individual interests to family/community interests. <br>
                     Strengths of American culture -> Emphasis on independence, innovation, creativity, originality, adventure, flexibility, assertiveness, competition, extroversion, humor, charity, health + fitness, consciousness, athlethes, entertainment, pragmatism, self-criticism and leveraging ones strength to the fullest extent. <br>
                     Weaknesses of Indian culture -> Xenophobic tendencies, lack of political awareness, too much competition among themselves instead of with mainstream AMericans, preoccupation with wealth, disunity, over-attachment to tradtion, defensiveness about Indian culture, inflexibilitym lack of interest in sports, lack of interest in developing hobbies, reluctance to work with ones own hands hand lack of interest in voluture work. <br>
-                    Weaknesses of American culture _> Tendency towards impatience, acceptance of violence, instant gratification, low temperedness, over reaction to problems, self-centeredness, lack of spirituality, move fun-oriented than work-oriented, ignorance of other countires and their cultures, glorification of youth, lack of respect for elders, permissiveness with respect to sex and substance abuse, litigious, obsession with sports, anti-intellectual.
+                    Weaknesses of American culture -> Tendency towards impatience, acceptance of violence, instant gratification, low temperedness, over reaction to problems, self-centeredness, lack of spirituality, move fun-oriented than work-oriented, ignorance of other countires and their cultures, glorification of youth, lack of respect for elders, permissiveness with respect to sex and substance abuse, litigious, obsession with sports, anti-intellectual.
                 </p>
 
             </div>
