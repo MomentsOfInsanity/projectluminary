@@ -1379,5 +1379,87 @@
 
         </div>
 
+
+        <div class="post">
+            <h2><a >PAGE 51</a></h2>
+            <p class="info"><span class="date">01-09-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    "STUDY THOUGHTFULLY THY ACCUSTOMED HABITS OF LIVING. HEREIN MAY BE MOST OFTEN FOUND CERTAIN ACCEPTED EXPENSES THAT MAY WISELY BE REDUCED OR ELIMINATED."
+                </p>
+                <p>
+                    "LET THY MOTTO BE ONE HUNDRED PERCENT OF APPRECIATED VALUE DEMANDED FOR EACH COIN SPENT!!"
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 52</a></h2>
+            <p class="info"><span class="date">01-09-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>WISDOM OF ALGAMISH</u><br>
+                    "A part of all I earn is mine to keep." <br>
+                    Say it in the morning when you first arise. Say it at noon. Say it at night. Say it each hour of every day. Say it to yourself until the words stand out like letters of fire across the sky. <br>
+                    Impress yourself with the idea. Fill yourself with the thought. Then take whatever portion seems wise. Let it not be not less thanone and lay it by. Avenge your other expenditures to do this if necessary. But by that portion first. Soon you will reduce
+                    what a feeling it is to own a treasure upon which you alone have claim. As it grows it will stimulate you. A new joy of life will thank you. Greater efforts will come to you to earn more. For of your increased earnings, will not the same percentage be also yours to keep? <br>
+                    Then learn to make your treasure work for you. Make it your slave. Make its children and its children's children work for you.
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 53</a></h2>
+            <p class="info"><span class="date">01-09-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>DESIRE</u><br>
+                    "PRECEDING ACCOMPLISHMENT MUST BE DESIRE. THY DESIRES MUST BE STRONG AND DEFINITE." <br>
+                    GENERAL DESIRES ARE BUT WEAK LONGINGS. FOR A MAN TO WISH TO BE RICH IS OF LITTLE PURPOSE. FOR A MAN TO DESIRE FIVE PIECES OF GOLD IS A TANGIBLE DESIRE WHICH HE CAN PRESS TO FULFILLMENT. AFTER HE HAS BACKED HIS DESIRE FOR FIVE PIECES OF GOLD
+                     WITH STRENGTH OF PURPOSE TO SECURE IT, NEXT HE CAN FIND SIMILAR WAYS TO OBTAIN TEN PIECES AND THEN TWNTY PIECES AND LATER A THOUSAND PIECES AND, BEHOLD, HE HAS BECOME WEALTHY.
+                     IN LEARNING TO SECURE HIS ONE DEFINITE SMALL DESIRE, HE HATH TRAINED HIMSELF TO SECURE A LARGER ONE. THIS IS THE PROCESS BY WHICH WEALTH IS ACCUMULATED : FIRST IN SMALL SUMS, THEN IN LARGER ONES AS A MAN LEARNS AND BECOMES MORE CAPABLE!! <br>
+                     "DESURES MUST BE SIMPLE AND DEFINITE. THEY DEFEAT THEIR OWN PURPOSE SHOULD THEY BE TOO MANY TOO CONFUSING, OR BEYOND A MANS TRAINING TO ACCOMPLISH!!"
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
     </main>
 </div><!-- END #content -->
