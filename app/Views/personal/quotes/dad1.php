@@ -2641,6 +2641,690 @@
 
 
         </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 101</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ONE MUST DEVELOP A PERSONALITY WHICH IS COOL AND CALM, AT ALL TIMES...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 102</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WE COMMUNICATE WITH EACH OTHER BY WORDS... <br>
+                    WORDS SPOKEN SOFTLY AND SWEETLY, CAN HAVE VERY POSITIVE RESULTS... <br>
+                    AND WORDS SPOKEN LOUDLY AND HARSHLY, WILL HAVE VERY NEGATIVE RESULTS!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 103</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WE HUMANS ARE ACTUALLY A BIG BUNDLE OF EMOTIONS... <br>
+                    THE BEST WAY TO REACH, TOUCH, PERSUADE, ETC IS BY THEIR EMOTIONS....
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 104</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WHAT IS THAT "DRIVE" WHICH SEPERATES AN UNDERACHIEVER FROM A ACHIEVER TO AN OVERACHIEVER? <br>
+                    DISASTER -> POOR <br>
+                    NOTHING -> LOWER CLASS <br>
+                    SOMETHING -> LOWER MIDDLE CLASS <br>
+                    SUBSTANTIAL -> HIGHER MIDDLE CLASS <br>
+                    A LOT -> RICH <br>
+                    "PASSION FOR WORK" <br>
+                    THOSE WHO BELIEVE THAT, WORK IS THEIR BEST FRIEND, AND WORK PASSIONATELY, RISE IN LIFE, JUST LIKE, CREAM ALWAYS RISES ON TOP OF THE MILK!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 105</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>GUIDELINES FOR PRAYER'S</u><br>
+                    1. WHEN YOU ARE AT YOUR RESIDENCE, YOU MUST TAKE BATH ETC AND DO YOUR PRAYERS, WITH AGARBATTIM KIRTAN, SCRIPTURES, PRASAD, VIBHOOTI, AMRIT, etc... <br>
+                    2. WHEN YOU ARE AT YOUR RESIDENCE, BUT FOR SOME PRESSING REASON, YOU HAVE TO GO SOMEWHERE AND YOU CAN'T TAKE YOUR BATCH etc... REMEMBER THAT "GOD" WANTS
+                    YOUR HEART TO BE CLEAN AND PURE THAN ANYTHING ELSE SO YOU CAN DO YOUR PRAYERS WITH AGARBATTI, PRASAD, VIBHOOTI, AMRIT, etc... <br>
+                    3. WHEN YOU ARE AT YOUR RESIDENCE, BUT CAN'T OBSERVE THE 1ST OF 2ND WAY, OR WHEN YOU ARE TRAVELLING, BUT CAN'T OBSERBER THE 1ST OR 2ND WAY,
+                    REMEMBER THAT "GOD" WANTS YOUR HEART TO BE CLEAN AND PURE THAN ANYTHING ELSE, SO YOU CAN DO YOUR PRAYERS, TAKE A PIECE OF VEGETARIAN FOOD AND IT AS PRASAD, USE VIBHOOTI WHICH YOU CARRY WITH YOU, USE A LITTLE WATER AS AMRIT etc...
+                    4. YOU MUST ALWAYS SAY YOUR EVENING OR NIGHT PRAYER'S EVERYDAY.
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 106</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>GYAN</u><br>
+                    PRABHUJI, LAKHON BAKSHEESHEN APKI, JO APNE MUJHE SAHI GYAN BAKSHA. <br>
+                    AAGE BHI SAHI GYAN BAKSHANA MUJDE MERE MALIK JI, MAMESHA SAHI RASTE PAR CHALANA, PRABHU JI...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 107</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    TILL WE LIVE IN THIS WORLD, THE FINANCIAL'S WILL ALWAYS BE WITH US. SO, IT IS BETTER TO BE ON TOP OF THE FINANCIALS THAN AT A LOWER END...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 108</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>"GOD" HELPS THOSE WHO HELP THEMSELVES!! <br>
+                        "GOD IS MY BEST FRIEND" <br>
+                        "WORK IS MY BEST FRIEND" 
+                    </u>
+                    <br>
+                    (BELIEVE IN THIS, FOLLOW THISM YOUR LIFE WILL BE HAPPY + SUCCESSFUL...)
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 109</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    KOI BHI KAAM SHURU KARNE SE PEHLE, PRABHU KA NAAM SMARAN KARNE SE, 
+                    KAAM AVASHYA HI POORE HO JAATE HAIN!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 110</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    A THOUSAND MILE JOURNEY, BEGINS WITH THE FIRST STEP!! - Old Chinese Proverb
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 111</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    TREAT OTHER'S THE SAME WAY, YOU WOULD LIKE TO BE TREATED BY OTHER'S!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 112</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PRABHU SE MAANGNE PAR DHAN-DAULAT, BANGLA, MOTORGADI, AADU... MIL HI JAATA HAI; PUR PRABU KO KHUD AUR UNKE DARSHAN BHI MAANG LOGE, TO WOH BHI MIL JAYENGE!! <br>
+                    IS LIYE, PRABHU KO KHUD AUR UNKE DARSHAN MAANGNA KABHI MAT BHOOLNA!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 113</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    JO MUJHE PYAAR NAWIN KARTE, <br>
+                    JO MUJHE AADAR NAHIN DETE, <br>
+                    JO MUJHE SAHARA NAHIN DE SAKTE, <br>
+                    UNSE MAIN APNA NAATA TOD DETA HOON!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 114</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    "GOD" WORKS IN HIS OWN MYSTERIOUS WAYS. HE MAY COME HIMSELF IN THE GUISE OF ANOTHER HUMAN BEING, OR HE MAY WORK THROUGH OTHER HUMAN BEINGS, TO 
+                    LOVE US, TAKE CARE OF US, HELP US, PROTECT US, GUIDE US, ETC...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 115</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WHEN DOING THESE, TAKE YOUR TIME, DO NOT RUSH PREFERABLY!! <br>
+                    <ol>
+                        <li>
+                            GETTING READY
+                        </li>
+                        <li>
+                            POOJA
+                        </li>
+                        <li>
+                            EATING
+                        </li>
+                        <li>
+                            LOVE
+                        </li>
+                    </ol>
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 116</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    AB PACHTAYE KYA HOT HAI, JAB CHIDIYA CHUGH GAYI KHET!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 117</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    KAL KARE SO AAJ KAR, AAJ KAR SO ABHI
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 118</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    EARTH TO EARTH, DUST TO DUST!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 119</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ZINDAGI DHOOP AUR CHAON, KA KHEL HAE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 120</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    MAN PROPOSES, GOD DISPOSES!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 121</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PRAYER MUST COME FROM THE HEART, IT MUST BE FERVENT, FULL OF FEELING!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 122</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    SACH YEH HAI, <br>
+                    KI DUNIYA ME, <br>
+                    "BHAGWAN" KE SIVA, <br>
+                    KISI SE KUCH EXPECT, <br>
+                    YA, KISI PE DEPEND, <br>
+                    KABHI NAHI KARNA CHAHIYE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 123</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>SURYA NAMASKAR</u>
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 124</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IT IS WRITTEN IN THE "GURBANE" THAT ONE SHOULD WAKE UP AT AMRIT VELE; <br>
+                    WHICH IS EARLY DAWN AND AN AUSPICIOUS TIME TO GET UP, TAKE BATH etc, DO  YOUR POOJA AND GO ABOUT YOUR OTHER DUTIES OF THE DAY!! 
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 125</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>PANJA TATV</u> <br>
+                    OUR HUMAN BODY IS MADE OF FIVE TATV ie ELEMENTS. <br>
+                    <ol>
+                        <li>
+                            DHARTI
+                        </li>
+                        <li>HAWA</li>
+                        <li>PAANI</li>
+                        <li>AGNI</li>
+                        <li>AAKASH</li>
+                    </ol>
+                    AND, WHEN OUR HUMAN BODY DIES, IT RETURNS BACK TO THESE FIVE TATV ie ELEMENTS!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 126</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IN THE DAY TO DAY LIFE, ONE OF THE WAYS TO RELIEVE STRESS, IS TO CULTIVATE A HOBBY OF PLAYING A MUSICAL INSTRUMENT...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
         
 
     </main>
