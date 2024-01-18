@@ -28,6 +28,43 @@
         </div>
 
         <div class="post">
+            <h2>Wednesday and Prior: Mini Golf and Catch up</h2>
+            <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/NYE2023.jpg"><img src="/assets/media/personal/videos/golf1.mp4" width="300"
+            alt="Group pic" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Golf in the City</h3>
+                <p class="title">Thai and Golf in the City</p>
+                <p>
+                    Alright. SOOOO its been a bit since I updated this. Last time I did it was the 2nd. I meant to post everyday as a way to look back on things but I got busy and I forgot. Thats Okay. <br>
+                    On Monday January 15th Yukta, Joe, Glenn and me went to the city. We ate at a delicious Thai restaurant. I had the Basil Fried Rice with Fried Tofu. Yu had Drunken Noodles with Fried Tofu. Joe had a Shrimp Fried Rice. Finally Glenn had Pad Thai. 
+                    We also had several drinks and beers. It was a good time. We were a bit ahead of schedule so we decided to go to the Lego Store nearby the mini golf location.
+                    Joe had bought a lego car to build. Finally it was time for Mini Golf. We went to the Swingers Mini Golf. It was a 9 hole course. I got last place lol. Yukta and Joe tied for first and glenn came in second. SOOO technically I was still third place.
+                    Soon after we got dollar pizza for yu and me and joe and glenn got Roses pizza. It was a great fun time and I wish we had more time to do things like this.
+                </p>
+                <br>
+                <br>
+                <p>That was the major event over the past 2 weeks. Most of the time I have been working and doing chores at home. Sometimes hanging out at glenns for a brief time. Played No Man Sky for a bit. Thats pretty much the recap for the rest of my days.</p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/cakeface.jpg"><img src="/assets/media/personal/cakeface.jpg" width="300"
+            alt="Cake on my face" loading="lazy"></a></div>
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Tuesday: Searching for Couches</h2>
             <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
