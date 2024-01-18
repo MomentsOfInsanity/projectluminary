@@ -32,7 +32,7 @@
             <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/videos/golf1.mp4"><video controls autoplay loop width="300"
+            <div class="pics"><a href="/assets/media/personal/videos/golf1.mp4"><video preload="auto" autoplay loop width="300"
             alt="Golf"><source src="/assets/media/personal/videos/golf1.mp4" type="video/mp4"></a></div>
 
             <div class="subcat">
@@ -50,8 +50,8 @@
                 <p>That was the major event over the past 2 weeks. Most of the time I have been working and doing chores at home. Sometimes hanging out at glenns for a brief time. Played No Man Sky for a bit. Thats pretty much the recap for the rest of my days.</p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/cakeface.jpg"><img src="/assets/media/personal/cakeface.jpg" width="300"
-            alt="Cake on my face" loading="lazy"></a></div>
+            <div class="pics"><a href="/assets/media/personal/videos/golf2.mp4"><video preload="auto" autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/videos/golf2.mp4" type="video/mp4"></a></div>
 
 
 
