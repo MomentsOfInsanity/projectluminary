@@ -3325,6 +3325,976 @@
 
 
         </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 127</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>KADAH PRASAD</u> <br>
+                    "GODS" GIFT OF LIFE TO US!! <br>
+                    1 PART WHOLE WHEAT FLOUR <br>
+                    1 PART PURE GHEE <br>
+                    1 PART SUGAR <br>
+                    2 OR 3 PART WATER <br>
+                    FIRST BOIL THE WATER. ADD SUGAR TO IT UNTIL IT DISSOLVES IN IT. IT SHOULD REMAIN HOT. AT THE SAME TIME, IN ANOTHER VESSEL HEAT THE GHEE AND ADD FLOUR. COOK THEM TOGETHER UNTIL IT IS COOKED WELL. 
+                    THEN ADD THE HOT SUGAR WATER IN IT. KEEP COOKING IT TILL IT BECOMES A NICE HALWA. PLACE IT IN FRONT OF GOD AND PRAY TO MAKE IT KADAH PRASAD.
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 128</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    MAN KEEP'S RUNNING AFTER PHYSICAL, MENTAL, EMOTIONAL, FINANCIAL AND OTHER MATERIAL THINGS... <br>
+                    ULTIMATELY, HE MUST REALIZE THAT HE SHOULD HAVE BEEN RUNNING AFTER THE "SPIRITUAL" BECAUSE, IT IS NOT ONLY THE MOST IMPORTANT TO GAIN,
+                    BUT IT IS ALSO THE SOURCE.... THE START AND END, OF ALL OTHER THINGS. IF YOU GAIN THE SPIRITUAL, YOU GAIN EVERYTHING!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 129</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THERE IS ONLY ONE REALITY! <br>
+                    THE REALITY IS "GOD"! <br>
+                    PERCEPTION IS IN THE MIND OF THE BEHOLDER! <br>
+                    HOW WE PERCEIVE THINGS IS UPTO EACH INDIVIDUAL! <br>
+                    BUT, REALITY REMAINS THE SAME, TRUE AND CONSTANT ALWAYS! <br>
+                    THEIRFORE, WE HAVE TO CHANGE OUR OUR PERCEPTION, UNTIL IT SEES AND KNOWS, THE TRUE REALITY "GOD"!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 130</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>ROTI, KAPDA AUR MAKAN</u> <br>
+                    MAN'S NEED'S ARE ACTUALLY VERY SMALL...
+                    MAN'S WANT'S AND DESIRE'S THEIR IS NO END... <br>
+                    THEIRFORE, LIVE A SPIRITUAL LIFE, NOT A MATERIALISTIC LIFE!! <br>
+                    "GOD" WILL ALWAYS PROVIDE FOR YOUR NEED'S!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 131</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    A HEALTHY MIND, IS IN, A HEALTHY BODY!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 132</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    OUR BODY IS THE BATTLEGROUND, OF THE WAR'S, THAT WAGE IN OUR MIND!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 133</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    A WISE MAN KNOW'S EVERYTHING... <br>
+                    A SMART MAN KNOW'S EVERYONE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 134</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    BEFORE YOU BEGIN ANY JOURNEY; <br>
+                    LAKH CHURASI MEDNI, SAB TUJHE PYAYEDA, CHALAN WELE BOLIYE, RAKH PAIJ APNI NAIDA!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 135</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    EK YOM KAR <br>
+                    SAT NAAM <br>
+                    KARTA PURUKH <br>
+                    NIR BHO <br>
+                    NIR VER <br>
+                    AKAL MURAT <br>
+                    AJOONE SAHBANG <br>
+                    GUR PARSAD <br>
+                    SAT BANM SHRI WAHE GURU JI!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 136</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    TAATI WAO NA LAAGE <br>
+                    PAR BRAHM SARNAI <br>
+                    CHOWGIRD HAMARE RAMKAR <br>
+                    DUKA LAGE NA BHAI <br>
+                    SATGUR POORA BETEYA <br>
+                    JIN BADAT BANAI <br>
+                    RAM NAAM AUKHAD DIYA <br>
+                    EKA LIV LAYI <br>
+                    SAT NAM, SHRI WAHE GURU JI!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 137</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    BOLE SO NIHAL, <br>
+                    SAT SRI AKAL!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 138</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    HAR SIKHANKO HUKUM AAT, GURU MAANYO GRANTH!! <br>
+                    "GURU GRANTH SAHIB"!! <br>
+                    "OUR 11TH GURU"!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 139</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    BEFORE YOU BEGIN ANY WORK, <br>
+                    TAKE GO'S NAME AND THEN BEGIN THE WORK!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 140</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>TRUSTING GOD'S TIMING</u>
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 141</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    OUR SOUL LOVES ECSTASY... <br>
+                    IT WANTS THE ECSTASY OF BEING UNITED WITH THE SOUL SOUL "GOD"... <br>
+                    IT IS OUR SOUL'S PRIMORDIAL NATURE, <br>
+                    ADDICTION OF ANY KIND IS A 2ND CLASS WAY FOR THE SOUL TO TEMPORAIRLY EXPERIENCE ECSTASY... AND THAT IS WHY IT IS SO DIFFICULT FOR PEOPLE 
+                    TO GIVE UP ADDICTION... <br>
+                    BUT, THE SOULTION TO THAT IS TO USE THE 1ST CLASS WAY FOR THE SOUL TO EXPERIENCE ECSTASY ANYTIME AND THAT IS SPIRTUAL ECSTASY!! 
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 142</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    FOR ANY BUILDING, CAR OR STRUCTURE TO BE STRONG, ITS "FOUNDATION" MUST BE STRONG! <br>
+                    IN LIFE, THAT FOUNDATION IS "SPIRITUAL ENLIGHTENMENT" WHICH GIVES US SPIRITUAL STRENGTH, TO FACE ANYTHING IN LIFE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 143</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    AS SOON AS I GET MY U.S CITIZENSHIP, AND MY DEBT'S ARE PAID, AND I DON'T HAVE ANY PRESSING RESPONSIBILITIES, AND I HAVE REASONABLE AMOUNT OF MONEY
+                    FOR MY EXPENSES... <br>
+                    I WANT TO GO TO INDIA AND BEGIN VAANPREASTHA... <br>
+                    MY SPIRITUAL JOURNEY... 
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 144</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IN THIS YEAR, I WAS IN DESPIAR AND, THEN GOD'S LIGHT SHONE THROUGH, LIFTING ME OUT OF THE DARKNESS... "GOD" WANTED TO SHOW ME HIS EXTREME KINDNESS,
+                    HIS MERCIFUL NATURE, HIS STRENGTH BUT MOST OF ALL, HE WAS PUTTING ME ON THE RIGHT PATH, THE PATH THAT I HAD STRAYED FROM; <br>
+                    THEIRFORE, I SOLEMNLY PROMISE, THAT FROM NOW ON, NO JOB, NO BUSINESSM NO EVENT, NO RECREATIONS... WILL MAKE ME COMPROMISE MY SPIRITUAL RELATIONSHIP WITH "GOD"... <br>
+                    FOR HE COMES FIRST AND FOREMOST... <br> 
+                    THE REST IS ALL SECONDARY!!!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 145</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    HEAVEN + HAPPINESS, LIE AT THE FEED OF "GOD" + SAINT'S!! <br>
+                    SO, ALWAY'S ASPIRE TO SERVE "GOD" + SAINT'S, BY BEING AT THEIR FEET!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 146</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WE TEND TO SPEND, SO LAVISHLY ON OUR WANT'S AND DESIRES, BUT WHEN IT COMES TO SPEND ON "GOD" + "SAINT'S", WE BECOME MISERLY....WHY? <br>
+                    DID WE FORGET THAT, ALL WE HAVE IS BECAUSE OF THEIR BLESSING'S... <br>
+                    SO, SPEND GENEROUSLY WHEN YOU PAY RESPECT'S TO "GOD" + "SAINT'S"!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 147</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    AN ESKIMO HUNTER SAID; <br>
+                    I HAVE BEEN TAUGHT, THAT WHILE HUNTING IF I LOSE A PREY, NOT TO BE SAD, FOR THEIR WILL BE ANOTHER ONE...
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 148</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THERE ARE MANY RELIGION'S IN THIS WORLD, BUT FEW PEOPLE WHO HAVE FAITH!! <br>
+                    "GOD" + "SAINT'S", WANT US TO HAVE TRUE FAITH, NOT JUST RELIGIOUS PRACTICE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 149</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    "IF ALL MANKIND MINUS ONE, WERE OF ONE OPINION, AND ONLY ONE PERSON WERE OF THE CONTRARY OPINION, MANKIND WOULD BE NO MORE JUSTIFIED IN SILENCING THAT ONE PERSON,
+                    THAN HE, IF HE HAD THE POWER, WOULD BE JUSTIEFIED IN SILENCING MANKIND" - John Stuart Mill English Philosopher, 1806-1873
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 150</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IF YOU ARE SPIRITUALLY STRONG, YOU WILL BE EMOTIONALLY STRONG, MENTALLY STRONG, PHYSICALLY STRONG AND THUS FINANCIALLY STRONG!! 
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 151</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    SEQUENCE OF IMPORTANCE, OF THE FIVE IMPORTANT PARAMETERS OF LIFE. ALWAYS REMEMBER THE SEQUENCE AND ACT ACCORDINGLY... <br>
+                    SPIRITUAL -> EMOTIONAL -> MENTAL -> PHYSICAL -> FINANCIAL
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 152</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ASK FOR "DIVINE INSPIRATION" WHENEVER YOU WANT TO DO THE RIGHT THING OR GOOD THING OR NOBLE THING... AND IT WILL BE GIVEN! WE HAVE EYES BUT WE ARE OR ACT BLIND, THAT WE DON'T SEE THE EXTRAORDINARY SPIRITUAL
+                    FORCE WE CAN TAP INTO ANYTIME, JUST BY OUR SINCERE DESIRE AND EFFORT TO DO SO!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 153</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    DOING "NAAM JAAP" CONNECTS US TO "GOD" AT ALL TIMES!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 154</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    "GOD" IS AND WAS THERE ALL THE TIMES IN MY LIFE! I DID NOT SEE HIM AND IF I DID SEE HIM, I DID NOT TRULY FOLLOW HIM!! BUT, HE HAS NEVER
+                    FORSAKE ME, AND I SEE NO REASON, WHY HE WOULD FORSAKE ME NOW OR EVER!!!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 155</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    FOLLOW THE TEN COMMANDMENTS!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 156</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PRAY TO "GOD", ALWAYS WITH FEELING, SINCERITY, LIKE A CHILD....
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 157</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ANY HOUSE  YOU LIVE IN, FIRST, DECIDE THE BEST PLACE FOR THE POOJA STHAN!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 158</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    HUMAN LIFE IS THE MOST PRECIOUS GIFT TO US FROM "GOD"! <br>
+                    THE REASON IT IS SO PRECIOUS, IS BECAUSE, IN THIS TIME SPAN, WE MUST ATTAIN MOKSHA!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 159</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WHEN YOU MAKE ANY SPIRITUAL VOW, MAKE SURE YOU WRITE IT DOWNM SO THAT YOU DON'T FORGET IT AND IT WILL ACT AS A REMINDER!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 160 AND PAGE 161</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>FOCUS</u> <br>
+                    DAVID JONKER, DIRECTOR OF INSTITUTIONAL SALES FOR THE HAMILTION FUNDS OF THE BANK OF NEW YORK, IS ALSO THE CHIEF OF THE FIRE DEPARTMENT IN NEW CANAAN, CONN. 
+                    HE SAYS THAT RUNNING A FIREHOUSE IS BASICALLY THE SAME THING AS RUNNING A COMPANY. "IT'S ABOUT DEFINING A STRATEGY AND GETTING PEOPLE WHO WORK UNDER YOU TO EXECUTE THE STRATEGY." <br>
+                    HE SAY'S HE HAS APPLIED LESSONS FROM THE FIREHOUSE TO HIS DAY JOB. "IN THE FIRE SERVICE YOU ARE TAUGHT TO FIGHT A FIRE IN A VERY FOCUSED WAY, MAKING DECISION IN A VERY SHORT PERIOD OF TIME
+                    AND CONSTANTLY RE-EVALUATING YOUR PROGRESS. THE DISCIPLINE HELPS ME TO REMAIN FOCUSED AND BLOCK OUT THE NOISE."
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 162</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>JOURNAL</u> <br>
+                    One of my biggest mistakes in life, has been that I did not learn from my past mistakes! <br>
+                    Most of all, I did not learn from the miracles of "GOD" which happened in my life. All of us encounter these miracles - small or big,
+                    but we tend to forget them and that is a big mistake!! <br>
+                    Most people rely on these memory, Unfortunately my memory has been weak. I could have solved the problem by putting it in the form of a journal,
+                    to which I could refer to when needed. Fortunately, I have begun to do so!!! <br>
+                    I would recommend everyone to keep a journal of their life, to which they can refer to, to avoid past mistakes... but most of all to see the presence of "GOD" in our lives at all times!!!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+        <div class="post">
+            <h2><a >PAGE 163</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    (IF I DO NOT ACHIEVE THE DREAMS OF MY LIFE, I WANT TO BE REMEMBERED BY THIS QUOTATION! IF I DO SUCCEED OM ACHIEVING MY DREAMS IN LIFE, I WILL WRITE ANOTHER QUOTATION!!) <br>
+                    JUSTJOO JISKI THI, USKOTO NA PAYA HAMNEM IS BAHANE MAGNAR DEKH LI DUNIYA HAMNE! <br>
+                    <br>
+                    JUSTJOO JISKI THI, USKO TO PAYA HAMNE, "PRABHU" KI KIRPA SE, JUSTJOO SE BAHUT ZYADA PAYA HAMNE!!
+                </p>
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 164</a></h2>
+            <p class="info"><span class="date">01-17-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(1)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    My dearest Beta Raj, <br>
+                    I Love you!! <br>
+                    I will always love you... <br>
+                    I am your father in this mortal world, you may become the father of many children in this mortal world.... <br>
+                    BUT, YOUR'S + MINE, OUR TRUE, AND ONE AND ONLY, FATHER IS GOD HIMSELF!! <br>
+                    SO WE MUST LOVE HIM ALWAYS, RESPECT HIM, SEEK GUIDANCE FROM HIM, ETC.... FOR, HE IS THE ONLY ONE TO SHOW US THE REAL WAY OF LIFE, NOW + FOREVER!!!! <br>
+                    LOVE, DADDY
+                </p><br><br>
+                <p>Update: Finally I finished book 1. It definitely took some time. This book was written in 2003. I would be 5 at this time. You may not have have been the greatest father. I get it. Life was tough and many things went against you. But I am glad that you were mine. Thank you for putting the effort to put these words in. I wish I had something more recent but it's okay. I Love You Dad. Rest In Peace. I don't have much from you but your words will forever be immortalized.</p>
+
+
+            </div>
+
+
+
+
+        </div>
         
 
     </main>
