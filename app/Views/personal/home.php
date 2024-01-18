@@ -32,8 +32,8 @@
             <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/NYE2023.jpg"><video controls autoplay loop><source src="/assets/media/personal/videos/golf1.mp4" width="300"
-            alt="Golf" type="video/mp4"></a></div>
+            <div class="pics"><a href="/assets/media/personal/videos/golf1.mp4"><video controls autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/videos/golf1.mp4" type="video/mp4"></a></div>
 
             <div class="subcat">
                 <h3>Golf in the City</h3>
