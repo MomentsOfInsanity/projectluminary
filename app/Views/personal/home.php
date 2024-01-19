@@ -27,6 +27,41 @@
 
         </div>
 
+
+        <div class="post">
+            <h2>Thursday: Company Party</h2>
+            <p class="info"><span class="date">01-18-2023</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/videos/golf1.mp4"><video muted autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/videos/golf1.mp4" type="video/mp4"></a></div>
+
+            <div class="subcat">
+                <h3>Company Party at the Foxhollow</h3>
+                <p class="title">Delicious Appetizers, and Gambling for Panama</p>
+                <p>
+                    Today was the Teq company holiday party. It was at the Foxhollow. The Cocktail are was in the basement of this venue. I had some appetizers like Brushetta, Cheese and Crackers and other delicious starters. 
+                    I had one drink with vodka, cranberry, and pineapple. It was good. I mingled with few people here and there but mostly was focused on the food because I was starving.
+                    Soon after, we went upstairs to the main venue. They had a gambling area with games like Blackjack, Poker, Roulette, and Craps. The money was free to play with. However the grand prize for the one with the most money 
+                    was a trip to Panama. I thought that was pretty cool. After a small company speech, the games began. I started with Blackjack, where they gave $400 to start with in chips.
+                    I stayed a while but eventually lost. Eventually I tried other games like Roulette. I didnt get a chance to play Craps or Poker. I was mostly playing Roulette and Blackjack. 
+                    Eventually I played Blackjack again and I won upto $6,900 in fake money. Unfortunately despite it being a good amount, I was not the highest. The highest was approximately $48,000. Craps is the easiest way to make money it seems.
+                    I had a great time. I ate some penne a la vodka and roasted potatoes. The party started at 4 and I finished around 8. <br><br>
+                    I stopped by glenns because he made muffins. I had a blueberry muffin and it was delicious. I went home, then immediately knocked out.
+                </p>
+            </div>
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
         <div class="post">
             <h2>Wednesday and Prior: Mini Golf and Catch up</h2>
             <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
