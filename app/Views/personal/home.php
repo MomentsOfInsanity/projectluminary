@@ -29,13 +29,52 @@
 
 
         <div class="post">
+            <h2>Saturday: Life is Garlic Bread with Cheese</h2>
+            <p class="info"><span class="date">01-19-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+            <div class="pics"><a href="/assets/media/personal/food/CheesyGarlicBread.jpg"><img src="/assets/media/personal/food/CheesyGarlicBread.jpg" width="300"
+            alt="Cheesy Garlic Bread" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Chores and food</h3>
+                <p class="title">The hunt for flavors.</p>
+                <p>
+                    Today was mostly a day dedicated to chores. I did the dishes, and grocery. However, through the day I was having one of those mood cravings to cook. It is all I will think about all day.
+                    A specific thing actually, Cheesy Garlic Bread. My Cholestrol is screaming but I must have it. I made Garlic Bread before, many times but never like this. Instead of mashing garlic and butter together, I wanted to elevate the garlic.
+                    <br> I had put several garlic cloves with a covering of olive oil and put that in the oven for 2 hours at 200 degrees. You guessed it, I made Garlic Confit. Using this just as paste, the flavors were on another level.
+                    I could not wait. With a slice of toast, the spread and some cheese I had my first crunch of delicious garlic. I may have jumped the gun but it was time to use the italian bread I had bought earlier that day to its use. 
+                    <br> I combined in a blender the garlic confit, butter, parsley, paprika and salt. I spread that on the bread and topped it with mozzarella and parmesan. I put it in the oven for 10 minutes at a broil to quickly melt the cheese.
+                    <br> I decided this was not enough. I put on a pot of honey, chiliflakes, salt, hotsauce and a bit of apple cider vinegar to make a delicious hot honey sauce. With a slight drizzle, I was able to elevate this dish immensely. 
+                    <br><br>
+                    Initially writing this post, I thought it was just another normal day of chores and some studying, but I forgot that even just making bread can be a happy experience. My cholestrol maybe screaming but I am devouring. Until the next food thought!
+                    <br>
+                    Next goal is to make the bread from scratch. The ultimate garlic bread!
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Friday: Work day</h2>
             <p class="info"><span class="date">01-19-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
                 <h3>Just a normal day.</h3>
-                <p class="title">Another friday.</p>
+                <p class="title">Another Friday.</p>
                 <p>Today was just a normal work day. Though I came home and knocked out for about 4 hours. Then I did 30 pages of Dad Book 2. Soon after I went back to sleep.
                 </p>
             </div>
@@ -66,7 +105,7 @@
                 <h3>Company Party at the Foxhollow</h3>
                 <p class="title">Delicious Appetizers, and Gambling for Panama</p>
                 <p>
-                    Today was the Teq company holiday party. It was at the Foxhollow. The Cocktail are was in the basement of this venue. I had some appetizers like Brushetta, Cheese and Crackers and other delicious starters. 
+                    Today was the Teq company holiday party. I was not feeling comfortable with what I was wearing so I went and bought a nice button light purple shirt and light brown pants. It was at the Foxhollow. The Cocktail are was in the basement of this venue. I had some appetizers like Brushetta, Cheese and Crackers and other delicious starters. 
                     I had one drink with vodka, cranberry, and pineapple. It was good. I mingled with few people here and there but mostly was focused on the food because I was starving.
                     Soon after, we went upstairs to the main venue. They had a gambling area with games like Blackjack, Poker, Roulette, and Craps. The money was free to play with. However the grand prize for the one with the most money 
                     was a trip to Panama. I thought that was pretty cool. After a small company speech, the games began. I started with Blackjack, where they gave $400 to start with in chips.
