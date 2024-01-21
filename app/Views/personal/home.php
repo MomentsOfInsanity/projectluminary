@@ -30,7 +30,7 @@
 
         <div class="post">
             <h2>Saturday: Life is Garlic Bread with Cheese</h2>
-            <p class="info"><span class="date">01-19-2024</span> by <span class="user"><a
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
             <div class="pics"><a href="/assets/media/personal/food/CheesyGarlicBread.jpg"><img src="/assets/media/personal/food/CheesyGarlicBread.jpg" width="300"
