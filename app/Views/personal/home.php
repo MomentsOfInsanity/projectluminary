@@ -49,7 +49,7 @@
                     <br><br>
                     Initially writing this post, I thought it was just another normal day of chores and some studying, but I forgot that even just making bread can be a happy experience. My cholestrol maybe screaming but I am devouring. Until the next food thought!
                     <br>
-                    Next goal is to make the bread from scratch. The ultimate garlic bread!
+                    Next goal is to make the bread from scratch. Maybe the mozzerella too. The ultimate cheesy garlic bread!
                 </p>
             </div>
 
