@@ -29,6 +29,32 @@
 
 
         <div class="post">
+            <h2>Friday: Work day</h2>
+            <p class="info"><span class="date">01-19-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Just a normal day.</h3>
+                <p class="title">Another friday.</p>
+                <p>Today was just a normal work day. Though I came home and knocked out for about 4 hours. Then I did 30 pages of Dad Book 2. Soon after I went back to sleep.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Thursday: Company Party</h2>
             <p class="info"><span class="date">01-18-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>

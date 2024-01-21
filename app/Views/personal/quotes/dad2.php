@@ -801,5 +801,510 @@
 
         </div>
 
+
+        <div class="post">
+            <h2><a >PAGE 31</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    SUCCESS IN LIFE IS DUE TO; <br>
+                    99% PERSPIRATION AND 1% INSPIRATION!! 
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 32</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WE DON'T HAVE CONTROL OVER WHAT PEOPLE SAY OR DO; WE ONLY HAVE CONTROL OVER OUR RESPONSE... <br>
+                    TO SAY OR NOT TO SAY ANYTHING! TO DO OR NOT TO DO ANYTHING!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 33</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    WHEN PEOPLE ACT ie SAY OR DO ANYTHING... <br>
+                    YOU SHOULD NOT JUST REACT! THINK AND THEN ACT!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 34</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>PEARLS OF LIFE</u> <br>
+                    DURING OUR LIFE, WE GET MANY PEARL'S OF WISDOME... <br>
+                    WE GET MANY FROM OUR ELDERS, MANY ARE TAUGHT TO US BY NATURE, MANY WE LEARN FROM OUR MISTAKES, MOST PRECIOUS ARE THE ONE'S WE GET FROM "GOD"... <br>
+                    WE MUST SAVE THESE PEARL'S AND THEY ARE OUR TRUE WEALTH!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 35</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IF YOU WANT A HUG; GIVE A HUG! <br>
+                    IF YOU WANT TO MAKE MONEY; YOU HAVE TO MAKE OTHER PEOPLE MONEY! <br>
+                    NOW YOU HAVE TRIED AND MADE MONEY FOR OTHER PEOPLE AND THEY HAVE NOT PAID FOR YOUR EFFORTS; <br>
+                    SO, I SUGGEST THAT YOU DO THAT NEXT TIME WITH FULL PAPERWORK OR IDENTIFY BUSINESS OPPORTUNITIES. DEVELOP BUSINESS PLANS, GET SMART PEOPLE TO MANAGE IT AND EARN THEIR PARTNERSHIP!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 36</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    <u>INFINITY</u> <br>
+                    &infin;
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 37</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    "PRABHU"; <br>
+                    SOCHNE SE KYA HOTA HAI? <br>
+                    SOCH KE DEKH LIYA! <br>
+                    KARNE SE KYA HOTA HAI? <br>
+                    KAR KE BHI DEKH LIYA! <br>
+                    JO KUCH BHI HOTA HAI, WOH AAPKI MARZI SE HOTA HAI!! <br>
+                    "PRABHU";
+                    AAP HI NE RASTE BANANE HAIN! <br>
+                    AAP HI NE MUSHKILEN DOOR KARNI HAIN! <br>
+                    AAP HI NE DARWAZE KHOLNE HAIN! <br>
+                    AAP HI NE SAHI SOCH BAKSHNI HAIN! <br>
+                    AAP HI NE SAHI KAAM KARWANA HAI! <br>
+                    AAP HI NE SAB BAKSHISHEN KAROI HAI! <br>
+                    AAP HI NE SAB KUCH KARNA HAI! <br>
+                    AUR YE SAB AAPKI KIRPA SE HI HOGA.. <br>
+                    "PRABHU" KIRPA KARNA AUR KIRPA RAKHNA, HAMESHA...
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 38</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    YOU HAVE TO FIRST BELIEVE ON THE INSIDE, BEFORE, THINGS CAN HAPPEN ON THE OUTSIDE!! <br>
+                    <hr><br>
+                    YOU HAVE TO FIRST CHANGE ON THE INSIDE, BEFORE, THINGS CAN CHANGE ON THE OUTSIDE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 39</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ALMOST ALL OF OUR PROBLEMS, DIFFICULTIES, OBSTACLES, FEARS, WORRIES, ETC... ARE IN OUR HEAD! THEIRFORE, IF WE TAKE CARE OF OUR HEAD AND WE MUST, ALMOST ALL THE PROBLEMS, ETC 
+                    WILL DISAPPEAR AND OPEN THE PATHWAY TO SUCCESS IN OUR LIFE!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 40</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE BEST LIVING SPIRITUAL SPEAKER WHO EXPLAINS LIFE IN VERY PRACTICAL WAYS, I HAVE HEARD IS JOEL OSTEEN OF THE LAKEWOOD CHUCH. LISTEN TO HIS SERMON
+                    REGULARLY, TAPE IT AND HEAR IT AGAIN WHEN YOU NEED TO GET BACK ON TRACK!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 41</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    REMEMBER THE OPRAH SHOW FEATURING DR.MEHMET SHOWING HOW BODY PARTS DETERIORATE BECAUSE OF OUR OWN MALTREATMENT!
+                    HE ALSO SHOWED HOW BY EATING WELL, DOING EXERCISE, WEIGHT LIFTING, BEING SEXUALLY ACTIVE ie 4 TIMES A WEEK, WE CAN AGE IN A BETTER WAY AND LIVE LONGER!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 42</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ON THE SAME OPRAH SHOW THEIR WAS ANOTHER DR, WHO SAID THAT, FEAR OF DYING IS ONLY A TEMPORARY DETERRENT, BECAUSE PEOPLE GO BACK INTO DENIAL!
+                    THE WAY TO SUSTAIN A HEALTHY LIFESTYLE IS BY CULTIVATING THE JOY OF LIVING! HE ALSO RECOMMENDS MEDITATION, EVEN THOUGH FOR FEW MOMENTS A DAY! 
+                    HE ALSO SAID THAT, WE ARE PEACEFUL AND HAPPY BY NATURE UNTIL WE DISTURB IT! OTHERS MAY OR WILL TRY TO DISTURB US BUT ONLY IF WE ALLOW THEM TO DO SO!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 43</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    PRARYER LIKE MEDITATION, THE LONGER THE BETTER! BUT, CONSISTENCY IS EVEN MORE IMPORTANT THAN DURATION!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 44</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    IN LIFE, WHEREVER ONE MAY LIVE, ONE IS FACED WITH RACISM, DISCRIMINATION, CRONYISM, NEPOTISM, HATRED, JEALOUSY, AND SO MANY OTHER OBSTACLES! <br>
+                    ONE MUST LEARN HOW TO NOT FIGHT WITH THEM HEAD ON, BUT TO LEARN TO MANOUEVER AROUND THEM AND KEEP THE FOCUS ON YOUR GOAL AND ACHIEVING IT!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 45</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    FAITH, IS; <br>
+                    SUBSTANCE OF OUR HOPES, EVIDENCE OF THE UNSEEN!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 46</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE WHITE MAN LOVES MONEY! <br>
+                    HE BOUGHT + SOLD SLAVES FOR MONEY! <br>
+                    HE FREED THE SLAVES FOR MONEY! <br>
+                    HE IS GOOD AT MAKING MONEY! <br>
+                    HE IS GOOD AT KEEPING MONEY! <br>
+                    LEARN FROM THE WHITE MAN! <br>
+                    AND, IF YOU ARE COMPETENT ENOUGH, HE WILL EVEN LET YOU HANDLE HIS MONEY!!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 47</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    A THOUSAND MILE JOURNEY, BEGINS WITH THE FIRST STEP!! - CHINESE PROVERB
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 48</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    THE RICHEST MAN IN THE WORLD IS NOT ONE WHO HAS WEALTH, FAME, FORTUME ETC BUT THE MAN WHO HAS "PEACE OF MIND"!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 49</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    MAN'S NEED'S ARE VERY LITTLE, BUT, THEIR IS IS NO END TO A MAN'S WANTS! THEY ARE UNLIMITED! THE MORE HE GETS, THE MORE HE WANTS!!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
+
+        <div class="post">
+            <h2><a >PAGE 50</a></h2>
+            <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+            
+
+            <div class="subcat">
+                <h3>MY JOURNAL(2)</h3>
+                <p class="title">For My Son, Raj Bedi, Love Daddy</p>
+                
+                <br>
+                <p>
+                    ALL HUMAN BEINGS ASPIRE TO HAPPINESS! <br>
+                    WE PURSURE IT GOING FROM ONE PLACE TO ANOTHER! <br>
+                    WE CHASE IT THINKING THAT IT LIES IN GAINING MATERIAL THINGS! <br>
+                    WE DREAM IT HOPING TO FIND IT, BUT IN THE WRONG PLACES! <br>
+                    TRUE HAPPINESS LIES WITHIN US! 
+                    INSIDE US IS THE KEY TO SELF_REALIZATION! SELF REALIZATION THAT GOD LIVES WITHIN US, AND TRUE HAPPINESS IS IN THE PURSUIT OF SPIRITUAL LIFE... AND ENLIGHTENMENT!
+                </p>
+
+            </div>
+
+
+
+
+        </div>
+
     </main>
 </div><!-- END #content -->
