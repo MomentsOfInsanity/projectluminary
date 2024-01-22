@@ -29,6 +29,35 @@
 
 
         <div class="post">
+            <h2>Sunday: Peruvian</h2>
+            <p class="info"><span class="date">01-21-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>More chores and new foods</h3>
+                <p class="title">Trying Peruvian...</p>
+                <p>
+                    Another day filled with chores, but for lunch I went with Glenn to a peruvian restaurant. He wanted to try something new. I got the friend rice while Glenn got the beef with plain rice. I need to reference what the actual names are.
+                    I'll edit this when I find out. It wasn't bad but Glenn did not care for it too much. That is okay. It is the Spice of Life. We try what we can but not everything will work out.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+
+        <div class="post">
             <h2>Saturday: Life is Garlic Bread with Cheese</h2>
             <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
