@@ -7,7 +7,7 @@
 
         <div class="post">
             <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Pinned: Building in Progress</a></h2>
-            <p class="info"><span class="date">12-28-2023 09:00 PM EST</span> by <span class="user"><a
+            <p class="info"><span class="date">01-22-20243</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             <p>This is a site for me to experiment and build on. Here is a weather API connected to my github. It will
                 update automatically.<br>
@@ -25,6 +25,37 @@
 
 
 
+        </div>
+
+
+        <div class="post">
+            <h2>Monday: Back to work</h2>
+            <p class="info"><span class="date">01-21-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Thai for the redemption</h3>
+                <p class="title">Thai and Mondays</p>
+                <p>
+                    Once again it's a Monday. Another day of work. I figured I would do something nicer today and dress up more better for work. I felt good about myself. It is a lot of effort though to wake up in the morning to iron clothes.
+                    Maybe I should do this at night and have the clothes ready. For lunch I went to Just Salads and got a spinach bowl with raisans, picklen onions, roasted corn, and crotons. As my protein i chose the impossible chicken. It's 
+                    not bad but does have weird text intially. <br><br>
+                    For the evening, Glenn was not happy with peruvian food and wanted a redemption so we got thai food. This time I got the Tofu Drunken Noodles Extra Spicy. We went to a place Phill recommended. It tastes good,
+                    but I wanted more noodles then vegetables. I played some no man sky at home and that was pretty much my day.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
         </div>
 
 
