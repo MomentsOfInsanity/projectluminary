@@ -29,8 +29,65 @@
 
 
         <div class="post">
+            <h2>Wednesday: Yogurt</h2>
+            <p class="info"><span class="date">01-23-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>The Bear</h3>
+                <p class="title">Yogurt and Bear</p>
+                <p>
+                    Today was a normal day at work. Though I think I made my boss happy as he gave me a $50 amazon gift card as a bonus. I used the gift card to buy 5 more naruto mangas. <br>
+                    I realized I have not bought any of my naruto manga. It has either been given as a gift or bought through gift cards that I got from work. Yes it is buying something but its practically free money.
+                    <br><br>
+                    After work, as per usual I picked up the yogurt for Glenns Mom. I went home and watched The Bear. I had finished Season 1. It's a really good show. Glenn offered to buy me naruto manga if i do more exercise. That would be so funny but considering it. I need to get back into shape.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Tuesday: Work</h2>
+            <p class="info"><span class="date">01-23-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="subcat">
+                <h3>Setting up OBS</h3>
+                <p class="title">I wanna record</p>
+                <p>
+                    Another normal day of work. After work I went home and reset up my OBS. Eventually I plan to record but I need to do it sooner than later. I had pizza for dinner. One plain slice and one sicilian. It burnt the roof my mouth because of the heat.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Monday: Back to work</h2>
-            <p class="info"><span class="date">01-21-2024</span> by <span class="user"><a
+            <p class="info"><span class="date">01-22-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
