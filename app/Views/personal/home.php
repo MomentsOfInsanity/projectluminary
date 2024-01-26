@@ -34,7 +34,7 @@
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
 
-            <div class="pics"><a href="/assets/media/personal/torisbday.jpg"><img src="/assets/media/personal/torisbday.jpg" width="700"
+            <div class="pics"><a href="/assets/media/personal/torisbday.jpg"><img src="/assets/media/personal/torisbday.jpg" width="500"
             alt="Toris Birthday" loading="lazy"></a></div>
 
             <div class="subcat">
