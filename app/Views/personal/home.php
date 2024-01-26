@@ -29,8 +29,42 @@
 
 
         <div class="post">
+            <h2>Thursday: Tori's Birthday</h2>
+            <p class="info"><span class="date">01-25-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+            <div class="pics"><a href="/assets/media/personal/torisbday.jpg"><img src="/assets/media/personal/torisbday.jpg" width="700"
+            alt="Toris Birthday" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Birthday Celebrations</h3>
+                <p class="title">Cake and Bowling</p>
+                <p>
+                    Another normal day at work today. I finished building another feature into iBlocks Online. This allows district and school admins to be used as teachers. It may not make sense but it was a pretty cool thing. <br>
+                    After work, I went home for a short bit, then went to Glenns. We celebrated Tori's birthday with some cake. After the birthday, Joe had come and along with Tori and her boyfriend we went bowling. Unfortunately what 
+                    none of us realized was that it was league night so we waited in the car for a bit and another bit longer at the bar. I got a drink cocktail. Honestly I didn't like it. Glenn ordered a beer, but he got lucky and got a double because they
+                    didn't have the smaller glasses available. Due to the time, I however had to leave early and could not bowl. I went home and knocked out. I was so tired. Working takes a lot out of me.
+                </p>
+            </div>
+
+
+
+
+
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Wednesday: Yogurt</h2>
-            <p class="info"><span class="date">01-23-2024</span> by <span class="user"><a
+            <p class="info"><span class="date">01-24-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
