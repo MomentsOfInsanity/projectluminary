@@ -33,10 +33,10 @@
             <p class="info"><span class="date">01-28-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-                        <div class="pics"><a href="/assets/media/personal/food/CholePuri.JPG"><img src="/assets/media/personal/food/CholePuri.JPG" width="300"
-            alt="Chole Puri" loading="lazy"></a></div>
+                        <div class="pics"><a href="/assets/media/personal/food/Pakodas.JPG"><img src="/assets/media/personal/food/Pakodas.JPG" width="300"
+            alt="Pakodas" loading="lazy"></a></div>
 
-            <div class="pics"><a href="/assets/media/personal/food/Pakodas.JPG"><img src="/assets/media/personal/food/Pakodas.JPG" width="300"
+                        <div class="pics"><a href="/assets/media/personal/food/CholePuri.JPG"><img src="/assets/media/personal/food/CholePuri.JPG" width="300"
             alt="Chole Puri" loading="lazy"></a></div>
 
 
