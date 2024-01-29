@@ -29,6 +29,112 @@
 
 
         <div class="post">
+            <h2>Sunday: Gaming and Food</h2>
+            <p class="info"><span class="date">01-28-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+                        <div class="pics"><a href="/assets/media/personal/food/CholePuri.JPG"><img src="/assets/media/personal/food/CholePuri.JPG" width="300"
+            alt="Chole Puri" loading="lazy"></a></div>
+
+            <div class="pics"><a href="/assets/media/personal/food/Pakodas.JPG"><img src="/assets/media/personal/food/Pakodas.JPG" width="300"
+            alt="Chole Puri" loading="lazy"></a></div>
+
+
+            <div class="subcat">
+                <h3>Oily Foods and Making Videos</h3>
+                <p class="title">Good eats</p>
+                <p>
+                    Today was a interesting day. I tried to cut back on chores today due to being sore yesterday. I did some light stuff. Today was a day of good food. <br>
+                    In the morning my mom made Chole and Puri. I had 3 puris with the chole. For the evening, my mom made Pakodas. We made paneer, onion, chili and bread pakodas.
+                    I wasn't too much of a fan of chile pakodas but the onion paneer and bread pakodas slapped. The bread pakodas was made with taking leftover aloo stuffing into a sandwich and 
+                    coating the bread and frying it. I was in food heaven today. I never liked pakodas growing up but I have grown to like it of recent years. Especially after my last trip to India.
+                    <br> However I feel my mom still makes the batter a bit thick and floury. Need to figure out how to have the same crisp but less thickness. Because of the thickness, if 
+                    it is not eaten fresh it can get soggy afterwards. 
+                </p>
+                <p class="title">Pokemon Fever</p>
+                <p>
+                    As mentioned from my Saturday post I have started recording again. I am playing Pokemon XD: Gale of Darkness. I am trying to complete a challenge by the date of April 8th. But more realistically April 1st as I need a buffer. <br>
+                    The challenge is pretty simple. On April 8th, is when Pokemon will shut down online services for several 3ds games and soon after Pokemon Bank. Pokemon has the unique
+                    ability to transfer all your pokemon from older games to the newer games. So theoretically I can transfer pokemon from gen 3 to the current games. They have gen 1-2 as virtual games,
+                    but as gen 3 games have remaster versions and the fact I never played original gen 1-2 for example Red, but played FireRed I decided to do it this way. <br>
+                    The games I will be playing for the challenge are Pokemon Colosseum which is already completed, Pokemon XD: Gale of Darkness, Pokemon FireRed,
+                    Pokemon Emerald, Pokemon Platinum, Pokemon Heartgold, Pokemon Black, Pokemon Black 2, Pokemon X or Y, Pokemon Alpha Sapphire, Pokemon Sun, and Pokemon Ultra Moon. <br>
+                    Yea. I know it's a lot. I only have 2 months. I should have started atleast the first 4 games earlier. It is not the easiest to get moving and do. With a hard deadline its now or never.
+                    I want to be able to play these games and transfer all my friends up to the modern games. While I can still have them on the older games. It would be so cool for everything I have collected.
+                    <br><br>
+                    Paragraph aside, I spent a bit of time trying to figure out how to stream and record. The last time I did this I wasnt able to do things properly. With a bit more research,
+                    I reset OBS and start again. I got a good setup going this time. I feel more motivated to record and stream now then ever. Just have to keep up with the deadline. I finished upto episode 6.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+
+        <div class="post">
+            <h2>Saturday: Chores and Gaming</h2>
+            <p class="info"><span class="date">01-27-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/food/AlooParatha.jpg"><img src="/assets/media/personal/food/AlooParatha.jpg" width="300"
+            alt="Aloo Paratha" loading="lazy"></a></div>
+
+
+            <div class="subcat">
+                <h3>Cleaning the Backyard</h3>
+                <p class="title">Chores, Movies and Games</p>
+                <p>
+                    Saturday morning. As typical with most of my Saturdays, it begins with doing chores due to me being busy over the week. <br>
+                    I threw all the pots from the backyard, as well as the table and any broken stuff. I also blew the backyard parking lot with a leaf blower to make it look neat. 
+                    I also did the dishes and the laundry. There was few other things I did but I can't remember now. This was my day throughout. <br><br>
+                    For breakfast/lunch my mom made Aloo Parathas. I had 2 of them. They were delicious. I also had a cup of chai. Aloo Parathas are one of my favoite dishes. While we ate, 
+                    we started a movie called Udaan. Honestly it was pretty good. It wasn't a typical bollywood movie. It was more of a drama. I liked it. <br><br>
+                    In the night, I had cleaned up my room and started the setup for recording my games once again. I had gotten it mostly right but was having some minor issues with it. 
+                    The game sound was not coming out of my headphones which it usually did. I eventually figured out it had to do with the mic not being assigned so my bluetooth headphones kept
+                    tripping up OBS due to it being a mic and headphone 2 in 1 but OBS can only recognize one at a time. I played for a brief time only finishing the first episode.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+
+        <div class="post">
+            <h2>Friday: End of the Week</h2>
+            <p class="info"><span class="date">01-26-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+            <div class="subcat">
+                <h3>Work and Shopping</h3>
+                <p class="title">Finishing the day</p>
+                <p>
+                    It is Friday and I am exhausted. I finished the day at work, and had to take a 2 hour nap at the Long Island Welcome Center. Eventually I arrived near home and did Costco shopping. I knocked out soon after.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Thursday: Tori's Birthday</h2>
             <p class="info"><span class="date">01-25-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
