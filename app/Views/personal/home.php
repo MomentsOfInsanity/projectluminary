@@ -29,6 +29,77 @@
 
 
         <div class="post">
+            <h2>Tuesday: Work and Queens</h2>
+            <p class="info"><span class="date">01-30-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+
+            <div class="subcat">
+                <h3>Fixing Queens and work 2</h3>
+                <p class="title">Finishing another task</p>
+                <p>
+                    Another day of work, I finished building the district and school features to add teachers and classes.
+                    I also built the search user and spoof capabilities. <br> After work, I hanged out with phill for a bit. Since he is moving soon, he was going through things to sell and we were talking of the future.
+                    Its been a minute of us hanging 1 on 1 as we are both busy with our lives. I came home finished the second season of the bear and eventually slept after eating rice kichadi.
+                </p>
+            </div>
+
+        </div>
+
+
+        <div class="post">
+            <h2>Tuesday: Work and Queens</h2>
+            <p class="info"><span class="date">01-30-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+
+            <div class="subcat">
+                <h3>Fixing Queens and work</h3>
+                <p class="title">Work and life</p>
+                <p>
+                    I had to go to work, while my mom handled calling people and doing repairs. Despite it all, it's kinda cool what she can handle. At work, I added the feature of districts and schools to add teachers and classes.
+                    <br> After work, I stopped by glenns for a cup of coffee. I went home and Yu and me watched the finale of the Percy Jackson series. It was awesome. Soon after I went to sleep.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Monday: Work and Gaming</h2>
+            <p class="info"><span class="date">01-29-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+
+            <div class="subcat">
+                <h3>Start of the Week</h3>
+                <p class="title">Work and life</p>
+                <p>
+                    Today was a normal day at work. I finished building another feature into iBlocks Online. I can't remember much but just been banging out these features. Been busy with a lot of tasks. <br>
+                    After work, I went home and played more Twitch. However in the night, issues started to arise in Queens House. Basement was leaking from the cieling a lot, and the second floor had a case of bed bugs. This stressed me out with anixety.
+                    I kept playing but it did not make me feel better as I was not in the mood. It felt forced.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Sunday: Gaming and Food</h2>
             <p class="info"><span class="date">01-28-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
