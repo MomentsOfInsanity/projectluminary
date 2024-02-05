@@ -29,22 +29,163 @@
 
 
         <div class="post">
-            <h2>Tuesday: Work and Queens</h2>
-            <p class="info"><span class="date">01-30-2024</span> by <span class="user"><a
+            <h2>Sunday: Travel to Queens</h2>
+            <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/February2024/PunditsDog.jpg"><img src="/assets/media/personal/February2024/PunditsDog.jpg" width="300"
+            alt="Lego Plants" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Queens Check up and Dogs</h3>
+                <p class="title">Another Day of tenants</p>
+                <p>
+                    Today mom and me went to Queens, to show a potential buyer for the house. We gave the basement and firstfloor some bug traps. It's not a big deal to go to Queens but it does 
+                    take a portion of the day. After we stopped by the Gurdwara to pray and eat langar. After that, we went and stopped by Pundits. I mostly played with the Dog. We weren't there for long.
+
+                </p>
+            </div>
+
+
+            <div class="subcat">
+                <h3>Hanging out with Yu</h3>
+                <p class="title">Studying, games, and exercise</p>
+                <p>
+                   It has been some time since I got to properly talk with Yu. We caught up over the last few days. Saturday was Asthas 18th birthday. We mostly hanged on call. I decided to test 
+                   the Gameboy machine by epilogue. It allows me to play gameboy games on the computer. Honestly it was pretty awesome. It has a lot of potential. I mostly gave Yu company as she did her work. I 
+                   forgot to mention I also worked out again before the call with Yu for the first time in a long time. I did a 40 minute walk at 1.5 speed to get 1 mile at a 10% incline. I also had pizza prior to the work out 
+                   so atleast I burnt off what I put in.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Saturday: Another day of Chores</h2>
+            <p class="info"><span class="date">02-03-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
 
 
             <div class="subcat">
-                <h3>Fixing Queens and work 2</h3>
-                <p class="title">Finishing another task</p>
+                <h3>Decluttering the house</h3>
+                <p class="title">Chores and more chores.</p>
                 <p>
-                    Another day of work, I finished building the district and school features to add teachers and classes.
-                    I also built the search user and spoof capabilities. <br> After work, I hanged out with phill for a bit. Since he is moving soon, he was going through things to sell and we were talking of the future.
-                    Its been a minute of us hanging 1 on 1 as we are both busy with our lives. I came home finished the second season of the bear and eventually slept after eating rice kichadi.
+                    It is a Saturday again and you know what that means. More Chores! Yay... I mostly decluttered the den. My mom made me also install more cameras. It's annoying to deal with but its whatever.
+                    That was most of my day.
                 </p>
             </div>
 
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Friday: LEGOS!</h2>
+            <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+            <div class="pics"><a href="/assets/media/personal/legos/February2024/LegoPlants.jpg"><img src="/assets/media/personal/legos/February2024/LegoPlants.jpg" width="300"
+            alt="Lego Plants" loading="lazy"></a></div>
+
+            <div class="pics"><a href="/assets/media/personal/legos/February2024/LegoPlantsGroupPic.PNG"><img src="/assets/media/personal/legos/February2024/LegoPlantsGroupPic.PNG" width="300"
+            alt="Lego Plants" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Legos with the bros</h3>
+                <p class="title">Succulents Timelapse</p>
+                <p>
+                    Alright, today is a fun day to talk about. I had a normal day at work. During lunch I played more Firered. I also got a haircut right afterwork. <br>
+                    Around 7PM, the guys and I got pizza at Glenns. I had couple plain slices. Glenn had a box of 3 in 1 lego succulents. It's been a while since we were able to do a group activity together.
+                    I decided it would be fun to timelapse it all. Phill and Glenn worked together on a set. Joe worked on his and I worked on mine. Glenn and Phill have been playing with legos for years.
+                    I never got into it finding it to cumbersome. However, over the last several years after being gifted seevral legos, I got Espeon and Umbreon from Yu. I got Snorlax from Joe. I got lego spiderman
+                    from a christmas white elephant party. I got Butterfree, and the Kanto starters with Pikachu from Phill for our Secret Santa. I think its the universe telling me to play with legos. <br>
+                    <br> Glenn and Phill finished pretty early. Phill then came and helped me as I had multiple pieces. Joe took a bit of time. No hates towards the man but man cannot talk and build at the same time. I 
+                    say that with all the love lol. It's okay I did not mind it. We were all chilling. Post legos glenn was knitting. Phill was hanging around and I started to play my game until Joe was done.
+                    <br> I had a great time. I am glad we were able to do this. I hope we can do more things like this. The timelapse is honestly pretty funny. Check it out!
+                </p>
+            </div>
+
+
+            <div class="pics"><a href="/assets/media/personal/videos/February2024/legotimelapse.MOV"><video muted width="300"
+            alt="Lego TImelapse"><source src="/assets/media/personal/videos/February2024/legotimelapse.MOV" type="video/mp4"></a></div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Thursday: Beginning of February</h2>
+            <p class="info"><span class="date">02-01-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+
+            <div class="subcat">
+                <h3>The Time Flies</h3>
+                <p class="title">Catching the pokemons</p>
+                <p>
+                    Its another day, but its February. Where did the time go seriously? I have been so busy with work and life that I have not been able to do much. I have been playing Pokemon Firered.
+                    I played some XD: Gale of Darkness. I have been doing chores non stop on weekends. It feels like I dont always get to do much. Thats why I started on this daily blog. Its to show myself the little things along
+                    the way. The important things we tend to forget but are still hugely part of our days. Today was another day of work. I finished it and was back home. I have 
+                    been playing Firered during my lunch breaks and post work.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Wednesday: Work and Phill</h2>
+            <p class="info"><span class="date">01-31-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+
+            <div class="subcat">
+                <h3>Phills moving out</h3>
+                <p class="title">Got some neat stuff</p>
+                <p>
+                    Another day of work, I finished building the district and school features to add teachers and classes.
+                    I also built the search user and spoof capabilities. I cant remember if it was Wednesday or Tuesday but I started Pokemon Firered <br> After work, I picked up the yogurt and went to Phills. I hanged out with phill for a bit. Since he is moving soon, he was going through things to sell and we were talking of the future.
+                    Its been a minute of us hanging 1 on 1 as we are both busy with our lives. I was able to get some neat stuff like 4k UHD blu-ray player, and a original gameboy. I came home finished the second season of the bear and eventually slept after eating rice kichadi.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
         </div>
 
 
