@@ -241,7 +241,7 @@
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
                <br> 
-           <p> “Not having the best situation, but seeing the best in your situation is the key to happiness.” — Marie Forleo</p>
+           <p><strong>“Not having the best situation, but seeing the best in your situation is the key to happiness.”</strong>  — Marie Forleo</p>
             <br>
             </div>
             
