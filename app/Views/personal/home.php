@@ -33,7 +33,7 @@
             <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/February2024/PunditsDog.jpg"><img src="/assets/media/personal/February2024/PunditsDog.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/02February/PunditsDog.jpg"><img src="/assets/media/personal/2024/02February/PunditsDog.jpg" width="300"
             alt="Lego Plants" loading="lazy"></a></div>
 
             <div class="subcat">
@@ -99,10 +99,10 @@
             <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/legos/February2024/LegoPlants.jpg"><img src="/assets/media/personal/legos/February2024/LegoPlants.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/02February/legos/LegoPlants.jpg"><img src="/assets/media/personal/2024/02February/legos/LegoPlants.jpg" width="300"
             alt="Lego Plants" loading="lazy"></a></div>
 
-            <div class="pics"><a href="/assets/media/personal/legos/February2024/LegoPlantsGroupPic.PNG"><img src="/assets/media/personal/legos/February2024/LegoPlantsGroupPic.PNG" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/02February/legos/LegoPlantsGroupPic.PNG"><img src="/assets/media/personal/2024/02February/legos/LegoPlantsGroupPic.PNG" width="300"
             alt="Lego Plants" loading="lazy"></a></div>
 
             <div class="subcat">
@@ -244,10 +244,10 @@
             <p class="info"><span class="date">01-28-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-                        <div class="pics"><a href="/assets/media/personal/food/Pakodas.JPG"><img src="/assets/media/personal/food/Pakodas.JPG" width="300"
+                        <div class="pics"><a href="/assets/media/personal/2024/01January/food/Pakodas.JPG"><img src="/assets/media/personal/2024/01January/food/Pakodas.JPG" width="300"
             alt="Pakodas" loading="lazy"></a></div>
 
-                        <div class="pics"><a href="/assets/media/personal/food/CholePuri.JPG"><img src="/assets/media/personal/food/CholePuri.JPG" width="300"
+                        <div class="pics"><a href="/assets/media/personal/2024/01January/food/CholePuri.JPG"><img src="/assets/media/personal/2024/01January/food/CholePuri.JPG" width="300"
             alt="Chole Puri" loading="lazy"></a></div>
 
 
@@ -293,7 +293,7 @@
             <p class="info"><span class="date">01-27-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/food/AlooParatha.jpg"><img src="/assets/media/personal/food/AlooParatha.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/01January/food/AlooParatha.jpg"><img src="/assets/media/personal/2024/01January/food/AlooParatha.jpg" width="300"
             alt="Aloo Paratha" loading="lazy"></a></div>
 
 
@@ -351,7 +351,7 @@
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
 
-            <div class="pics"><a href="/assets/media/personal/torisbday.jpg"><img src="/assets/media/personal/torisbday.jpg" width="500"
+            <div class="pics"><a href="/assets/media/personal/2024/01January/torisbday.jpg"><img src="/assets/media/personal/2024/01January/torisbday.jpg" width="500"
             alt="Toris Birthday" loading="lazy"></a></div>
 
             <div class="subcat">
@@ -501,7 +501,7 @@
             <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
             
-            <div class="pics"><a href="/assets/media/personal/food/CheesyGarlicBread.jpg"><img src="/assets/media/personal/food/CheesyGarlicBread.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/01January/food/CheesyGarlicBread.jpg"><img src="/assets/media/personal/2024/01January/food/CheesyGarlicBread.jpg" width="300"
             alt="Cheesy Garlic Bread" loading="lazy"></a></div>
 
             <div class="subcat">
@@ -566,8 +566,8 @@
             <p class="info"><span class="date">01-18-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/videos/foxhollowteq.mp4"><video muted autoplay loop width="300"
-            alt="Golf"><source src="/assets/media/personal/videos/foxhollowteq.mp4" type="video/mp4"></a></div>
+            <div class="pics"><a href="/assets/media/personal/2024/01January/videos/foxhollowteq.mp4"><video muted autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/2024/01January/videos/foxhollowteq.mp4" type="video/mp4"></a></div>
 
             <div class="subcat">
                 <h3>Company Party at the Foxhollow</h3>
@@ -600,8 +600,8 @@
             <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/videos/golf1.mp4"><video muted autoplay loop width="300"
-            alt="Golf"><source src="/assets/media/personal/videos/golf1.mp4" type="video/mp4"></a></div>
+            <div class="pics"><a href="/assets/media/personal/2024/01January/videos/golf1.mp4"><video muted autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/2024/01January/videos/golf1.mp4" type="video/mp4"></a></div>
 
             <div class="subcat">
                 <h3>Golf in the City</h3>
@@ -618,8 +618,8 @@
                 <p>That was the major event over the past 2 weeks. Most of the time I have been working and doing chores at home. Sometimes hanging out at glenns for a brief time. Played No Man Sky for a bit. Thats pretty much the recap for the rest of my days.</p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/videos/golf2.mp4"><video muted autoplay loop width="300"
-            alt="Golf"><source src="/assets/media/personal/videos/golf2.mp4" type="video/mp4"></a></div>
+            <div class="pics"><a href="/assets/media/personal/2024/01January/videos/golf2.mp4"><video muted autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/2024/01January/videos/golf2.mp4" type="video/mp4"></a></div>
 
 
 
@@ -690,7 +690,7 @@
             <p class="info"><span class="date">12-31-2023</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/NYE2023.jpg"><img src="/assets/media/personal/NYE2023.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2023/12December/NYE2023.jpg"><img src="/assets/media/personal/2023/12December/NYE2023.jpg" width="300"
             alt="Group pic" loading="lazy"></a></div>
 
             <div class="subcat">
@@ -709,7 +709,7 @@
                 </p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/cakeface.jpg"><img src="/assets/media/personal/cakeface.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2023/12December/cakeface.jpg"><img src="/assets/media/personal/2023/12December/cakeface.jpg" width="300"
             alt="Cake on my face" loading="lazy"></a></div>
 
 
@@ -730,7 +730,7 @@
             <p class="info"><span class="date">12-29-2023 / 09:40 EST</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
-            <div class="pics"><a href="/assets/media/personal/boys/fireplace.jpg"><img src="/assets/media/personal/boys/fireplace.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2023/12December/boys/fireplace.jpg"><img src="/assets/media/personal/2023/12December/boys/fireplace.jpg" width="300"
             alt="Boys fireplace" loading="lazy"></a></div>
 
             <div class="subcat">
