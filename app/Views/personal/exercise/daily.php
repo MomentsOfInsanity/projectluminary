@@ -53,14 +53,14 @@
     <main>
 
         <div class="post">
-            <h2>Thursday: Daily Progress - 01-04-2024</h2>
-            <p class="info"><span class="date">01-04-2024</span> by <span class="user"><a
+            <h2>Sunday: Daily Progress - 02-04-2024</h2>
+            <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
-                <h3>Water Tracker</h3>
-                <p class="title">Total bottles per day</p>
-                <div class="cups">
+                <!-- <h3>Water Tracker</h3> -->
+                <!-- <p class="title">Total bottles per day</p> -->
+                <!-- <div class="cups">
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
@@ -69,13 +69,13 @@
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
                     <div class="cup cup-small">16.9 Oz</div>
-                </div>
+                </div> -->
                 <br>
                 <br>
-                <h3>5 Miles by end of January</h3>
-                <p>Progress 0.60/5.00 Miles</p>
+                <h3>Beginning once again..</h3>
+                <p>Progress 1.00/5.00 Miles</p>
                 <br>
-                <p>I am still tired from yesterday. I will not be running today.</p>
+                <p>I started walking today. I did 1 mile at a 10% incline and 1.5 MPH. It was the first time in a long while since I worked out. It felt good. I need to keep consistency!</p>
             </div>
 
 
@@ -85,48 +85,7 @@
 
         </div>
 
-        <div class="post">
-            <h2>Wednesday: Daily Progress - 01-03-2024</h2>
-            <p class="info"><span class="date">01-03-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
-
-            <div class="subcat">
-                <h3>Water Tracker</h3>
-                <p class="title">Better start somewhere</p>
-                <p class="text">Select how many glasses of water that you have drank</p>
-                <div class="cups">
-                    <div class="cup cup-small full">16.9 Oz</div>
-                    <div class="cup cup-small full">16.9 Oz</div>
-                    <div class="cup cup-small full">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                </div>
-                <br>
-                <p>Phill has challenged me to do 5 miles in a month. The reward my self-satisfaction and a stock. It will be difficult but I shall try. <br>
-                I also want to be fit. My goal is to become like Chuando Tan. I am now 26. I need to start now. I procrastinated too much.
-                </p>
-                <br>
-                <br>
-                <h3>30 Crunches a Day</h3>
-                <p>Day 1 - 0/30</p>
-                <p>Changed from challenge to this. Didn't start this.</p>
-                <br>
-                <br>
-                <h3>5 Miles by end of January</h3>
-                <p>Progress 0.60/5.00 Miles</p>
-                <br>
-                <p>My feet are tired. Hopefully I can keep consistent.</p>
-            </div>
-
-
-
-
-
-
-        </div>
+        
 
 
     </main>
