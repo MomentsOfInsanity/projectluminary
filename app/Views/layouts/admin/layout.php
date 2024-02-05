@@ -241,7 +241,7 @@
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
             <div align="center">
                <br> 
-           <p> “A year from now you may wish you had started today.” — Karen Lamb</p>
+           <p> “Not having the best situation, but seeing the best in your situation is the key to happiness.” — Marie Forleo</p>
             <br>
             </div>
             
