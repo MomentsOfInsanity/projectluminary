@@ -122,7 +122,7 @@
 
 
             <div class="pics"><a href="/assets/media/personal/videos/February2024/legotimelapse.MOV"><video muted width="300"
-            alt="Lego TImelapse"><source src="/assets/media/personal/videos/February2024/legotimelapse.MOV" type="video/mov"></a></div>
+            alt="Lego TImelapse"><source src="/assets/media/personal/videos/February2024/legotimelapse.MOV" type="video/mp4"></a></div>
 
         </div>
 
