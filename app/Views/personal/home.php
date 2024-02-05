@@ -121,8 +121,7 @@
             </div>
 
 
-            <div class="pics"><a href="/assets/media/personal/videos/February2024/legotimelapse.MOV"><video muted width="300"
-            alt="Lego TImelapse"><source src="/assets/media/personal/videos/February2024/legotimelapse.MOV" type="video/mp4"></a></div>
+            <div class="pics"><iframe width="320" height="240" src="https://www.youtube.com/embed/JXvabrPtDzg?si=LoBuYPGG2rus81LL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
         </div>
 
