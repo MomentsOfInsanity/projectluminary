@@ -29,6 +29,55 @@
 
 
         <div class="post">
+            <h2>Monday: Work and Sandwiches</h2>
+            <p class="info"><span class="date">02-05-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+
+
+            <div class="subcat">
+                <h3>Dealing with work</h3>
+                <p class="title">Garbage Collection</p>
+                <p>
+                    There was a issue we had been trying to deal with for a while. The app would dramatically slow down when there was 30 something students using the application for the first time.
+                    It would practically break the site. We had 3 developers inlcuding myself and the i.t team trying to figure this out. Eventually we came to the conclusion that it had to do with session data.
+                    We were not garbage collecting which added up over time to 2.5 million rows of data. Deleting the records sped everything up and we put in place to delete old session data once it has been expired.
+                    It is just one of those things that we have to figure out as there was not much we could test with. I do feel bad for the schools who is our guinea pigs in a sense since this app is in early stages of public release.
+                    Hopefully future issues will be smooth sailing.
+                </p>
+            </div>
+
+
+            <div class="subcat">
+                <h3>Hungry for sandwiches</h3>
+                <p class="title">It's Glenns fault</p>
+                <p>
+                    Glenn in the middle of the day sent me a picture of a smoked gouda and red pepper dip. My mind went wild with the possibilities. It was all I could think about. How to make a delicious meal with this. 
+                    I finished work and stopped by Meat Farms. I got Smoked Gouda which was delicious, some muenster cheese, spinach leaves, red bell peppers and white bread. I had decide I was gonna make the spread from scratch.
+                    I had cooked some simple stirfry for my mom and myself. Around 8 is when I decided to make my dish. I roasted the red peppers and put it in a blender with garlic and dhaniya. 
+                    I usually do this when making a khadi mix figured a replacement of green chilies to red peppers would be good. Honestly I may have got the quanties off as I never cooked with red bell paper. The spread by itself wasn't something I would just eat spoonfuls off.
+                    I had to make a decision to continue forward or give up and try something else. I decided its a experiment to continue forward. 
+                    <br><br>
+                    I decided to lay 2 pieces of bread, but 2 slices of gouda on each, 1 slice of muenster, some spinach leaves and a spoonful of the spread. I am making a grilled cheese. Though I have this nice little press so technically its a panini grilled cheese.
+                    With mayo on both sides of the bread, and button on the press, I had finally gotten my panini grilled cheese. One side was a bit darker but not a big deal. Otherwise perfectly golden. 
+                    I wish I took a picture. I had invited glenn over because he contributed to the idea and I didn't want a whole grilled cheese. I had half and he had half. He is basically my guinea pig when I feel inspired to cook.
+                    <br><br>
+                    It was... honestly delicious. Everything went together really well, more then I thought it would. I might do the red bell peppers a bit differently next time, but in the sandwich it worked really well. 
+                    <br><br>
+                    After Glenn left, I loafed for another hour, finished the dishes and threw the garbage. I should have finished earlier but due to my laziness I wasn't able to work out.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
             <h2>Sunday: Travel to Queens</h2>
             <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
