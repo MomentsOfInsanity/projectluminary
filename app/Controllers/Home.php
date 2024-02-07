@@ -20,7 +20,7 @@ class Home extends BaseController
     public function valentineHome()
     {
         // return view('/templates/personal/home');
-        $this->template2('personal/valentinehome');
+        $this->templatevalentine('personal/valentinehome');
     }
 
 
