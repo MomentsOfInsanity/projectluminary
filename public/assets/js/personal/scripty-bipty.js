@@ -133,7 +133,7 @@ function draw() {
         context.font = "30px Comic Sans MS";
         context.fillStyle = `rgba(45, 45, 255, ${opacity})`;
         context.textAlign = `center`;
-        context.fillText("I love you so much Maggie, more than all the time and space in the universe can contain", canvas.width/2, canvas.height/2);
+        context.fillText("I love you so much Yukta, more than all the time and space in the universe can contain", canvas.width/2, canvas.height/2);
         opacity = opacity + 0.01;
     }
     
@@ -149,7 +149,7 @@ function draw() {
         context.font = "30px Comic Sans MS";
         context.fillStyle = `rgba(45, 45, 255, ${thirdOpacity})`;
         context.textAlign = `center`;
-        context.fillText("Happy Valentines Day <3", canvas.width/2, (canvas.height/2 + 100));
+        context.fillText("Will you be my Valentine? <3", canvas.width/2, (canvas.height/2 + 100));
         thirdOpacity = thirdOpacity + 0.01;
     }   
     
