@@ -64,7 +64,7 @@ abstract class BaseController extends Controller
     }
 
 
-    function template($view, $data = NULL) {
+    function template2($view, $data = NULL) {
         if (!empty($data)) {
             $viewData = array_merge($data,$this->_viewData);
         }

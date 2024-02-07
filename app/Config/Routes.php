@@ -18,7 +18,7 @@ if (is_file(SYSTEMPATH . 'Config/Routes.php')) {
  */
 $routes->setDefaultNamespace('App\Controllers');
 $routes->setDefaultController('Home');
-$routes->setDefaultMethod('mainHome');
+$routes->setDefaultMethod('valentineHome');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override();
 $routes->setAutoRoute(true);
@@ -36,7 +36,7 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::mainHome');
+$routes->get('/', 'Home::valentineHome');
 $routes->get('/admin/home', 'Admin::home',['as' => 'logged_in_teqadmin']);
 $routes->get('/staff/home', 'Staff::home',['as' => 'logged_in_school_user']);
 // $routes->get('/district/home', 'District::home',['as' => 'logged_in_da']);
