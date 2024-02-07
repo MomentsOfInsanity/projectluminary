@@ -194,7 +194,6 @@ function drawText() {
         context.fillText("Will you be my valentine? <3", canvas.width/2, (canvas.height/2 + 120));
         thirdOpacity = thirdOpacity + 0.01;
 
-        button.style.display = "block";
     }   
 
      // Reset the shadow effect after drawing the text
