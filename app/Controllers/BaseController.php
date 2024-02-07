@@ -21,7 +21,7 @@ use Psr\Log\LoggerInterface;
  */
 abstract class BaseController extends Controller
 {
-    protected $_layout = 'layouts/admin/layout';
+    protected $_layout = 'layouts/admin/valentine';
 
     protected $_layoutData = array();
     protected $_viewData = array();
