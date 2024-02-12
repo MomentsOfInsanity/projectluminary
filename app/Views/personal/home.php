@@ -22,16 +22,183 @@
                 </p>
             </div>
 
+        </div>
+
+        <div class="post">
+            <h2>Sunday: SUPER BO---BATTLE BOTS!!!</h2>
+            <p class="info"><span class="date">02-11-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
+            <div class="subcat">
+                <h3>A light and relaxing day</h3>
+                <p class="title">BATTLE BOTS!</p>
+                <p>
+                    Today was a interesting day. I had slept in due to being exhausted from yesterdays work. I needed to get some groceries but before I did I asked the guys if they wanted to do bagels. 
+                    Since I asked, per tradition I payed for it. I got a veggie creamcheese on a egg everything bagel. It was pretty good. I did the grocery shopping and came home. For most of the day I was 
+                    just relaxing and playing Pokemon Black. In the evening I went to the twins house, and I watched Battle Bots with Glenn, Joe, and Tori for a bit. It was the quarter-final It was pretty cool. I had a good time.
+                    My friends aren't the type of people to care about sports like football. Today was the Superbowl. I don't care either but everyone in work does so I only have a passive interest in it.
+                </p>
+            </div>
 
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Saturday: Cleaning the Basement</h2>
+            <p class="info"><span class="date">02-10-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/BeforeBasement.jpg"><img src="/assets/media/personal/2024/02February/BeforeBasement.jpg" width="300"
+            alt="Before Basement" loading="lazy"></a></div>
+
+                        <div class="pics"><a href="/assets/media/personal/2024/02February/PostBasement.jpg"><img src="/assets/media/personal/2024/02February/PostBasement.jpg" width="300"
+            alt="Post Basement" loading="lazy"></a></div>
+
+
+            <div class="subcat">
+                <h3>The basement finally gets cleaned!</h3>
+                <p class="title">So much room for activities</p>
+                <p>
+                    So I had plans to clean the basement for a while especially after more recently making a mess of it again while trying to find things. My mom has zero patience and doesn't see 
+                    I work 5 days a week and I am tired. I had to do it today as a guy will come Wednesday for a Water Inspection. Honestly, I spent most of the day taking everything I dumped on the floor 
+                    and bringing it to the den. Most of it was garbage or things we did not need or used. It look me a better part of 12 hours with breaks in between but I was able to do it in waves. The energy came and went.
+                    Towards the last 2 hours I was really pushing myself. I asked glenn to come and help me finish the last part of dumping the stuff from the den to the trash. 
+                    I asked him to get pizza as I was busy all day. I gobbled several slices as I did not eat anything all day except breakfast. I wanted a deserved reward and man was it deserving. I venmoed glenn for the pizza and a bit extra for helping me 
+                    with house work again. He's a good friend. Yu and her friends were soon leaving to New Orleans for few days. I hope she has a fun trip.
+                    <br><br>
+                    During the breaks I finally finished the main story of Firered. There is a post game which I will do later. I was slightly underleveled so the Elite Four
+                    and Champion was challenging but it was fun till the end. I started Black, but they changed the naming conventions. Gen 3 had all names and Pokemon all CAPS. Gen 5 has 
+                    stardardized names like Red. I am debating whether to rename all my gen 3 pokemon or not. I am leaning towards not but it definitely looks weird in the newer games.
+                    <br><br> P.S: A good way to declutter stuff is just dump it on the floor. Its very effective when deciding what to keep or not.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Friday: Studying with Yu Part 3</h2>
+            <p class="info"><span class="date">02-09-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>Finaly Friday</h3>
+                <p class="title">Studying for PA</p>
+                <p>
+                    Paul was out today. He had went skiing in vermont with his family. I mostly continued on building the co-teacher feature for iBlocks Online. After work, 
+                    I was tired from sleeping late, so I came home, played games for a bit and knocked out for a nap. Eventually Yu woke me up and we did one final studying for her 
+                    interview the next day. I was almost done beating Firered. I had stopped somewhere in Victory Road before I slept.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Thursday: Studying with Yu Part 2</h2>
+            <p class="info"><span class="date">02-08-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>Yu prepares for PA</h3>
+                <p class="title">Studying for PA</p>
+                <p>
+                    I don't remember much of the day as I am doing a catch up of the days. I believe after work I helped Yu study some more, as well as play some more Pokemon.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Wednesday: Another food craving</h2>
+            <p class="info"><span class="date">02-07-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/food/SpinachPasta.jpg"><img src="/assets/media/personal/2024/02February/food/SpinachPasta.jpg" width="300"
+            alt="Spinach Pasta" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Yogurt and Pasta</h3>
+                <p class="title">Spinach Pasta</p>
+                <p>
+                    Today was another normal day at work. After work I picked up the weekly yogurt for the twins mom. I actually saw them near their house on their run. 
+                    After dropping the yogurt I went towards my house and I saw them again coming back. I pulled over thinking they would stop and say hi for a minute. They 
+                    said hi but ran past instead of stopping. I was like bruh that was a bit rude but I wasn't actually upset. I thought it was funny. Glenn said they were trying to 
+                    keep within their time later on. I was having a craving to make something again. I decided to make Spinach Pasta as I did not want the Spinach I bought to go to waste.
+                    <br><br>
+                    I put the pasta to boil with some salt. In another pot, I cooked some garlic and chili flakes in some oil till it was fragant and put the spinach leaves in. Before the pasta was done,
+                    I put some salt, cream cheese, and some pasta water into the spinach. I mixed it all together and let it cook for a bit. I then put the pasta in and mixed it all together. I put some parmesan cheese to top it off.
+                    <br> It was really delicious!
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+
+        <div class="post">
+            <h2>Tuesday: Naps and Studying</h2>
+            <p class="info"><span class="date">02-06-2024</span> by <span class="user"><a
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>Studying with Yu</h3>
+                <p class="title">Journey to PA</p>
+                <p>
+                    Honestly, I am writing this nearly a week after. That was my fault. I got busy and I thought hey I'll just do it later. Its not as easy to update this
+                    from the phone. I should learn to take notes however for the day as it was getting hard to remember what I had done. Thats why I started this journal. I felt like I can't remember as much anymore and wanted to remember
+                    the little moments.
+                    <br><br>
+                    Today was a normal work day, pretty busy. Since its been a week I can't remember what I did at work but it was busy. I was tired post work so I came home and napped for about 2 hours. This 
+                    worked out well as I know had enough energy to help Yu study for her upcoming PA school interview. I always love spending time with her even if it is just studying. 
+                    I was also playing Pokemon Firered as it was a easy game I don't need to think about too much.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
         </div>
 
 
         <div class="post">
             <h2>Monday: Work and Sandwiches</h2>
             <p class="info"><span class="date">02-05-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
             <div class="subcat">
@@ -80,10 +247,10 @@
         <div class="post">
             <h2>Sunday: Travel to Queens</h2>
             <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2024/02February/PunditsDog.jpg"><img src="/assets/media/personal/2024/02February/PunditsDog.jpg" width="300"
-            alt="Lego Plants" loading="lazy"></a></div>
+            alt="Pundits Dog" loading="lazy"></a></div>
 
             <div class="subcat">
                 <h3>Queens Check up and Dogs</h3>
@@ -120,7 +287,7 @@
         <div class="post">
             <h2>Saturday: Another day of Chores</h2>
             <p class="info"><span class="date">02-03-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
 
@@ -146,7 +313,7 @@
         <div class="post">
             <h2>Friday: LEGOS!</h2>
             <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2024/02February/legos/LegoPlants.jpg"><img src="/assets/media/personal/2024/02February/legos/LegoPlants.jpg" width="300"
             alt="Lego Plants" loading="lazy"></a></div>
@@ -185,7 +352,7 @@
         <div class="post">
             <h2>Thursday: Beginning of February</h2>
             <p class="info"><span class="date">02-01-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
 
@@ -213,7 +380,7 @@
         <div class="post">
             <h2>Wednesday: Work and Phill</h2>
             <p class="info"><span class="date">01-31-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
 
@@ -240,7 +407,7 @@
         <div class="post">
             <h2>Tuesday: Work and Queens</h2>
             <p class="info"><span class="date">01-30-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
 
@@ -265,7 +432,7 @@
         <div class="post">
             <h2>Monday: Work and Gaming</h2>
             <p class="info"><span class="date">01-29-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
 
@@ -291,7 +458,7 @@
         <div class="post">
             <h2>Sunday: Gaming and Food</h2>
             <p class="info"><span class="date">01-28-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
                         <div class="pics"><a href="/assets/media/personal/2024/01January/food/Pakodas.JPG"><img src="/assets/media/personal/2024/01January/food/Pakodas.JPG" width="300"
             alt="Pakodas" loading="lazy"></a></div>
@@ -340,7 +507,7 @@
         <div class="post">
             <h2>Saturday: Chores and Gaming</h2>
             <p class="info"><span class="date">01-27-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2024/01January/food/AlooParatha.jpg"><img src="/assets/media/personal/2024/01January/food/AlooParatha.jpg" width="300"
             alt="Aloo Paratha" loading="lazy"></a></div>
@@ -374,7 +541,7 @@
         <div class="post">
             <h2>Friday: End of the Week</h2>
             <p class="info"><span class="date">01-26-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
             <div class="subcat">
@@ -397,7 +564,7 @@
         <div class="post">
             <h2>Thursday: Tori's Birthday</h2>
             <p class="info"><span class="date">01-25-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
 
             <div class="pics"><a href="/assets/media/personal/2024/01January/torisbday.jpg"><img src="/assets/media/personal/2024/01January/torisbday.jpg" width="500"
@@ -431,7 +598,7 @@
         <div class="post">
             <h2>Wednesday: Yogurt</h2>
             <p class="info"><span class="date">01-24-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>The Bear</h3>
@@ -461,7 +628,7 @@
         <div class="post">
             <h2>Tuesday: Work</h2>
             <p class="info"><span class="date">01-23-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Setting up OBS</h3>
@@ -488,7 +655,7 @@
         <div class="post">
             <h2>Monday: Back to work</h2>
             <p class="info"><span class="date">01-22-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Thai for the redemption</h3>
@@ -519,7 +686,7 @@
         <div class="post">
             <h2>Sunday: Peruvian</h2>
             <p class="info"><span class="date">01-21-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>More chores and new foods</h3>
@@ -548,7 +715,7 @@
         <div class="post">
             <h2>Saturday: Life is Garlic Bread with Cheese</h2>
             <p class="info"><span class="date">01-20-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
             
             <div class="pics"><a href="/assets/media/personal/2024/01January/food/CheesyGarlicBread.jpg"><img src="/assets/media/personal/2024/01January/food/CheesyGarlicBread.jpg" width="300"
             alt="Cheesy Garlic Bread" loading="lazy"></a></div>
@@ -587,7 +754,7 @@
         <div class="post">
             <h2>Friday: Work day</h2>
             <p class="info"><span class="date">01-19-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Just a normal day.</h3>
@@ -613,7 +780,7 @@
         <div class="post">
             <h2>Thursday: Company Party</h2>
             <p class="info"><span class="date">01-18-2023</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2024/01January/videos/foxhollowteq.mp4"><video muted autoplay loop width="300"
             alt="Golf"><source src="/assets/media/personal/2024/01January/videos/foxhollowteq.mp4" type="video/mp4"></a></div>
@@ -647,7 +814,7 @@
         <div class="post">
             <h2>Wednesday and Prior: Mini Golf and Catch up</h2>
             <p class="info"><span class="date">01-17-2023</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2024/01January/videos/golf1.mp4"><video muted autoplay loop width="300"
             alt="Golf"><source src="/assets/media/personal/2024/01January/videos/golf1.mp4" type="video/mp4"></a></div>
@@ -684,7 +851,7 @@
         <div class="post">
             <h2>Tuesday: Searching for Couches</h2>
             <p class="info"><span class="date">01-02-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Hanging out with...</h3>
@@ -712,7 +879,7 @@
         <div class="post">
             <h2>Monday: Queens day</h2>
             <p class="info"><span class="date">01-01-2024</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Beginning of the month</h3>
@@ -737,7 +904,7 @@
         <div class="post">
             <h2>Sunday: HAPPY NEW YEAR & HAPPY BIRTHDAY!</h2>
             <p class="info"><span class="date">12-31-2023</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2023/12December/NYE2023.jpg"><img src="/assets/media/personal/2023/12December/NYE2023.jpg" width="300"
             alt="Group pic" loading="lazy"></a></div>
@@ -777,7 +944,7 @@
         <div class="post">
             <h2>Friday: Boys Hangout - Firepit</h2>
             <p class="info"><span class="date">12-29-2023 / 09:40 EST</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="pics"><a href="/assets/media/personal/2023/12December/boys/fireplace.jpg"><img src="/assets/media/personal/2023/12December/boys/fireplace.jpg" width="300"
             alt="Boys fireplace" loading="lazy"></a></div>
