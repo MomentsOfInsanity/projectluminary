@@ -53,11 +53,11 @@
             <h2>Saturday: Cleaning the Basement</h2>
             <p class="info"><span class="date">02-10-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
+            <div class="pics"><a href="/assets/media/personal/2024/02February/PostBasement.jpg"><img src="/assets/media/personal/2024/02February/PostBasement.jpg" width="300"
+            alt="Post Basement" loading="lazy"></a></div>
+
             <div class="pics"><a href="/assets/media/personal/2024/02February/BeforeBasement.jpg"><img src="/assets/media/personal/2024/02February/BeforeBasement.jpg" width="300"
             alt="Before Basement" loading="lazy"></a></div>
-
-                        <div class="pics"><a href="/assets/media/personal/2024/02February/PostBasement.jpg"><img src="/assets/media/personal/2024/02February/PostBasement.jpg" width="300"
-            alt="Post Basement" loading="lazy"></a></div>
 
 
             <div class="subcat">
