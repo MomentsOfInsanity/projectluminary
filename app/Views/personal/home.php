@@ -25,6 +25,124 @@
         </div>
 
         <div class="post">
+            <h2>Thursday: Finishing the Co-Teacher</h2>
+            <p class="info"><span class="date">02-15-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill2.jpg"><img src="/assets/media/personal/2024/02February/Threadmill2.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Work and Exercise</h3>
+                <p class="title">Another thing finished</p>
+                <p>
+                    Today I finished a feature I was working on some time. It was adding the Co-Teacher to iBlocks online. It took a long time as I needed to integrate with everything and make sure 
+                    everything worked as normal. Once I finished it, I picked yogurt on the way home. The thermostat app connection stopped working so I had to fix that. I eventually just ended up resetting the device. 
+                    I was exhausted but I pushed through and did another mile of running. I am now 3/5ths of a Naruto. Its getting easier. I put the pace to 2.1 to get it under 30 minutes. I will keep slowly increasing the pace.
+                    Soon after, I should have showered but I knocked out.
+                </p>
+            </div>
+
+            
+
+        </div>
+
+        <div class="post">
+            <h2>Wednesday: HAPPY VALENTINES!</h2>
+            <p class="info"><span class="date">02-14-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/legos/LegoPlantsV.jpg"><img src="/assets/media/personal/2024/02February/legos/LegoPlantsV.jpg" width="300"
+            alt="Lego Plants Roses" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Lovers Legos and Lasers</h3>
+                <p class="title">A fun Valentines</p>
+                <p>
+                    Another year, another Valentines. I took a half day today, and Yukta was going to come around 12:30 PM. Today was also the water inspection. She had just come back from her New Orleans trip as well.
+                    We stopped at Cheesecake Factory and had some Nachos. Even with the two of us, we could not finish them. The factory is intense. To digest we decided to walk the mall a little bit as its not a very large mall.
+                    On the way we passed through the Apple Store. Yukta mentioned about the Vision Pro. I totally forgot about it's existence and practically dragged her to the store. By lucky chance 
+                    we both got the chance to demo it. It was one of the coolest things I had did in my life. I wish I can do more with it. It is super expensive costing around 4k. Part of me wants to get it and leave it in storage for 20 years.
+                    <br><br>
+                    After the demo, we took a break and then eventually played Legos in Panera. We had a lot of fun. This was Yu's first time building Legos. We built 2 Roses, and 2 Sunflowers. 
+                    After Legos we went to Dirty Tacos and had some bomb ass fries and tacos. Unfortunately soon after we had to split away and head home. I wish I can spend more time with her. 
+                    I am going to write a more detailed post on our personal site. I'll post the link right there when it's done.
+                </p>
+            </div>
+
+            <div class="pics"><iframe width="320" height="240" src="https://www.youtube.com/embed/IBITP99fKnM?si=nuzJLDrvBsVmitHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Tuesday: Work From Home and Snow</h2>
+            <p class="info"><span class="date">02-13-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/SnowShoveling.jpg"><img src="/assets/media/personal/2024/02February/SnowShoveling.jpg" width="300"
+            alt="Snow Shoveling" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Working from Home</h3>
+                <p class="title">A time to catch up</p>
+                <p>
+                    For the first time in a long time, I was able to work from home. I was able to sleep in more and relax a bit. I was able to catch 
+                    up on some home work. For most of the day I was remote-working but then I eventually did the snow shoveling. It was the largest snow we had in many years.
+                    That was the hardest part of the day. I really need to get a snow blower. It becomes even worse when snow turns to Ice. The next days the snow freezed up.
+                    I wish I was able to work from home more often. It makes managing the home things easier. I don't have to worry about the commute or eating out but I do like the interactions. I wouldn't mind if it was hybrid some days.
+                </p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill1.jpg"><img src="/assets/media/personal/2024/02February/Threadmill1.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Another mile!</h3>
+                <p class="title">2/5 of a Naruto</p>
+                <p>
+                    Later in the night I did another mile of inclined walking. Glenn was right that playing the ds while I walk makes it much easier and less boring but I 
+                    need to increase my pace as I was not breaking too much of a sweat until the end. Consistency is key though! 2/5 miles is done till I get a free Naruto book.
+                    Soon after I showered then passed out.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Monday: Another Work Day</h2>
+            <p class="info"><span class="date">02-12-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>A Tiring Day</h3>
+                <p class="title">Work and Games</p>
+                <p>
+                    Today was another normal day of work. I was pretty exhausted today by the time I came home and knocked out. I woke up and played more Pokemon Black for a bit
+                    but eventually I fell back a sleep. It was gonna snow a lot the next day. Luckily work gave a email saying we can work from home.
+                </p>
+            </div>
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Sunday: SUPER BO---BATTLE BOTS!!!</h2>
             <p class="info"><span class="date">02-11-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
