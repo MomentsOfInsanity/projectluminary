@@ -28,6 +28,9 @@
             <h2>Monday: Bagels and Shopping</h2>
             <p class="info"><span class="date">02-19-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill4.jpg"><img src="/assets/media/personal/2024/02February/Threadmill4.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
             <div class="pics"><a href="/assets/media/personal/2024/02February/RajAsleep.JPG"><img src="/assets/media/personal/2024/02February/RajAsleep.JPG" width="300"
             alt="schleepy" loading="lazy"></a></div>
 
@@ -42,9 +45,6 @@
                 </p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill4.jpg"><img src="/assets/media/personal/2024/02February/Threadmill4.jpg" width="300"
-            alt="Threadmill" loading="lazy"></a></div>
-
             
 
         </div>
@@ -58,6 +58,9 @@
         <div class="post">
             <h2>Sunday: A Relaxing Day</h2>
             <p class="info"><span class="date">02-18-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill3.jpg"><img src="/assets/media/personal/2024/02February/Threadmill3.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
 
             <div class="pics"><a href="/assets/media/personal/2024/02February/food/PavBhaji.jpg"><img src="/assets/media/personal/2024/02February/food/PavBhaji.jpg" width="300"
             alt="Pav Bhaji" loading="lazy"></a></div>
@@ -74,8 +77,6 @@
                 </p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill3.jpg"><img src="/assets/media/personal/2024/02February/Threadmill3.jpg" width="300"
-            alt="Threadmill" loading="lazy"></a></div>
 
             
 
