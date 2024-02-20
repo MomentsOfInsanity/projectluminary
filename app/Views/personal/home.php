@@ -25,6 +25,120 @@
         </div>
 
         <div class="post">
+            <h2>Monday: Bagels and Shopping</h2>
+            <p class="info"><span class="date">02-19-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/RajAsleep.JPG"><img src="/assets/media/personal/2024/02February/RajAsleep.JPG" width="300"
+            alt="schleepy" loading="lazy"></a></div>
+
+
+            <div class="subcat">
+                <h3>All day shopping</h3>
+                <p class="title">Shopping and Running</p>
+                <p>
+                    Today was a busy day. I was off today but I had to do a decent amount of errands. Glenn and Joe wanted to do bagels in the morning so I joined them. Soon after I was tired 
+                    and knocked out on Glenns couch for 2 hours. It's a funny trend as Glenn will always take a picture to send to my girlfriend. After the shopping I pushed and did the final 
+                    mile and earned my final mile to get a naruto. This would be Naruto Vol 17. This is the first time I did 5 miles in a month. I am really proud of myself.
+                </p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill4.jpg"><img src="/assets/media/personal/2024/02February/Threadmill4.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Sunday: A Relaxing Day</h2>
+            <p class="info"><span class="date">02-18-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/food/PavBhaji.jpg"><img src="/assets/media/personal/2024/02February/food/PavBhaji.jpg" width="300"
+            alt="Pav Bhaji" loading="lazy"></a></div>
+
+
+            <div class="subcat">
+                <h3>Pav Bhaji</h3>
+                <p class="title">Breakfast and Running</p>
+                <p>
+                    This morning I had to wake up and do the dishes. During the dishes, my mom made Pav Bhaji. It was pretty good. I never liked vegetables growing up but I always loved Pav Bhaji. 
+                    Its a good way to be able to eat a bunch of vegetables. We used burger buns as getting traditional pav isn't always the easiest. After the food, I went for another run. I am 
+                    feeling better about it. I am not the best with consistency but its starting to get easier. I am now 4/5th of a Naruto done. I am going to keep increasing the pace each time. 
+                    After the run I spent most of the day relaxing and doing light work as I was so exhausted from the rest of the week.
+                </p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill3.jpg"><img src="/assets/media/personal/2024/02February/Threadmill3.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Saturday: Snow and Queens</h2>
+            <p class="info"><span class="date">02-17-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>Snow and Queens</h3>
+                <p class="title">People keep complaining</p>
+                <p>
+                    I woke up this morning to a decent amount of snow fall. I didn't think it would start until later. Unfortunately I had to get up and shovel and salt the driveways. After the cleaning, I organized
+                    my car for Queens and I went with my mom. The basement tenant is annoying due to him constantly complaining on so many tiny things. I plunged and snaked this guys toilet while 2 construction workers 
+                    was fixing his closet up. We gave the second floor bed bug spray as they kept complaining as well. We just wanted some simple tenants but hopefully the house will be sold soon. We picked up some Indian food and then
+                    we came home and I knocked out for a bit for a nap. I eventually woke up and spent couple hours with Yu on call just hanging out. It was nice to spend time with her.
+                </p>
+            </div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Friday: Hanging with Longfur</h2>
+            <p class="info"><span class="date">02-16-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+
+            <div class="subcat">
+                <h3>Work and Hanging Out</h3>
+                <p class="title">Another Friday, Another Week</p>
+                <p>
+                    Today was another normal day of work. Paul was going on a trip to California so I was trying to wrap few things for him. He gave me a new task
+                    to create demo accounts for work. After work, I went home to relax for a bit before I went to Glenns to hangout with the guys. Joe didn't end up making it but Longfur decided to show up. 
+                    Nothing against him but he is weird as ever. I ended up dropping him home. I played a bit more Pokemon then knocked out.
+                </p>
+            </div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Thursday: Finishing the Co-Teacher</h2>
             <p class="info"><span class="date">02-15-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
@@ -44,6 +158,12 @@
 
             
 
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
         </div>
 
         <div class="post">
