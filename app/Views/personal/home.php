@@ -25,6 +25,31 @@
         </div>
 
         <div class="post">
+            <h2>Tuesday: Fixing the Office</h2>
+            <p class="info"><span class="date">02-20-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Brownies and Vaccuums</h3>
+                <p class="title">Another Day, Another Hassle</p>
+                <p>
+                    Today was a another normal day of work. I was working on the new demo feature for iBlocks Online. Unfortunately my moms vaccuum blew so I needed to go buy another one.
+                    I stopped by Glenn's to eat a piece of cheesecake brownie which was delicious. I asked if he wanted to join for company to talk because I was bored. Most of the time he 
+                    says no but this time he said yes. After getting a new vaccuum, I came home and fixed the vaccuum. I was so tired I practically knocked out for a bit. I woke up and ate some 
+                    rice and daal while on call with Yukta. Then I knocked out again.
+                </p>
+            </div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Monday: Bagels and Shopping</h2>
             <p class="info"><span class="date">02-19-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
