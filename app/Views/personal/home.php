@@ -90,7 +90,7 @@
                 </p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/2024/02February/videos/oegg.mp4"><video muted autoplay loop width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/02February/videos/oegg.mp4"><video loop width="300"
             alt="Golf"><source src="/assets/media/personal/2024/02February/videos/oegg.mp4" type="video/mp4"></a></div>
 
             <div class="subcat">
