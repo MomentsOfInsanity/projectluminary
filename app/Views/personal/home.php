@@ -59,6 +59,8 @@
             <div class="pics"><a href="/assets/media/personal/2024/02February/NewDesk.jpg"><img src="/assets/media/personal/2024/02February/NewDesk.jpg" width="300"
             alt="New Desk" loading="lazy"></a></div>
 
+            <embed src="/assets/media/personal/2024/02February/SpatialWebEngineer.pdf" width="300px" />
+
             <div class="subcat">
                 <h3>Moving Day</h3>
                 <p class="title">Decorating my new desk</p>
