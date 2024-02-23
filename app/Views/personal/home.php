@@ -59,7 +59,6 @@
             <div class="pics"><a href="/assets/media/personal/2024/02February/NewDesk.jpg"><img src="/assets/media/personal/2024/02February/NewDesk.jpg" width="300"
             alt="New Desk" loading="lazy"></a></div>
 
-            <embed src="/assets/media/personal/2024/02February/SpatialWebEngineer.pdf" width="300px" />
 
             <div class="subcat">
                 <h3>Moving Day</h3>
@@ -71,7 +70,7 @@
                     Then the whole of creative moved downstairs as they were doing construction and remodeling. Finally after all that time, we move back upstairs and settle into our new desks.
                     I wanted to decorate it so I went to Target and bought a plant. It did taking getting used to the new enviroment.
                     <br><br>
-                    One interesting thing though... I discovered a new position by Apple. Spatial Web Engineer. Ever since college, I was always fascinated by AR as a niche. It is difficult though 
+                    One interesting thing though... I discovered a new position by Apple. <a href="/assets/media/personal/2024/02February/SpatialWebEngineer.pdf">Spatial Web Engineer.</a> Ever since college, I was always fascinated by AR as a niche. It is difficult though 
                     and expensive to get into and my college didnt have any classes on it. I went into Web Development as that was the next best thing I wouldn't mind doing in life. 
                     However with this new position, it puts a interesting opportunity in my mind. Combining what I already know what to do with web, and what I want to do with Spatial Engineering, this could 
                     be a thing for me. But it will require lots of work and studying in swift and learning. The position may not even exist later on. I will keep trying though cause this 
