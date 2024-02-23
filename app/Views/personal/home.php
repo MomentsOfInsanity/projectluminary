@@ -25,6 +25,98 @@
         </div>
 
         <div class="post">
+            <h2>Thursday: Work, and Life</h2>
+            <p class="info"><span class="date">02-22-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Work</h3>
+                <p class="title">Another Day, Another lifetime</p>
+                <p>
+                    Today was another normal day at work. It was bright the cieling lights so Marcello kindly put a diffuser for me. I finished the feature
+                    to allow creating demo users for iBlocks Online. Luckily for lunch we got pizza. After work, I stopped by the apple store as I wanted to find out 
+                    more possible information on developing for the Vision Pro. I was able to get a bit more information. I need to eventually start studying swift. 
+                    I came home, and relaxed but soon I had to help my mom with a possible complaint but it was just ridiculous and old white men being racist. 
+                    After work, I did the my mile as usual and then I went to sleep after showering.
+                </p>
+            </div>
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Wednesday: Moving Upstairs</h2>
+            <p class="info"><span class="date">02-21-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/NewDesk.jpg"><img src="/assets/media/personal/2024/02February/NewDesk.jpg" width="300"
+            alt="New Desk" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>Moving Day</h3>
+                <p class="title">Decorating my new desk</p>
+                <p>
+                    Today is moving day. We are all moving from downstairs to our desk upstairs. I was excited to finally have a permanent place. When I first started
+                    at this company, I was downstairs working with the ex-developer Brian until Paul evenetually wanted me up. I briefly moved up to work with Rich for few months. 
+                    Eventually I moved back down to keep Ryan company as he just got hired. Then we both moved upstairs as we got new desks in the dingy little closet. Honestly the privacy was the best there.
+                    Then the whole of creative moved downstairs as they were doing construction and remodeling. Finally after all that time, we move back upstairs and settle into our new desks.
+                    I wanted to decorate it so I went to Target and bought a plant. It did taking getting used to the new enviroment.
+                    <br><br>
+                    One interesting thing though... I discovered a new position by Apple. Spatial Web Engineer. Ever since college, I was always fascinated by AR as a niche. It is difficult though 
+                    and expensive to get into and my college didnt have any classes on it. I went into Web Development as that was the next best thing I wouldn't mind doing in life. 
+                    However with this new position, it puts a interesting opportunity in my mind. Combining what I already know what to do with web, and what I want to do with Spatial Engineering, this could 
+                    be a thing for me. But it will require lots of work and studying in swift and learning. The position may not even exist later on. I will keep trying though cause this 
+                    is something I would really love to do. I am going to keep an eye on it and see where it goes.
+                </p>
+            </div>
+
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
+            <div class="subcat">
+                <h3>The Reset Run</h3>
+                <p class="title">Another Goal</p>
+                <p>
+                    After I came home, I ate dinner and started on my 6th mile. It's starting to get a bit easier. I am starting to get into a routine where I do a mile while playing pokemon and increasing my speed. Eventually 
+                    I will have to put the ds down but for now I am happy. Once I finished I pretty much knocked out.
+                </p>
+            </div>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/videos/oegg.mp4"><video muted autoplay loop width="300"
+            alt="Golf"><source src="/assets/media/personal/2024/02February/videos/oegg.mp4" type="video/mp4"></a></div>
+
+            <div class="subcat">
+                <h3>OEGG gave me a message</h3>
+                <p class="title">I bought a sweatshirt</p>
+                <p>
+                    A bonus thing that happened today. Theres only 2 streamers I ever only watch. One is a pretty big streamer/youtuber called SmallAnt. The other is oegg_. 
+                    Oegg is a small time streamer but his energy and vibes and the same with SmallAnt is what I would want to be like for my own twitch and videos. 
+                    I wish Oegg was bigger as he is a really cool guy and he deserves it. To support him I bought a maroon sweatshirt with his logo on it. Its nice and big. 
+                    Oegg recognizes me now as I frequent his channel and always comment weekly. I wasn't expecting much after that but I also recieved a video message from him. 
+                    He didn't have to do it but it was really nice of him. I am going to keep supporting him and watching him when I can. SmallAnt and him inspires me for my 
+                    own content so I hope to keep improving myself.
+                </p>
+            </div>
+
+            
+
+        </div>
+
+         <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Tuesday: Fixing the Office</h2>
             <p class="info"><span class="date">02-20-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
