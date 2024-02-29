@@ -25,6 +25,150 @@
         </div>
 
         <div class="post">
+            <h2>Wednesday: More Yogurt</h2>
+            <p class="info"><span class="date">02-28-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Yogurt and Games</h3>
+                <p class="title">Another Tiring Day</p>
+                <p>
+                    Another day of work, I finished the feature for grouping resources in iBlocks Online. I played my ds during break, picked up yogurt after work, 
+                    and stopped at Glenn's to drop it off. Glenn sent a text earlier if I wanted to hang out. I guess I haven't seen him fully for few days. I came over, but he and Phill soon went for
+                    their run. I played Pokemon in the mean time, and then when they came back I talked a bit more but was feeling even more tired. I went home and knocked out.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Tuesday: Work and Sleep</h2>
+            <p class="info"><span class="date">02-27-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Another day</h3>
+                <p class="title">Exhausted</p>
+                <p>
+                    Today was another day of work. I could not focus in as much. I came home and knocked out.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Monday: Even More Legos!</h2>
+            <p class="info"><span class="date">02-26-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><iframe width="320" height="240" src="https://www.youtube.com/embed/e_yZcXPnTa8?si=hPK88U2BWIEyEa54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+            <div class="subcat">
+                <h3>Legos Part 2</h3>
+                <p class="title">Butterfree with Mike</p>
+                <p>
+                    Another normal day at work. Paul had come back from his week long vacation. I was able to do some finishing touches on the feature from friday. Paul had given me a new feature to work on which was group resources.
+                    That may not make sense to others reading it but as I am writing this on the 29th, it took a couple days.
+                    <br><br>
+                    During my lunch break Michael and me finished building our Lego contraption. We built the main set and when you crank it, it flaps its wings. It's pretty cool. We didn't get to finish it again entirely, there was 
+                    some decoration flower pieces and a name tag that goes on it. I could have handled this myself as the main part was done. It was pretty fun to do with him.
+                </p>
+            </div>
+
+            <div class="subcat">
+                <h3>Evictions and Mail</h3>
+                <p class="title">Driving to Queens</p>
+                <p>
+                    Today was the day we have our first eviction notice to the first floor of the Queen's house. I went after work to go pick up mail as my mom had been more anxious then usual does panicking thinking the worst will happen. 
+                    I feel bad for her but it gets on my nerves at times. I drove to Queens, got the mail and then came back home. I was exhausted but Yu and me watched another episode of Avatar.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Saturday/Sunday: Chores Probably</h2>
+            <p class="info"><span class="date">02-24-2024/02-25-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Chores </h3>
+                <p class="title">Memories are loose</p>
+                <p>
+                    Honestly I don't remember much of these 2 days. Some of it was chores. Some of it was arguing with my mom. It was just a blur of things. Yu and me did end up watching Avatar which was pretty awesome!
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Friday: More Legos!</h2>
+            <p class="info"><span class="date">02-23-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="pics"><iframe width="320" height="240" src="https://www.youtube.com/embed/I9fCoXjgFkw?si=qxV1MSyH_uArAC8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+            <div class="subcat">
+                <h3>Legos Part 1</h3>
+                <p class="title">Butterfree with Mike</p>
+                <p>
+                    Alright, so admittedly I am not writing this on the 23rd but the 29th of February. This should really be something I keep up with daily but sometimes I slack, and it becomes harder as more days past. 
+                    Especially if I find it hard to remember things as time passes. The only reason I am able to recollect was by looking at old texts and pictures to remember what I did that day. Today was another work day, 
+                    and I finished another feature. This time I built the ability to create demo users for iBlocks Online. I was able to finish it and push it to production. I was pretty happy with it.
+                    <br><br>
+                    During my lunch break Michael and me had agreed to build Legos together. Honestly, I was going to do it alone during my break as a way to pass the time. However, he seemed interested and so he joined me. 
+                    We were building Lego Butterfree which Phill gave me for Secret Santa. Honestly i'm not sure why I am building a lot of legos of late but its a fun activity to pass the time. 
+                    As per tradition I set up a timelapse but even with us both working together we could not finish it in one day. There was a bunch of tiny pieces.
+                </p>
+            </div>
+
+            <div class="subcat">
+                <h3>I got bullied for Thai</h3>
+                <p class="title">Drunken Noodles with Tofu</p>
+                <p>
+                    In the evening I was hanging out with Phill and Glenn. They bullied me to get Thai food. I held strong not wanting to spend money but as time went by, I got hungrier.
+                    I eventually caved and said okay but only if they drive to the one place Yu and me likes. I got Tofu Drunken noodles extra spicy. There was one time we had it and it was phenomenal but I never had it the same again. 
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Thursday: Work, and Life</h2>
             <p class="info"><span class="date">02-22-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
