@@ -64,19 +64,19 @@
                 <!-- Full-width images with number and caption text -->
                 <div class="mySlides fade">
                 <div class="numbertext">1 / 3</div>
-                <img src="/assets/media/personal/2024/02February/Threadmill7.jpg" width="300">
+                <img src="/assets/media/personal/2024/02February/Threadmill7.jpg" style="width:100%">
                 <div class="text">Caption Text</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">2 / 3</div>
-                <img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300">
+                <img src="/assets/media/personal/2024/02February/Threadmill6.jpg" style="width:100%">
                 <div class="text">Caption Two</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">3 / 3</div>
-                <img src="/assets/media/personal/2024/02February/Threadmill5.jpg" width="300">
+                <img src="/assets/media/personal/2024/02February/Threadmill4.jpg" style="width:100%">
                 <div class="text">Caption Three</div>
                 </div>
 
