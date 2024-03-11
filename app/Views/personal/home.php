@@ -64,97 +64,97 @@
                 <!-- Full-width images with number and caption text -->
                 <div class="mySlides fade">
                 <div class="numbertext">1 / 3</div>
-                <img src="/assets/media/personal/2024/03March/IMG_5345.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5345.jpg" style="width:30%">
                 <div class="text">Caption Text</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">2 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5346.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5346.jpg" style="width:30%">
                 <div class="text">Caption Two</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">3 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5347.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5347.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">4 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5348.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5348.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">5 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5349.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5349.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">6 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5350.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5350.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">7 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5351.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5351.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">8 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5352.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5352.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">9 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5353.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5353.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">10 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5355.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5355.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">11 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5358.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5358.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">12 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5360.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5360.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">13 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5362.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5362.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">14 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5363.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5363.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">15 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5367.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5367.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
                 <div class="mySlides fade">
                 <div class="numbertext">16 / 3</div>
-                <img src="/assets/media/personal/2024/02February/IMG_5370.jpg" style="width:30%">
+                <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5370.jpg" style="width:30%">
                 <div class="text">Caption Three</div>
                 </div>
 
