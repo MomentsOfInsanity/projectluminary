@@ -25,6 +25,33 @@
         </div>
 
         <div class="post">
+            <h2>Thurday: Catching Up</h2>
+            <p class="info"><span class="date">02-29-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Leap Year!</h3>
+                <p class="title">Where does time fly?</p>
+                <p>
+                    Happy Leap Year! It's been a while since I have written. I wanted to keep up with this daily, but somehow between work, home, life, and everything else in that bundle, its now March 11th. 
+                    I feel a bit disappointed in myself. I lost myself a bit in the process. With stress of work, feeling burnt out, and depression, it was hard to keep up with everything. I am going to try to keep up with this.
+                    This is another important piece of my life. A diary. A goal. Something to look back on, something to look forward on. Something where I can vocalize my ever changing life. 
+                    Another issue is after so long, I can't remember everything as clearly but I will try. <br><br>
+                    As for what happened today, I honestly don't remember. I barely texted anyone or did anything. All I have is a picture of my completing my second naruto. I was behind with it only being 3/5th of a mile. 
+                    To earn my second Naruto I needed to do 2 miles. I played pokemon while doing the miles.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Wednesday: More Yogurt</h2>
             <p class="info"><span class="date">02-28-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
@@ -37,6 +64,9 @@
                     their run. I played Pokemon in the mean time, and then when they came back I talked a bit more but was feeling even more tired. I went home and knocked out.
                 </p>
             </div>
+
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
 
 
         </div>
