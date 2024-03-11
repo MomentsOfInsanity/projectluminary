@@ -63,99 +63,99 @@
 
                 <!-- Full-width images with number and caption text -->
                 <div class="mySlides fade">
-                <div class="numbertext">1 / 3</div>
+                <div class="numbertext">1 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5345.jpg" style="width:30%">
-                <div class="text">Caption Text</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">2 / 3</div>
+                <div class="numbertext">2 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5346.jpg" style="width:30%">
-                <div class="text">Caption Two</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">3 / 3</div>
+                <div class="numbertext">3 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5347.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">4 / 3</div>
+                <div class="numbertext">4 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5348.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">5 / 3</div>
+                <div class="numbertext">5 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5349.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">6 / 3</div>
+                <div class="numbertext">6 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5350.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">7 / 3</div>
+                <div class="numbertext">7 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5351.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">8 / 3</div>
+                <div class="numbertext">8 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5352.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">9 / 3</div>
+                <div class="numbertext">9 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5353.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">10 / 3</div>
+                <div class="numbertext">10 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5355.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">11 / 3</div>
+                <div class="numbertext">11 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5358.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">12 / 3</div>
+                <div class="numbertext">12 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5360.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">13 / 3</div>
+                <div class="numbertext">13 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5362.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">14 / 3</div>
+                <div class="numbertext">14 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5363.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">15 / 3</div>
+                <div class="numbertext">15 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5367.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <div class="mySlides fade">
-                <div class="numbertext">16 / 3</div>
+                <div class="numbertext">16 / 16</div>
                 <img src="/assets/media/personal/2024/03March/HarryPotter/IMG_5370.jpg" style="width:30%">
-                <div class="text">Caption Three</div>
+                <!-- <div class="text">Caption Three</div> -->
                 </div>
 
                 <!-- Next and previous buttons -->
@@ -165,11 +165,11 @@
             <br>
 
             <!-- The dots/circles -->
-            <div style="text-align:center">
+            <!-- <div style="text-align:center">
                 <span class="dot" onclick="currentSlide(1)"></span>
                 <span class="dot" onclick="currentSlide(2)"></span>
                 <span class="dot" onclick="currentSlide(3)"></span>
-            </div>
+            </div> -->
         </div>
 
 
