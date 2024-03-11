@@ -25,6 +25,106 @@
         </div>
 
         <div class="post">
+            <h2>Saturday: Queens and Harry Potter</h2>
+            <p class="info"><span class="date">03-02-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Morning Queen</h3>
+                <p class="title">Selling Queens</p>
+                <p>
+                    This morning, my mom and me travelled to Queens to meet with a real estate agent. We are trying to sell the house. We showed the agents the house and went back to the office to discuss the details.
+                    We werent in Queens long but the whole process still took couple hours with travel and all. On the way back, my mom said we are visiting Pundit. I don't care too much about hanging their but their dog is fun 
+                    to play with. I showed a pic of the dog before. I soon went home alone as I had to finish some chores. Mom was going to get dropped off later. I came home and immediately knocked out.
+                    I couldn't get much chores done. When I woke up it was 8:30. I only had a limited time to get ready and go get Glenn.
+                </p>
+            </div>
+
+            <div class="subcat">
+                <h3>Evening Harry Potter</h3>
+                <p class="title">Nerdy Bar</p>
+                <p>
+                    Yukta gave me a warning to not dress up in costume. There was 0% possibility of me going to a Harry Potter event and not me wearing my Hogwarts Legacy cloak. I wore a simple green patterned
+                    shirt and the cloak on top. I told Glenn to dress up as well. He wore his red cloak that he got for the Rennisance Faire. I picked him up and we drove to the bar in Farmingdale. 
+                    The bar was called the Alibi Lounge. It was a small bar but it was pretty cool. Everything was Harry Potter themed. The drinks, the food, the decor. It was pretty cool. I had a butterbeer float for my
+                    my first drink while Glenn drank the HUFFLEPUFF for his first drink. In all fairness I misunderstood what kind of event it would be. I assumed food would be free with the tickets, and maybe their will be some 
+                    type of activity like Trivia Night. Maybe talking with other people. I thought it would be a type of social experience. It was not. It was just a bar with a theme. We were very indepentant and we didn't really
+                    talk to anyone. 
+                    <br><br>
+                    We decided to get an appetizer of PRETZEL NUGGETS. I was still hungry so we ordered the Spinach White Pizza. I was still drinking my first drink while Glenn ordered a second drink. 
+                    I can't remember the name but the pizza was good for what it was. The food was not a lot and everything was expensive. Glenn eventually ordered a third drink called the FELIX FELICIS. Why am I 
+                    capitalizing the names? I don't know but thats how the menu said it. The felix drink was cool as it came in 3 potion bottles, that Glenn had to mix together and it created some type of smokey mixture.
+                    The final drink Glenn ordered was the CHOCOLATE FROG. I tried all of them but I personally like Felix the most due to its sweetness. I decided to cover the cost as I invited Glenn and he is always doing things for me. 
+                    We got 2 free Butterbeer jugs to take home as souvenirs. I tried to take as many photos and videos as I could. We also got our photos taken as we were leaving.
+                </p>
+            </div>
+
+            <!-- Slideshow container -->
+            <div class="slideshow-container">
+
+                <!-- Full-width images with number and caption text -->
+                <div class="mySlides fade">
+                <div class="numbertext">1 / 3</div>
+                <img src="/assets/media/personal/2024/02February/Threadmill7.jpg" width="300">
+                <div class="text">Caption Text</div>
+                </div>
+
+                <div class="mySlides fade">
+                <div class="numbertext">2 / 3</div>
+                <img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300">
+                <div class="text">Caption Two</div>
+                </div>
+
+                <div class="mySlides fade">
+                <div class="numbertext">3 / 3</div>
+                <img src="/assets/media/personal/2024/02February/Threadmill5.jpg" width="300">
+                <div class="text">Caption Three</div>
+                </div>
+
+                <!-- Next and previous buttons -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            </div>
+            <br>
+
+            <!-- The dots/circles -->
+            <div style="text-align:center">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+            </div>
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Friday: Free Tickets</h2>
+            <p class="info"><span class="date">03-01-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Harry Potter Tickets</h3>
+                <p class="title">Friday Vibes</p>
+                <p>
+                    Today is a Friday. I can't remember much of what happened but I did get free tickets to a popup Harry Potter bar event in Farmingdale for Saturday at 10pm. That seemed pretty exciting. I decided to ask 
+                    Glenn to go with me as I only had 2. After work, the boys and me went to a restaurant to hang out. I had some fries and a mushroom burger. 
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Thurday: Catching Up</h2>
             <p class="info"><span class="date">02-29-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
@@ -41,7 +141,7 @@
                 </p>
             </div>
 
-            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill7.jpg"><img src="/assets/media/personal/2024/02February/Threadmill7.jpg" width="300"
             alt="Threadmill" loading="lazy"></a></div>
 
 
@@ -1523,3 +1623,33 @@
 
     </main>
 </div><!-- END #content -->
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+
+    // Next/previous controls
+    function plusSlides(n) {
+    showSlides(slideIndex += n);
+    }
+
+    // Thumbnail image controls
+    function currentSlide(n) {
+    showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    }
+</script>

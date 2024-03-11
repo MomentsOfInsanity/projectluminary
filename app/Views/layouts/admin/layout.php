@@ -9,6 +9,8 @@
     <link href="/assets/css/personal/layout.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="/assets/css/personal/spp-news.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/assets/css/personal/tablenew.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/css/personal/carousel.css" type="text/css" media="screen">
+
 </head>
 <style>
     body {
