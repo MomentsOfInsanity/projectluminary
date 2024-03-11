@@ -41,6 +41,9 @@
                 </p>
             </div>
 
+            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
+            alt="Threadmill" loading="lazy"></a></div>
+
 
         </div>
 
@@ -64,9 +67,6 @@
                     their run. I played Pokemon in the mean time, and then when they came back I talked a bit more but was feeling even more tired. I went home and knocked out.
                 </p>
             </div>
-
-            <div class="pics"><a href="/assets/media/personal/2024/02February/Threadmill6.jpg"><img src="/assets/media/personal/2024/02February/Threadmill6.jpg" width="300"
-            alt="Threadmill" loading="lazy"></a></div>
 
 
         </div>
