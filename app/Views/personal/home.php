@@ -25,6 +25,146 @@
         </div>
 
         <div class="post">
+            <h2>Sunday: More Chores</h2>
+            <p class="info"><span class="date">03-10-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Unmotivated to Work</h3>
+                <p class="title">Chores never end</p>
+                <p>
+                    I had more chores today but I wasnt as energized to do it today unlike yesterday until my mom ruined the mood. I did what I could though. My mom left me alone today. In the night I once again helped Yu study 
+                    as her interview was monday. Hopefully she gets in.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Saturday: Chores</h2>
+            <p class="info"><span class="date">03-09-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Motivated to Work</h3>
+                <p class="title">Chores never end</p>
+                <p>
+                    It's not very often that I will wake up fully rested and wanting to do chores. I wanted to get things done. In the morning mom and me cooked idli and sambar which was really good. 
+                    However, the morning was short lived. I don't know what gets in her mind but no matter how much I try to be a good son, I get put down for it and we end up fighting. It's so hard to deal with her. 
+                    As I mentioned I am trying to keep it positive but its hard to when I am trying my best. I didn't mention it to Yu because she got a interview for PA School and she needed to focus on that not my issues. 
+                    My problems always resolve itself for the most part given time. <br><br>
+                    In the night I helped Yu study still I was exhausted and fell asleep.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Friday: Burritos</h2>
+            <p class="info"><span class="date">03-08-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Friday</h3>
+                <p class="title">Such a long week</p>
+                <p>
+                    This week genuinely dragged. I tried my best but it wasn't an easy week. After work, the guys and me went to Texas Taco. I had a bean burrito. It was alright. I came home and knocked out soon after.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Tuesday-Thurday</h2>
+            <p class="info"><span class="date">03-05-2024 / 03-06-2024 / 03-07-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Work Days</h3>
+                <p class="title">Normal work days</p>
+                <p>
+                    Most of this week was just spent working. I did a mile on Wednesday. I don't remember much of what happened. I think I was just tired and I knocked out for the most part with playing Pokemon in my free time.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Monday: Start of the Week</h2>
+            <p class="info"><span class="date">03-04-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Another Monday Another Week</h3>
+                <p class="title">The Drama</p>
+                <p>
+                    Today was another Monday and I continued doing my tasks for work. My mom was still being nasty sometimes but I ignored it. This week was a bit long. 
+                    I did 1 mile in the evening. I am not going to post pictures of the miles anymore. Just wanted to do it for the month of february. I will still keep track of it though.
+                    I don't remember what I did in the evening with Yu. I think we watched Avatar. I am not sure
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
+            <h2>Sunday: Hard days</h2>
+            <p class="info"><span class="date">03-03-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Tryna remain positive</h3>
+                <p class="title">Another Day Another Weekend</p>
+                <p>
+                    I woke up today and spent a hour and a half doing dishes. I did a bunch of other chores today. I try to keep my blog positive but its not always the easiest. My mom tends 
+                    to be extremely difficult and can be so overbearing sometimes. I remember there was a fight but I had blocked it out by now. Its not always so easy but I will keep pushing forward.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Saturday: Queens and Harry Potter</h2>
             <p class="info"><span class="date">03-02-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
