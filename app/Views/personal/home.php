@@ -25,6 +25,28 @@
         </div>
 
         <div class="post">
+            <h2>Monday: Just another work day</h2>
+            <p class="info"><span class="date">03-11-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+            <div class="subcat">
+                <h3>Fixing the PDPortal</h3>
+                <p class="title">Bugs never end</p>
+                <p>
+                    Today was a normal day of work. Just fixing bugs. Nothing interesting much happened. After work I did some groceries and then I came home and knocked out after relaxing a bit.
+                </p>
+            </div>
+
+
+        </div>
+
+
+        <!-- end_news -->
+        <div align="left">
+            <p>Until Next Time, See Ya</p>
+            <p></p>
+        </div>
+
+        <div class="post">
             <h2>Sunday: More Chores</h2>
             <p class="info"><span class="date">03-10-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
