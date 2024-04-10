@@ -90,13 +90,13 @@
 
                     <div class="mySlides2 fade">
                     <div class="numbertext">2 / 3</div>
-                    <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%">
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%; display:none;">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
                     <div class="mySlides2 fade">
                     <div class="numbertext">3 / 3</div>
-                    <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%">
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%; display:none:">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
