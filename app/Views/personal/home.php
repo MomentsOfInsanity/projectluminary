@@ -82,19 +82,19 @@
                 <div class="slideshow-container">
 
                     <!-- Full-width images with number and caption text -->
-                    <div class="mySlides2 fade">
+                    <div class="mySlides2 fade" style="display:block;">
                     <div class="numbertext">1 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/AC-44.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
-                    <div class="mySlides2 fade">
+                    <div class="mySlides2 fade" style="display:none;">
                     <div class="numbertext">2 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
-                    <div class="mySlides2 fade">
+                    <div class="mySlides2 fade" style="display:none">
                     <div class="numbertext">3 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
