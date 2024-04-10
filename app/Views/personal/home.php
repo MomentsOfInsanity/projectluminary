@@ -45,16 +45,65 @@
                 <p class="info"><span class="date">03-12-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
                 <div class="subcat">
-                <h3>Recap</h3>
-                <p class="title">Laziness is the death of me</p>
-                <p>
-                    Alright, so here's the deal. Today is actually April 10th 2024. That means for a full month I did not update anything. One day turned into
-                    few days, which turned into a week, which turned into a month. Truth was I wasn't dealing with everything going on well and I went into a slump. 
-                    I am okay now, but it felt like a lot with work, with queens, with life. I promise I am okay. I'm not going to update a months worth of stuff. It is a lot
-                    most of which I do not even remember. However there was some fun and happy moments I will recount on. These are the moments I would like to look back on importantly.
-                    It's the moments that matters in the end even when days are dark.
-                </p>
-            </div>
+                    <h3>Buffalo Wild Wings</h3>
+                    <p class="title">Cauliflower Wings</p>
+                    <p>
+                        Today Yu came and for lunch we decided to go to Buffalo Wild Wings. I happened to have gift cards for the place. It has been sometime since
+                        I came here but man the food was delicious. We got a order of fries, cauliflower wings, and 2 mac n cheeses. I really love blue cheese but they don't
+                        have the original Blazin sauce anymore like they used too though as of late I don't like burning spice anymore. Everything was delicious.
+                    </p>
+                </div>
+
+                <div class="pics"><a href="/assets/media/personal/2024/03March/adventurePinata/bdubfood.jpeg"><img src="/assets/media/personal/2024/03March/bdubfood.jpeg" width="300"
+                alt="Threadmill" loading="lazy"></a></div>
+
+                <div class="subcat">
+                    <h3>Smashing a Pinata</h3>
+                    <p class="title">Giant Taco!</p>
+                    <p>
+                        It has been a long time since we did an Adventure Challenge Date. We settled on #44 Pinata. As it probably implies we were gonna be doing some smashing today.
+                        We went to a nearby Walmart and picked a medium size Giant Taco. It was honestly a beautiful day out. We got a bag of twix chocolates as it was only the 2 of us.
+                        After checking out we tried to find a place in public to be able to smash a pinata. Honestly that was an adventure in itself.
+                        <br>
+                        First we went to this one park, it had a nice trail which we walked for a bit but there was no good spots to ourselves to do this. <br>
+                        Then we went to another park, and found out it was only for golfing but luckily enough we got directions to the public area which was on the complete other end that we had to drive too. <br>
+                        Finally after a good bit of searching we came across a perfect park with a lot of trees and enough privacy distance from others. <br>
+
+                        <br>
+                        Yu has been wanting to go to a rage room for quite some time but to curb that feeling for now we decided to vent out on this poor giant taco. I found a
+                        good stick and prepped it by removing the bark. Something about a man and his stick. My caveman ancestors be reaching out. We finally got the Pinata strung up and filled with chocolates.
+                        We took some funny photos, and took turns spinning around and hitting the thing. It was glorious. We took a 7 minute video of it. I might post it to youtube later and link it. I really enjoyed this date with yu. I rate it a 10/10
+                        <br><br>
+                        p.s I forgot to mention after the smashing and cleaning up, I went and talking to two bros about drones and offered them twix. They were cool.
+                    </p>
+                </div>
+
+                <!-- Slideshow container -->
+                <div class="slideshow-container">
+
+                    <!-- Full-width images with number and caption text -->
+                    <div class="mySlides fade">
+                    <div class="numbertext">1 / 3</div>
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/AC-44.jpeg" style="width:30%">
+                    <!-- <div class="text">Caption Three</div> -->
+                    </div>
+
+                    <div class="mySlides fade">
+                    <div class="numbertext">2 / 3</div>
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%">
+                    <!-- <div class="text">Caption Three</div> -->
+                    </div>
+
+                    <div class="mySlides fade">
+                    <div class="numbertext">3 / 3</div>
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%">
+                    <!-- <div class="text">Caption Three</div> -->
+                    </div>
+
+                    <!-- Next and previous buttons -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
             </div>
         </div>
 
