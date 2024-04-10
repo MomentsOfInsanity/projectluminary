@@ -90,13 +90,13 @@
 
                     <div class="mySlides2 fade">
                     <div class="numbertext">2 / 3</div>
-                    <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%; display:none;">
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
                     <div class="mySlides2 fade">
                     <div class="numbertext">3 / 3</div>
-                    <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%; display:none:">
+                    <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
@@ -1986,16 +1986,11 @@
     function showSlides2(n) {
     let i2;
     let slides2 = document.getElementsByClassName("mySlides2");
-    let dots2 = document.getElementsByClassName("dot");
     if (n > slides2.length) {slideIndex2 = 1}
     if (n < 1) {slideIndex2 = slides2.length}
     for (i2 = 0; i2 < slides2.length; i2++) {
         slides2[i2].style.display = "none";
     }
-    for (i2 = 0; i2 < dots2.length; i2++) {
-        dots2[i2].className = dots2[i2].className.replace(" active", "");
-    }
     slides2[slideIndex2-1].style.display = "block";
-    dots2[slideIndex2-1].className += " active";
     }
 </script>
