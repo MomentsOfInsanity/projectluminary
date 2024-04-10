@@ -82,27 +82,27 @@
                 <div class="slideshow-container">
 
                     <!-- Full-width images with number and caption text -->
-                    <div class="mySlides fade">
+                    <div class="mySlides2 fade">
                     <div class="numbertext">1 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/AC-44.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
-                    <div class="mySlides fade">
+                    <div class="mySlides2 fade">
                     <div class="numbertext">2 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/ThumbnailPinata.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
-                    <div class="mySlides fade">
+                    <div class="mySlides2 fade">
                     <div class="numbertext">3 / 3</div>
                     <img src="/assets/media/personal/2024/03March/adventurePinata/EpicHighKick.jpeg" style="width:30%">
                     <!-- <div class="text">Caption Three</div> -->
                     </div>
 
                     <!-- Next and previous buttons -->
-                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                    <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides2(1)">&#10095;</a>
                 </div>
             </div>
         </div>
@@ -1949,10 +1949,15 @@
 <script>
     let slideIndex = 1;
     showSlides(slideIndex);
+    showSlides2(slideIndex);
 
     // Next/previous controls
     function plusSlides(n) {
     showSlides(slideIndex += n);
+    }
+
+    function plusSlides2(n) {
+    showSlides2(slideIndex += n);
     }
 
     // Thumbnail image controls
@@ -1963,6 +1968,22 @@
     function showSlides(n) {
     let i;
     let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    }
+
+    unction showSlides2(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides2");
     let dots = document.getElementsByClassName("dot");
     if (n > slides.length) {slideIndex = 1}
     if (n < 1) {slideIndex = slides.length}
