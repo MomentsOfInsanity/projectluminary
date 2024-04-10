@@ -1948,9 +1948,9 @@
 </div><!-- END #content -->
 <script>
     let slideIndex = 1;
-    let slideIndex2 = 1;
+    let slideIndexb = 1;
     showSlides(slideIndex);
-    showSlides2(slideIndex2);
+    showSlides2(slideIndexb);
 
     // Next/previous controls
     function plusSlides(n) {
@@ -1958,13 +1958,7 @@
     }
 
     function plusSlides2(n) {
-    showSlides2(slideIndex2 += n);
-    }
-
-    // Thumbnail image controls
-    function currentSlide(n) {
-    showSlides(slideIndex = n);
-    showSlides2(slideIndex2 = n)
+    showSlides2(slideIndexb += n);
     }
 
     function showSlides(n) {
@@ -1984,13 +1978,13 @@
     }
 
     function showSlides2(n) {
-    let i2;
-    let slides2 = document.getElementsByClassName("mySlides2");
-    if (n > slides2.length) {slideIndex2 = 1}
-    if (n < 1) {slideIndex2 = slides2.length}
-    for (i2 = 0; i2 < slides2.length; i2++) {
-        slides2[i2].style.display = "none";
+    let i;
+    let slides = document.getElementsByClassName("mySlides2");
+    if (n > slides.length) {slideIndexb = 1}
+    if (n < 1) {slideIndexb = slides.length}
+    for (i2= 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
     }
-    slides2[slideIndex2-1].style.display = "block";
+    slides[slideIndexb-1].style.display = "block";
     }
 </script>
