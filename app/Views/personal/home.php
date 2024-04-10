@@ -1982,7 +1982,7 @@
     let slides = document.getElementsByClassName("mySlides2");
     if (n > slides.length) {slideIndexb = 1}
     if (n < 1) {slideIndexb = slides.length}
-    for (i= 0; i < slides.length; i++) {
+    for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
     slides[slideIndexb-1].style.display = "block";
