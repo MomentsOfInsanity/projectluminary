@@ -1982,7 +1982,7 @@
     dots[slideIndex-1].className += " active";
     }
 
-    unction showSlides2(n) {
+    function showSlides2(n) {
     let i;
     let slides = document.getElementsByClassName("mySlides2");
     let dots = document.getElementsByClassName("dot");
