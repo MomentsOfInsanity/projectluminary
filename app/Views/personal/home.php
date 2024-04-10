@@ -1964,6 +1964,7 @@
     // Thumbnail image controls
     function currentSlide(n) {
     showSlides(slideIndex = n);
+    showSlides2(slideIndex2 = n)
     }
 
     function showSlides(n) {
