@@ -32,7 +32,7 @@
                 <h3>Recap</h3>
                 <p class="title">Laziness is the death of me</p>
                 <p>
-                    Alright, so here's the deal. Today is actually April 10th 2024. That means for a full month I did not update anything. One day turned into
+                    Alright, so here's the deal. Today is actually April 11th 2024. That means for a full month I did not update anything. One day turned into
                     few days, which turned into a week, which turned into a month. Truth was I wasn't dealing with everything going on well and I went into a slump. 
                     I am okay now, but it felt like a lot with work, with queens, with life. I promise I am okay. I'm not going to update a months worth of stuff. It is a lot
                     most of which I do not even remember. However there was some fun and happy moments I will recount on. These are the moments I would like to look back on importantly.
