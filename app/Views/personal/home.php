@@ -26,7 +26,7 @@
 
         <div class="post">
             <h2>Wednesday: The Moments Worth Remembering!</h2>
-            <p class="info"><span class="date">04-10-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+            <p class="info"><span class="date">04-11-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
 
             <div class="subcat">
                 <h3>Recap</h3>
@@ -38,6 +38,69 @@
                     most of which I do not even remember. However there was some fun and happy moments I will recount on. These are the moments I would like to look back on importantly.
                     It's the moments that matters in the end even when days are dark.
                 </p>
+            </div>
+
+            <div class="subcat">
+                    <h3>Finale</h3>
+                    <p class="title">Recap</p>
+                    <p>
+                        After Bingo, nothing much happened. I told you I felt mentally refreshed. I started going to the gym, eating healthier. My mom got the cesspool extended. Basement for Queens moved out.
+                        I helped buy Glenn a suit. All in all life is up and down. Sometimes it sucks but these are the moments worth remembering.
+                    </p>
+                </div>
+
+            <div class="subcat">
+                <h2>Saturday: PARTY BINGO!</h2>
+                <p class="info"><span class="date">03-30-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+                <div class="subcat">
+                    <h3>RAVING WITH MY BESTIES</h3>
+                    <p class="title">Pizza, Bingo, and Cops</p>
+                    <p>
+                        Today was honestly the best time of my life. Theres very few moments I get to spend time with my girlfriend and my bestfriend and do a activity together. It
+                        genuinelly fills me up with such joy. Glenn and me took the train into Penn with Yukta meeting us there. We soon took the subway to Brooklyn where we stopped
+                        by this bar called the Aligator Lounge if I remember correcrtly. This was a cool place mostly because I got free food technically. They did a thing for every drink, we
+                        get a ticket for a personal pie and I devoured the lot of them bc I wasn't getting drunk anyway. I had 2 drinks but I ate the others pizza tickets when they didnt want it.
+                        <br><br>
+                        Then eventually we walked down to the location for Party Bingo. It was called Bingo Loco. My expectations for it wasnt high but it was genuinely a lot of fun. I would do this again
+                        maybe next year. It was so fun to rave and dance along to the music. I loved dancing with Yu. Glenn was vibin out. Genuinely I couldn't be happier. We didnt end up winning none of the bingos but thats okay.
+                        Some of the prices were funny though like a cardboard cutout of Harry Styles or a dildo.
+                        <br><br>
+                        On the way home, I was paying for subway and I thought it be funny if Glenn pushed himself along with me as a laugh. Unforntunetly a cop saw us. I was totally willing to pay right that moment, 
+                        or even multiple times I didn't care. He did not care and gave Glenn a ticket. Glenn then proceeded to heckle the cop for 10 minutes bc it was dumb. Yu joined in after his cop buddy let
+                        another person go doing the exact same thing. Shit was wild. Immedietally after the cop left, I broke down crying bc I felt so guilty for accidentally on purpose making my friend commit a crime 
+                        after a amazing day and thinking I ruined it. He says he doesn't care and is just vibing. It did end up being funny though, We eventually just all went home after that. Despite the ending
+                        it still is one of my more favorite days. It gave me such a nice mental recovery.
+                    </p>
+                </div>
+
+                <div class="pics"><a href="/assets/media/personal/2024/03March/partybingo.jpeg"><img src="/assets/media/personal/2024/03March/partybingo.jpeg" width="300"
+                alt="partybingo" loading="lazy"></a></div>
+
+
+                
+            </div>
+
+            <div class="subcat">
+                <h2>Thurday: Phills New House!</h2>
+                <p class="info"><span class="date">03-14-2024</span> by <span class="user"><a href="mailto:embersmoi@gmail.com">Asura</a></span></p>
+
+                <div class="subcat">
+                    <h3>First Time Visit</h3>
+                    <p class="title">Pizza and Laundry</p>
+                    <p>
+                        I don't remember whether glenn and joe had shown up to the house before but this was my first time. We had got a pie of pizza, and hanged around while Phill gave us the rundown of the house. 
+                        It's not a bad house but definitly needs a lot of work and its come a long way from when I first saw it. We were trying to figureout how to turn the water on for some time and eventually moved 
+                        a laundry machine into the basement. After all that we walked a block down to basically being lake side. It was a nice area. Joe and Sophie took couple hits of the plant.
+                    </p>
+                </div>
+
+                <div class="pics"><a href="/assets/media/personal/2024/03March/lakeronkonkomagroup.jpeg"><img src="/assets/media/personal/2024/03March/lakeronkonkomagroup.jpeg" width="300"
+                alt="lakeronkonkoma" loading="lazy"></a></div>
+
+                
+
+                
             </div>
 
             <div class="subcat">
@@ -54,7 +117,7 @@
                     </p>
                 </div>
 
-                <div class="pics"><a href="/assets/media/personal/2024/03March/adventurePinata/bdubfood.jpeg"><img src="/assets/media/personal/2024/03March/bdubfood.jpeg" width="300"
+                <div class="pics"><a href="/assets/media/personal/2024/03March/adventurePinata/bdubfood.jpeg"><img src="/assets/media/personal/2024/03March/adventurePinata/bdubfood.jpeg" width="300"
                 alt="Threadmill" loading="lazy"></a></div>
 
                 <div class="subcat">
