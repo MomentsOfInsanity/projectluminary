@@ -1,5 +1,5 @@
-<link rel="shortcut icon" href="/assets/css/personal/TemplateData/favicon.ico">
-    <link rel="stylesheet" href="/assets/css/personal/TemplateData/style.css">
+<link rel="shortcut icon" href="/assets/css/TemplateData/favicon.ico">
+    <link rel="stylesheet" href="/assets/css/TemplateData/style.css">
 <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
