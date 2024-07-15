@@ -15,4 +15,9 @@ class Card extends BaseController
         $this->template('/personal/cards/list/ry_list');
     }
 
+    public function gaming()
+    {
+        $this->template('/personal/cards/gaming');
+    }
+
 }
