@@ -1,7 +1,7 @@
 
 let i = 0;
-let text1 = "Hey! Miss Qiu.";
-let text2 = "Today is the Big Day."
+let text1 = "Hey Yukta!";
+let text2 = "Today is International Girlfriend Day. I made this to show you how much I appreciate you! I love you!";
 let speed = 100;
 
 function typeWriter(text, para){

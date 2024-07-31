@@ -35,14 +35,10 @@
 			var flag = 1;
 			var myImage = document.getElementById("img");
 			var myTxt = document.getElementById("Txt");
-			var imageArray = ["/assets/gf24/pic/pic1.png", "/assets/gf24/pic/pic2.png", "/assets/gf24/pic/pic3.png", "/assets/gf24/pic/pic4.png", "/assets/gf24/pic/pic5.png", "/assets/gf24/pic/pic6.png", 
-			"/assets/gf24/pic/pic7.png", "/assets/gf24/pic/pic8.png", "/assets/gf24/pic/pic9.png", "pic/pic10.png", "/assets/gf24/pic/pic11.png", "/assets/gf24/pic/pic12.png", "/assets/gf24/pic/pic13.png",
-			"/assets/gf24/pic/pic14.png", "/assets/gf24/pic/pic15.png", "/assets/gf24/pic/pic16.png"];
+			var imageArray = ["/assets/gf24/pic/pic1.JPEG", "/assets/gf24/pic/pic2.png", "/assets/gf24/pic/pic3.png", "/assets/gf24/pic/pic4.png", "/assets/gf24/pic/pic5.png", "/assets/gf24/pic/pic6.png", 
+			"/assets/gf24/pic/pic7.png", "/assets/gf24/pic/pic8.png", "/assets/gf24/pic/pic9.png"];
 			var imageIndex = 0;
-			var txtArray = ["你好哇，小可爱~", "我们第一次见面的时候，女票认真的小眼神，嘻嘻", "当时我也有在比心哦~(｡･ω･｡)ﾉ♡",
-			 "第一次去重庆见女票, 小仙女出现啦", "江边，今夜月色真美", "牵爪爪散步，开心~o(≧v≦)o", "咳咳，老大不小了还写情书，真是让人害羞(/ω＼)",
-			 "超级喜欢女票送的兔兔和胡萝卜!!!", "举手手，我是最可爱的(･∀･)", "同款举手手（好吧，还是女票可爱）", "哇哇哇，这么可爱犯规啦", 
-			 "下次去旅游可以叫上我一起吗~", "说，我叠的星星好不好看٩(๑òωó๑)۶", "洪崖洞买的邱邱~", "女票女票，我爱你~", "哒哒哒，逃~"];
+			var txtArray = ["My god you look smoking hot in this picture!", "Best Mexican evaaaaaa! Eat that Corn", "What can I say? Prettier then flowers", "Love is an Explosion!!!", "You take me to all the sweet places", "Damn gurlll didnt know you had that kind of flexibility!", "Tokyo is Incredible. So luckyyyy", "Epic Samurai Movie HYAAAAA", "strong af boiii"];
 			 var len = imageArray.length;
 			var t = 0;
 		</script>
