@@ -23,5 +23,11 @@ class Home extends BaseController
         $this->templatevalentine('personal/valentinehome');
     }
 
+    public function interational_girlfriend_day_2024()
+    {
+        // return view('/templates/personal/home');
+        $this->templatevalentine('personal/internationalgf24');
+    }
+
 
 }

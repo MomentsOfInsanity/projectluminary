@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" id="viewport-meta">
     <title>4 u my love!!! :3</title>
     <meta http-equiv="imagetoolbar" content="no">
-    <link rel="stylesheet" href="/assets/css/personal/stylee-wily.css">
 </head>
 
 <body>
