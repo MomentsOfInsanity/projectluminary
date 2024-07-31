@@ -19,9 +19,11 @@ class Card extends BaseController
 
     public function testModel()
     {
-        // $this->User_Model = new User_model();
-        // $getTest = $this->User_Model->getUsers();
-        // var_dump($getTest->test1);
+        $this->User_Model = new User_model();
+
+        $getTest = $this->User_Model->getUsers();
+        var_dump($getTest->test1);
+        var_dump('seeing text');
     }
 
 
