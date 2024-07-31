@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use App\Models\User_model;
+
 class Card extends BaseController
 {
     public function RY()
@@ -14,5 +16,14 @@ class Card extends BaseController
 
         $this->template('/personal/cards/list/ry_list');
     }
+
+    public function testModel()
+    {
+        $this->User_Model = new User_model();
+        $getTest = $this->User_Model->getUsers();
+        var_dump($getTest->test1);
+    }
+
+
 
 }
