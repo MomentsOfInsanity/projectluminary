@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="/assets/gf24/css/format.css">
 <audio autoplay loop>
 			<source src="/assets/gf24/music/music.mp3" type="audio/mpeg">
 			Your browser does not support the audio.
