@@ -23,7 +23,7 @@ function play(){
 	}
 	flag = 1 - flag;
 	document.getElementById("typeDiv").style.opacity = flag;
-	document.getElementById("imgTxt").style.width = "50%";
+	// document.getElementById("imgTxt").style.width = 50
 	document.getElementById("imgTxt").style.opacity = 1 - flag;
 	if(t == 0){
 		//setTimeout(showImage, 1000);
