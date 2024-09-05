@@ -6,7 +6,7 @@ class Movies extends BaseController
 {
     
 
-    public function interational_girlfriend_day_2024()
+    public function test()
     {
         // return view('/templates/personal/home');
         $this->template('personal/movietesting');
