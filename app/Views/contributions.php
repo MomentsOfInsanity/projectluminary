@@ -21,17 +21,7 @@
         fetch('/contributions/fetch')
             .then(response => response.json())
             .then(data => {
-                const contributions = [];
-                data.data.user.contributionsCollection.contributionCalendar.weeks.forEach(week => {
-                    week.contributionDays.forEach(day => {
-                        contributions.push({
-                            date: day.date,
-                            count: day.contributionCount
-                        });
-                    });
-                });
-
-                renderGraph(contributions);
+                renderGraph(data);
             })
             .catch(error => console.error('Error fetching data:', error));
 
