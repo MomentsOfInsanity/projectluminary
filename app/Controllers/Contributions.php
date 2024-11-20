@@ -12,15 +12,12 @@ class Contributions extends BaseController
     public function fetch()
     {
         // Load the JSON file
-        // $filePath = WRITEPATH . 'data/contributions.json';
-        // if (!file_exists($filePath)) {
-        //     return $this->response->setStatusCode(404, 'Contributions data not found.');
-        // }
+        $filePath = WRITEPATH . 'data/contributions.json';
+        if (!file_exists($filePath)) {
+            return $this->response->setStatusCode(404, 'Contributions data not found.');
+        }
 
-        // $jsonData = file_get_contents($filePath);
-        // return $this->response->setJSON(json_decode($jsonData, true));
-
-        echo WRITEPATH . 'data/contributions.json';
-
+        $jsonData = file_get_contents($filePath);
+        return $this->response->setJSON(json_decode($jsonData, true));
     }
 }
