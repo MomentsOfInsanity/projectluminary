@@ -6,7 +6,7 @@ use CodeIgniter\HTTP\Client;
 
 class Contributions extends BaseController
 {
-    private $githubToken = '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';
+    private $githubToken = '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';
 
     public function index()
     {
