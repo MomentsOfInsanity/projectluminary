@@ -33,35 +33,30 @@
 <body>
     <button id="exportButton">Download STL</button>
     <script type="module">
-        // Import Three.js and utilities
         import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js';
-        import { OrbitControls } from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/jsm/controls/OrbitControls.js';
-        import { STLExporter } from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/jsm/exporters/STLExporter.js';
-        import { FontLoader } from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/jsm/loaders/FontLoader.js';
-        import { TextGeometry } from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/jsm/geometries/TextGeometry.js';
+        import { OrbitControls } from 'https://threejs.org/examples/jsm/controls/OrbitControls.js';
+        import { STLExporter } from 'https://threejs.org/examples/jsm/exporters/STLExporter.js';
+        import { FontLoader } from 'https://threejs.org/examples/jsm/loaders/FontLoader.js';
+        import { TextGeometry } from 'https://threejs.org/examples/jsm/geometries/TextGeometry.js';
 
-        // Example contribution data
         const contributions = Array.from({ length: 365 }, (_, i) => ({
             date: `2024-${Math.ceil((i + 1) / 30).toString().padStart(2, '0')}-${((i % 30) + 1).toString().padStart(2, '0')}`,
             count: Math.floor(Math.random() * 10) // Random contribution counts for example
         }));
 
         function renderSkyline(contributions) {
-            // Scene setup
             const scene = new THREE.Scene();
             const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
             const renderer = new THREE.WebGLRenderer();
             renderer.setSize(window.innerWidth, window.innerHeight);
             document.body.appendChild(renderer.domElement);
 
-            // OrbitControls
             const controls = new OrbitControls(camera, renderer.domElement);
             controls.enableRotate = true;
             controls.enableZoom = true;
             controls.target.set(0, 0, 0);
             controls.update();
 
-            // Contribution grid
             const weeks = 52; 
             const days = 7; 
             const cubeSize = 1;
@@ -90,14 +85,12 @@
 
             scene.add(cubes);
 
-            // Pedestal
             const pedestalGeometry = new THREE.BoxGeometry(weeks + 5, days + 5, 2);
             const pedestalMaterial = new THREE.MeshStandardMaterial({ color: 0x333333 });
             const pedestal = new THREE.Mesh(pedestalGeometry, pedestalMaterial);
             pedestal.position.z = -1.5; 
             scene.add(pedestal);
 
-            // Add text
             const loader = new FontLoader();
             loader.load('https://threejs.org/examples/fonts/helvetiker_regular.typeface.json', (font) => {
                 const textGeometry = new TextGeometry('@MomentsOfInsanity - 2023', {
@@ -112,7 +105,6 @@
                 scene.add(textMesh);
             });
 
-            // Lighting
             const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
             scene.add(ambientLight);
 
@@ -122,7 +114,6 @@
 
             camera.position.set(0, 20, 70);
 
-            // Render loop
             function animate() {
                 requestAnimationFrame(animate);
                 controls.update();
@@ -131,12 +122,10 @@
 
             animate();
 
-            // STL Export Functionality
             document.getElementById('exportButton').addEventListener('click', () => {
                 const exporter = new STLExporter();
                 const stlString = exporter.parse(scene);
 
-                // Create a blob and download link
                 const blob = new Blob([stlString], { type: 'text/plain' });
                 const link = document.createElement('a');
                 link.style.display = 'none';
