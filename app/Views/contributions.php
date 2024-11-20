@@ -33,11 +33,11 @@
 <body>
     <button id="exportButton">Download STL</button>
     <script type="module">
-        import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js';
-        import { OrbitControls } from 'https://threejs.org/examples/jsm/controls/OrbitControls.js';
-        import { STLExporter } from 'https://threejs.org/examples/jsm/exporters/STLExporter.js';
-        import { FontLoader } from 'https://threejs.org/examples/jsm/loaders/FontLoader.js';
-        import { TextGeometry } from 'https://threejs.org/examples/jsm/geometries/TextGeometry.js';
+       import * as THREE from 'https://unpkg.com/three@0.128.0/build/three.module.js';
+        import { OrbitControls } from 'https://unpkg.com/three@0.128.0/examples/jsm/controls/OrbitControls.js';
+        import { STLExporter } from 'https://unpkg.com/three@0.128.0/examples/jsm/exporters/STLExporter.js';
+        import { FontLoader } from 'https://unpkg.com/three@0.128.0/examples/jsm/loaders/FontLoader.js';
+        import { TextGeometry } from 'https://unpkg.com/three@0.128.0/examples/jsm/geometries/TextGeometry.js';
 
         const contributions = Array.from({ length: 365 }, (_, i) => ({
             date: `2024-${Math.ceil((i + 1) / 30).toString().padStart(2, '0')}-${((i % 30) + 1).toString().padStart(2, '0')}`,
