@@ -15,10 +15,24 @@ class Contributions extends BaseController
 
     public function fetch()
     {
-        $username = 'MomentsOfInsanity'; // Replace with your GitHub username
+        $cache = \Config\Services::cache();
+
+        // Check if data is cached
+        $cachedData = $cache->get('github_contributions');
+        if ($cachedData) {
+            return $this->response->setJSON($cachedData);
+        }
+
+        $username = 'MomentsOfInsanity';
 
         $query = <<<GRAPHQL
         {
+            rateLimit {
+                limit
+                cost
+                remaining
+                resetAt
+            }
             user(login: "$username") {
                 contributionsCollection {
                     contributionCalendar {
@@ -36,14 +50,34 @@ class Contributions extends BaseController
 
         $client = \Config\Services::curlrequest();
 
-        $response = $client->post('https://api.github.com/graphql', [
-            'headers' => [
-                'Authorization' => "Bearer {$this->githubToken}",
-                'Content-Type'  => 'application/json',
-            ],
-            'json' => ['query' => $query],
-        ]);
+        try {
+            $response = $client->post('https://api.github.com/graphql', [
+                'headers' => [
+                    'Authorization' => "Bearer {$this->githubToken}",
+                    'Content-Type'  => 'application/json',
+                ],
+                'json' => ['query' => $query],
+            ]);
 
-        return $this->response->setJSON(json_decode($response->getBody(), true));
+            $responseData = json_decode($response->getBody(), true);
+
+            // Check if the rate limit is exceeded
+            if (isset($responseData['data']['rateLimit'])) {
+                $remaining = $responseData['data']['rateLimit']['remaining'];
+                $resetAt = $responseData['data']['rateLimit']['resetAt'];
+
+                if ($remaining === 0) {
+                    return $this->response->setStatusCode(429, "Rate limit exceeded. Try again after: $resetAt");
+                }
+            }
+
+            // Cache the response data for 1 hour
+            $cache->save('github_contributions', $responseData, 3600);
+
+            return $this->response->setJSON($responseData);
+        } catch (\Exception $e) {
+            log_message('error', $e->getMessage());
+            return $this->response->setStatusCode(500, $e->getMessage());
+        }
     }
 }
