@@ -17,13 +17,17 @@
 </head>
 <body>
     <script>
-        // Fetch contribution data
-        fetch('/contributions/fetch')
-            .then(response => response.json())
-            .then(data => {
-                renderGraph(data);
-            })
-            .catch(error => console.error('Error fetching data:', error));
+        // Manually define contribution data as JSON
+        const contributions = [
+            { date: "2024-01-01", count: 5 },
+            { date: "2024-01-02", count: 10 },
+            { date: "2024-01-03", count: 0 },
+            { date: "2024-01-04", count: 3 },
+            { date: "2024-01-05", count: 8 },
+            { date: "2024-01-06", count: 2 },
+            { date: "2024-01-07", count: 7 }
+            // Add more days as needed
+        ];
 
         function renderGraph(contributions) {
             // Three.js setup
@@ -34,7 +38,7 @@
             document.body.appendChild(renderer.domElement);
 
             // Create a grid for contributions
-            const gridSize = 53; // Approx. 53 weeks
+            const gridSize = 7; // Weekly grid
             const cubeSize = 1;
 
             contributions.forEach((day, index) => {
@@ -50,7 +54,7 @@
                 scene.add(cube);
             });
 
-            camera.position.z = 50;
+            camera.position.z = 15;
 
             // Render loop
             function animate() {
@@ -60,6 +64,9 @@
 
             animate();
         }
+
+        // Call the function to render the graph
+        renderGraph(contributions);
     </script>
 </body>
 </html>
