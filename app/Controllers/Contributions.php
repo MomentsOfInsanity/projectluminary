@@ -6,6 +6,7 @@ use CodeIgniter\HTTP\Client;
 
 class Contributions extends BaseController
 {
+    private $githubToken = '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';
 
     public function index()
     {
@@ -37,7 +38,7 @@ class Contributions extends BaseController
 
         $response = $client->post('https://api.github.com/graphql', [
             'headers' => [
-                'Authorization' => "Bearer {$this->getenv('PAT')}",
+                'Authorization' => "Bearer {$this->githubToken}",
                 'Content-Type'  => 'application/json',
             ],
             'json' => ['query' => $query],
