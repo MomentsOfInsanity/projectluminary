@@ -34,7 +34,7 @@ class Home extends BaseController
     public function sixthanniversary()
     {
         $this->Milestone_model = new Milestone_model();
-        $data['milestones'] = $Milestone_model ->orderBy('date', 'DESC')->findAll(); // Fetch events, most recent first
+        $data['milestones'] = $Milestone_model->orderBy('date', 'DESC')->findAll(); // Fetch events, most recent first
         return view('personal/anniversary6', $data);
 
     }
