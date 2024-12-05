@@ -35,7 +35,7 @@ class Home extends BaseController
     {
         $this->Milestone_model = new Milestone_model();
         $data['milestones'] = $this->Milestone_model->getAllMilestones();
-        $this->load->view('personal/anniversary6', $data);
+        return view('personal/anniversary6', $data);
 
     }
 
