@@ -23,8 +23,10 @@ class Milestone_model extends Model
     }
 
     public function getAllMilestones() {
-        $this->db->order_by('date', 'ASC');
-        return $this->db->get('milestones')->result_array();
+      
+        $sql= "SELECT * FROM milestones ORDER BY date DESC";
+        $query = $this->db->query($sql);
+        return $query->getResult();
     }
 
     
