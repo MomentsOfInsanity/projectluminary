@@ -1,19 +1,40 @@
-
-<div class="container">
-    <h1 class="text-center my-4">Our Memory Lane</h1>
-    <div class="timeline">
-        <?php foreach ($milestones as $milestone){ ?>
-            <div class="timeline-item left ?>">
-                <div class="content">
-                    <h5><?php echo $milestone->title; ?></h5>
-                    <p><?php echo $milestone->description; ?></p>
-                    <p class="date"><?= date('F j, Y', strtotime($milestone->date)); ?></p>
-                    <?php if ($milestone->image){ ?>
-                        <img src="<?= base_url('uploads/' . $milestone->image); ?>" class="img-fluid mt-2" alt="<?php echo $milestone->title ?>">
-                    <?php } ?>
+<div class="swiper-container">
+        <div class="swiper-wrapper">
+            <?php foreach ($milestones as $milestone){?>
+                <div class="swiper-slide">
+                    <div class="event">
+                        <h5><?php echo $milestone->title; ?></h5>
+                        <p><?php echo $milestone->description;?></p>
+                        <p class="date"><?= date('F j, Y', strtotime($milestone->date)); ?></p>
+                        <?php if (!empty($milestone->image)){ ?>
+                            <img src="<?= base_url('uploads/' . $milestone->image); ?>" alt="<?php echo $milestone->title; ?>">
+                        <?php } ?>
+                    </div>
                 </div>
-            </div>
-        <?php } ?>
+            <?php }?>
+        </div>
+        <!-- Navigation buttons -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <!-- Pagination -->
+        <div class="swiper-pagination"></div>
     </div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper-container', {
+            loop: true, // Infinite looping
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            slidesPerView: 1,
+            spaceBetween: 10,
+            centeredSlides: true,
+        });
+    </script>
