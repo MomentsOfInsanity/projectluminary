@@ -34,8 +34,8 @@ class Home extends BaseController
     public function sixthanniversary()
     {
         $this->Milestone_model = new Milestone_model();
-        $data['milestones'] = $this->Milestone_model->getAllMilestones();
-        return view('personal/anniversary6', $data);
+        $timeline = $this->Milestone_model->getAllMilestones();
+        $this->templatevanniversary('personal/anniversary6', array('milestones' => $timeline));
 
     }
 
