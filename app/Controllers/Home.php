@@ -35,7 +35,8 @@ class Home extends BaseController
     {
         $this->Milestone_model = new Milestone_model();
         $timeline = $this->Milestone_model->getAllMilestones();
-        $this->templatevalentine('personal/anniversary6', array('milestones' => $timeline));
+        // $this->templatevalentine('personal/anniversary6', array('milestones' => $timeline));
+        var_dump($timeline);
 
     }
 
