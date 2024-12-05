@@ -23,6 +23,7 @@ abstract class BaseController extends Controller
 {
     protected $_layout = 'layouts/admin/layout';
     protected $valentine_layout = 'layouts/admin/valentine';
+    protected $anni_layout = 'layouts/admin/memories';
 
     protected $_layoutData = array();
     protected $_viewData = array();
@@ -146,6 +147,53 @@ abstract class BaseController extends Controller
             $this->_layoutData['current_section'] = $this->uri->rsegment(1);
             $this->_layoutData['current_action'] = $this->uri->rsegment(2);*/
             $content = view($this->valentine_layout,$this->_layoutData);
+        }
+        else {
+            $content = $content_for_layout;
+        }
+
+        
+            echo $content;
+        
+        
+        
+
+    }
+
+    function templatevanniversary($view, $data = NULL) {
+        if (!empty($data)) {
+            $viewData = array_merge($data,$this->_viewData);
+        }
+        else {
+            $data = array();
+            $viewData = array_merge($data,$this->_viewData);
+        }
+        $content_for_layout = view($view,$viewData);
+        if (!empty($this->anni_layout)) {
+            $this->_layoutData['content_for_layout'] = $content_for_layout;
+           // $this->_layoutData['user_logged_in'] = $this->session->userdata('loggedin');
+            // $this->_layoutData['user'] = $this->getUser();
+            //$this->_layoutData['spoofed'] = $this->session->userdata('spoofed');
+            //$this->_layoutData['javascripts'] = $this->_javascripts;
+            //$this->_layoutData['cssfiles'] = $this->_cssfiles;
+            /*$this->_layoutData['title_for_layout'] = $this->_title;
+            if (!empty($this->_bodyClasses)) {
+                $this->_layoutData['bodyClasses'] = $this->_bodyClasses;
+            }
+            $popupmessage = $this->session->userdata('popupmessage');
+            if (!empty($popupmessage) && !$this->_isXHTTPRequest) {
+                $this->_layoutData['popupmessage'] = $popupmessage;
+                $this->session->unset_userdata('popupmessage');
+            }
+            $modalpopupmessage = $this->session->userdata('modalpopupmessage');
+            if (!empty($modalpopupmessage) && !$this->_isXHTTPRequest) {
+                $this->_layoutData['modalpopupmessage'] = $modalpopupmessage;
+                $this->session->unset_userdata('modalpopupmessage');
+            }
+            $this->_layoutData['current_module'] = $this->uri->segment(1,'default');
+            $this->_layoutData['current_section'] = $this->uri->rsegment(1);
+            $this->_layoutData['current_action'] = $this->uri->rsegment(2);*/
+            $content = view($this->anni_layout,$this->_layoutData);
         }
         else {
             $content = $content_for_layout;
