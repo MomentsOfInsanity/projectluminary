@@ -22,10 +22,11 @@ class Milestone_model extends Model
         $this->db = \Config\Database::connect();
     }
 
-    public function getUsers() {
+    public function getAllMilestones() {
       
-        $query = $this->db->query('SELECT * from users');
-        return $query->getRow();
+        $sql= "SELECT * FROM milestones ORDER BY date DESC";
+        $query = $this->db->query($sql);
+        return $query->getResult();
     }
 
     
