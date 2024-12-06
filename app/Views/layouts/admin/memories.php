@@ -25,25 +25,23 @@
 
         .event {
             max-width: 90%;
+            margin: 0 auto;
+            padding: 20px;
             background: #f8f9fa;
             border-radius: 10px;
-            padding: 20px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
         }
+
         .event img {
             max-width: 100%;
+            max-height: 300px; /* Adjust based on your design needs */
             height: auto;
+            object-fit: cover; /* Ensures the image is cropped neatly */
             border-radius: 5px;
             margin-top: 10px;
         }
 
-
-        .event img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
 
         .event h5 {
             font-size: 1.5rem;
