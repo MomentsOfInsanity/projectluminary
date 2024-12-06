@@ -30,6 +30,13 @@
             padding: 20px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         }
+        .event img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
 
         .event img {
             max-width: 100%;
