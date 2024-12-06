@@ -9,18 +9,11 @@
     <style>
         /* General Swiper Styling */
         .swiper-container {
-            width: 100%;
-            height: 100vh;
+            padding-bottom: 50px; /* Add space at the bottom for the dots */
         }
 
-        .swiper-slide {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            text-align: center;
-            padding: 20px;
-            box-sizing: border-box;
+        .swiper-pagination {
+            bottom: 10px; /* Position the dots near the bottom of the swiper container */
         }
 
         .event {
