@@ -39,5 +39,9 @@ class Home extends BaseController
 
     }
 
+    public function archive_2024(){
+        $this->template('personal/archive/home_2024');
+    }
+
 
 }
