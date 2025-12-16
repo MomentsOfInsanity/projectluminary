@@ -7,87 +7,14 @@
     <title>Hello World!</title>
     <meta http-equiv="imagetoolbar" content="no">
     <link href="/assets/css/personal/layout.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/personal/skin-luminary.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/assets/css/personal/spp-news.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/assets/css/personal/tablenew.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/assets/css/personal/carousel.css" type="text/css" media="screen">
 
 </head>
-<style>
-    body {
-        --cmpBgColor: #507C36;
-        --cmpTextColor: #000000;
-        --cmpLinkColor: #FFFFFF;
-        --cmpPurposesColor: #000000;
-        --cmpBrandColor: #000000;
-        --cmpLogo: url('https://www.serebii.net/extralogo.png');
-    }
-</style>
 
-<body>
-    <!-- <script type="text/javascript">
-	var viewport_meta = document.getElementById('viewport-meta');
-	var viewport_timer;
-
-	// these body*Class are reused in the lbar mobile menu
-	function bodyAddClass(className){
-		if(document.body) document.body.classList.add(className);
-	}
-	function bodyRemoveClass(className){
-		if(document.body) document.body.className = document.body.className.replace(className,"");
-	}
-
-	function viewport_set() {
-		// Define our viewport meta values
-		var viewports = {
-			default: viewport_meta.getAttribute('content'),
-			mobileL: 'width=device-width,initial-scale=0.75',
-			mobileM: 'width=device-width,initial-scale=0.5',
-			mobileS: 'width=device-width,initial-scale=0.4'
-		};
-
-		// Change the viewport value based on screen.width
-		if(screen.width < 370){
-			viewport_meta.setAttribute('content', viewports.mobileS);
-			bodyAddClass("nav_mobileS");
-			bodyRemoveClass("nav_mobileM");
-			bodyRemoveClass("nav_mobileL");
-		} else if(screen.width < 505){
-			viewport_meta.setAttribute('content', viewports.mobileM);
-			bodyRemoveClass("nav_mobileS");
-			bodyAddClass("nav_mobileM");
-			bodyRemoveClass("nav_mobileL");
-		} else if (screen.width < 760){
-			viewport_meta.setAttribute('content', viewports.mobileL);
-			bodyRemoveClass("nav_mobileS");
-			bodyRemoveClass("nav_mobileM");
-			bodyAddClass("nav_mobileL");
-		} else{
-			viewport_meta.setAttribute('content', viewports.default);
-			bodyRemoveClass("nav_mobileS");
-			bodyRemoveClass("nav_mobileM");
-			bodyRemoveClass("nav_mobileL");
-		}
-	}
-
-	// Set the correct viewport value on page load
-	viewport_set();
-
-	/* attach listener to (delay) set the correct viewport after device orientation change or resize. also onload so the nav_mobile* class gets added to body AFTER <body> has loaded */
-	if(window.addEventListener){
-		window.addEventListener('load', viewport_set);
-		window.addEventListener('resize', function(){
-			clearTimeout(viewport_timer);
-			viewport_timer = setTimeout(viewport_set, 100);
-		})
-	} else{
-		window.attachEvent('onload', viewport_set)
-		window.attachEvent('onresize', function(){
-			clearTimeout(viewport_timer);
-			viewport_timer = setTimeout(viewport_set, 100);
-		})
-	}
-
-</script> -->
+<body class="theme-luminary">
     <header id="header">
         <div class="banner">
             <img src="https://www.serebii.net/BannerBg.jpg" alt="Serebii.net Header" style="height:139px">
@@ -250,9 +177,9 @@
 
         <aside id="rbar">
             <a href="/potw-sv/" class="navheader">Quote of the Week</a>
-            <div align="center">
+            <div class="quoteBox">
                <br> 
-           <p><strong>“Not having the best situation, but seeing the best in your situation is the key to happiness.”</strong>  — Marie Forleo</p>
+           <p><strong>“Not having the best situation, but seeing the best in your situation is the key to happiness.”</strong>  <span class="author">— Marie Forleo</span></p>
             <br>
             </div>
             
