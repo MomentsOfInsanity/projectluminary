@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" id="viewport-meta">
     <title>Hello World!</title>
-    <meta http-equiv="imagetoolbar" content="no">
+    <!-- <meta http-equiv="imagetoolbar" content="no"> -->
     <link href="/assets/css/personal/layout.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="/assets/css/personal/skin-luminary.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/assets/css/personal/spp-news.css" type="text/css" media="screen">
