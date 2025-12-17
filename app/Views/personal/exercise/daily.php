@@ -52,24 +52,13 @@
             </style>
     <main>
 
-        <div class="post">
+        <!-- <div class="post">
             <h2>Sunday: Daily Progress - 02-04-2024</h2>
             <p class="info"><span class="date">02-04-2024</span> by <span class="user"><a
                         href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
 
             <div class="subcat">
-                <!-- <h3>Water Tracker</h3> -->
-                <!-- <p class="title">Total bottles per day</p> -->
-                <!-- <div class="cups">
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                    <div class="cup cup-small">16.9 Oz</div>
-                </div> -->
+             
                 <br>
                 <br>
                 <h3>Beginning once again..</h3>
@@ -83,7 +72,7 @@
 
 
 
-        </div>
+        </div> -->
 
         
 
