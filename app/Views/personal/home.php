@@ -8,7 +8,7 @@
         <div class="post">
             <h2><a href="/news/2023/28-December-2023.shtml" id="28-December-2023">Pinned: Building in Progress</a></h2>
             <p class="info"><span class="date">01-22-2025</span> by <span class="user"><a
-                        href="mailto:embersmoi@gmail.com">Asura</a></span>.</p>
+                        href="mailto:embersmoi@gmail.com">Asura</a></span></p>
             <p>This is a site for me to experiment and build on. Here is a weather API connected to my github. It will
                 update automatically.<br>
                 <b>Last Update:</b> 08:00 AM EST</p>
