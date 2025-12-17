@@ -31,6 +31,7 @@ class Home extends BaseController
         $this->templatevalentine('personal/internationalgf24');
     }
 
+    // Need to readd pictures later
     public function sixthanniversary()
     {
         $this->Milestone_model = new Milestone_model();
@@ -39,9 +40,9 @@ class Home extends BaseController
 
     }
 
-    // public function archive_2024(){
-    //     $this->template('personal/archive/home_2024');
-    // }
+    public function archive_2024(){
+        $this->template('personal/archive/home_2024');
+    }
 
 
 }
