@@ -244,7 +244,7 @@
 
 /* main reading column: easier to scan */
 .theme-luminary #content main{
-  max-width: 980px;
+  max-width: 1280px;
   margin: 0 auto;
 }
 
