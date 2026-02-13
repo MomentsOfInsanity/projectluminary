@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
   <title>To my only</title>
   <style>
     :root{
@@ -159,6 +160,13 @@
       opacity:1;
       transform: translateY(0px);
     }
+
+    /* ✅ Prevent iPhone double-tap zoom on buttons */
+#sparkBtn {
+  touch-action: manipulation;
+}
+
+
   </style>
 </head>
 <body>
