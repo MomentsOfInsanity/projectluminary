@@ -44,5 +44,9 @@ class Home extends BaseController
         $this->template('personal/archive/home_2024');
     }
 
+    public function valentine2025(){
+        $this->templatevalentine('personal/valentine2025');
+    }
+
 
 }
