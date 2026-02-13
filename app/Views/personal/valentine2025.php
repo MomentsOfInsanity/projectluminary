@@ -14,11 +14,9 @@
       --border: rgba(255,255,255,.14);
     }
     *{box-sizing:border-box}
+    html, body { height: 100%; }
     body{
       margin:0;
-      min-height:100vh;
-      display:grid;
-      place-items:center;
       font-family: ui-serif, Georgia, "Times New Roman", serif;
       color:var(--text);
       background:
@@ -26,8 +24,19 @@
         radial-gradient(900px 600px at 80% 30%, rgba(170,132,255,.16), transparent 60%),
         radial-gradient(900px 700px at 50% 90%, rgba(255,215,160,.10), transparent 60%),
         linear-gradient(160deg, var(--bg1), var(--bg2));
-      overflow:hidden;
-      padding:24px;
+      /* ✅ allow scrolling */
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* page wrapper so the card can sit centered but still scroll */
+    .wrap{
+      min-height: 100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding: 22px 14px 34px;
     }
 
     /* soft floating hearts */
@@ -59,7 +68,7 @@
       background: var(--card);
       border:1px solid var(--border);
       border-radius: 22px;
-      padding: 28px 26px;
+      padding: 22px 18px;
       backdrop-filter: blur(10px);
       box-shadow: 0 22px 60px rgba(0,0,0,.35);
       position:relative;
@@ -67,15 +76,18 @@
 
     .top{
       display:flex;
-      align-items:baseline;
+      align-items:flex-start;
       justify-content:space-between;
-      gap:16px;
+      gap:12px;
       margin-bottom:10px;
+      flex-wrap: wrap;
     }
     h1{
       margin:0;
-      font-size: clamp(22px, 3.2vw, 32px);
+      font-size: clamp(20px, 5.2vw, 32px);
       letter-spacing:.2px;
+      line-height:1.15;
+      flex: 1 1 260px;
     }
     .tag{
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
@@ -90,25 +102,35 @@
 
     .poem{
       margin: 14px 0 0;
-      padding: 18px 18px;
+      padding: 16px 14px;
       border-radius: 16px;
       border: 1px solid rgba(255,255,255,.10);
       background: rgba(0,0,0,.10);
-      line-height: 1.6;
-      font-size: 17px;
+      line-height: 1.65;
+      font-size: 16px;
+      word-wrap: break-word;
     }
     .poem p{ margin: 0 0 14px; }
     .poem p:last-child{ margin-bottom:0; }
 
     .footer{
-      margin-top: 16px;
+      margin-top: 14px;
       display:flex;
-      align-items:center;
+      align-items:flex-start;
       justify-content:space-between;
       gap:12px;
+      flex-wrap: wrap;
       color: var(--muted);
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       font-size: 13px;
+    }
+
+    .actions{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      flex-wrap: wrap;
+      justify-content:flex-end;
     }
 
     button{
@@ -124,76 +146,75 @@
     button:hover{ transform: translateY(-1px); background: rgba(255,255,255,.12); }
     button:active{ transform: translateY(0px); }
 
-    .small{
-      opacity:.0;
-      transform: translateY(6px);
-      transition: opacity .25s ease, transform .25s ease;
-    }
-    .small.show{
-      opacity:1;
-      transform: translateY(0px);
-    }
-
     .note{
       margin-top: 10px;
       font-size: 14px;
       color: rgba(255,255,255,.78);
       font-style: italic;
+      opacity:0;
+      transform: translateY(6px);
+      transition: opacity .25s ease, transform .25s ease;
+    }
+    .note.show{
+      opacity:1;
+      transform: translateY(0px);
     }
   </style>
 </head>
 <body>
   <div class="floaters" aria-hidden="true" id="floaters"></div>
 
-  <main class="card">
-    <div class="top">
-      <h1>To my only, to my everything.</h1>
-      <!-- <div class="tag">i miss you too much</div> -->
-    </div>
-
-    <section class="poem" id="poem">
-      <p>
-        To be loved by you is like the warmth of the sun.<br/>
-        To be thought of by you is like a dream come true.<br/>
-        To hear you laugh is the sweetest melody,<br/>
-        your smile a moment I replay endlessly.
-      </p>
-
-      <p>
-        For the moon, for all the stars, no matter the distance,<br/>
-        how lucky am I to be under the same sky as you.
-      </p>
-
-      <p>
-        To me, you aren’t one in a million,<br/>
-        but my dearest one of one.<br/><br/>
-        Thank you for all these years,<br/>
-        for your patience, your kindness, your steady heart.<br/>
-        For teaching me what love feels like.<br/>
-        For the luxury of these moments,<br/>
-        for the happiest memories woven together.<br/>
-        A love like no other.
-      </p>
-
-      <p>
-        No matter where life takes us,<br/>
-        across every horizon,<br/>
-        I’ll always hope life is kind to you.<br/>
-        Thank you for being part of my story.<br/>
-        Just know I’ll forever be wishing for your happiest days.
-      </p>
-    </section>
-
-    <div class="footer">
-      <div>Happy Valentine’s Day 🧡</div>
-      <div style="display:flex; gap:10px; align-items:center;">
-        <!-- <button id="copyBtn" type="button">Copy poem</button> -->
-        <button id="sparkBtn" type="button">A little sparkle</button>
+  <div class="wrap">
+    <main class="card">
+      <div class="top">
+        <h1>To my only, to my everything.</h1>
+        <!-- <div class="tag">i miss you too much</div> -->
       </div>
-    </div>
 
-    <div class="note small" id="note">Copied. If you send it… send it gently.</div>
-  </main>
+      <section class="poem" id="poem">
+        <p>
+          To be loved by you is like the warmth of the sun.<br/>
+          To be thought of by you is like a dream come true.<br/>
+          To hear you laugh is the sweetest melody,<br/>
+          your smile a moment I replay endlessly.
+        </p>
+
+        <p>
+          For the moon, for all the stars, no matter the distance,<br/>
+          how lucky am I to be under the same sky as you.
+        </p>
+
+        <p>
+          To me, you aren’t one in a million,<br/>
+          but my dearest one of one.<br/><br/>
+          Thank you for all these years,<br/>
+          for your patience, your kindness, your steady heart.<br/>
+          For teaching me what love feels like.<br/>
+          For the luxury of these moments,<br/>
+          for the happiest memories woven together.<br/>
+          A love like no other.
+        </p>
+
+        <p>
+          No matter where life takes us,<br/>
+          across every horizon,<br/>
+          I’ll always hope life is kind to you.<br/>
+          Thank you for being part of my story.<br/>
+          Just know I’ll forever be wishing for your happiest days.
+        </p>
+      </section>
+
+      <div class="footer">
+        <div>Happy Valentine’s Day 🧡</div>
+        <div class="actions">
+          <!-- <button id="copyBtn" type="button">Copy poem</button> -->
+          <button id="sparkBtn" type="button">A little sparkle</button>
+        </div>
+      </div>
+
+      <div class="note" id="note">Copied. If you send it… send it gently.</div>
+    </main>
+  </div>
 
   <script>
     // floating hearts
@@ -244,8 +265,7 @@ I’ll always hope life is kind to you.
 Thank you for being part of my story.
 Just know I’ll forever be wishing for your happiest days.`;
 
-    
-    // sparkle button (tiny confetti-ish dots)
+    // sparkle button (tiny dots)
     const sparkBtn = document.getElementById("sparkBtn");
     sparkBtn.addEventListener("click", () => {
       for (let i = 0; i < 22; i++) {
