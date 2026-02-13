@@ -175,7 +175,7 @@
   <div class="wrap">
     <main class="card">
       <div class="top">
-        <h1>To my only, to my everything.</h1>
+        <h1>To my only, To my everything.</h1>
         <!-- <div class="tag">i miss you too much</div> -->
       </div>
 
