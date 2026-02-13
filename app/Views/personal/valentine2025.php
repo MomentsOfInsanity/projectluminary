@@ -148,7 +148,7 @@
   <main class="card">
     <div class="top">
       <h1>To my only, to my everything.</h1>
-      <div class="tag">i miss you too much</div>
+      <!-- <div class="tag">i miss you too much</div> -->
     </div>
 
     <section class="poem" id="poem">
@@ -185,9 +185,9 @@
     </section>
 
     <div class="footer">
-      <div>Happy Valentine’s Day ♥</div>
+      <div>Happy Valentine’s Day 🧡</div>
       <div style="display:flex; gap:10px; align-items:center;">
-        <button id="copyBtn" type="button">Copy poem</button>
+        <!-- <button id="copyBtn" type="button">Copy poem</button> -->
         <button id="sparkBtn" type="button">A little sparkle</button>
       </div>
     </div>
