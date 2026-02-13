@@ -244,16 +244,7 @@ I’ll always hope life is kind to you.
 Thank you for being part of my story.
 Just know I’ll forever be wishing for your happiest days.`;
 
-    copyBtn.addEventListener("click", async () => {
-      try {
-        await navigator.clipboard.writeText(poemText);
-        note.classList.add("show");
-        setTimeout(() => note.classList.remove("show"), 2200);
-      } catch (e) {
-        alert("Copy failed — you can select the text and copy manually.");
-      }
-    });
-
+    
     // sparkle button (tiny confetti-ish dots)
     const sparkBtn = document.getElementById("sparkBtn");
     sparkBtn.addEventListener("click", () => {
